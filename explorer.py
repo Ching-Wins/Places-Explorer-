@@ -2,19 +2,40 @@ import csv
 import os
 
 print ("Welcome to Places Explorer")
+print ("A. Add Discovery")
+print ("B. View Discovery")
 
-name = input ("Name of Location: ")
-latitude = input ("Latitude: ")
-longitude = input ("Longitude: ")
-notes = input ("Notes: ")
+choice = input ("Choose an option: ")
 
-file_exists = os.path.isfile('places.csv')
+if choice.upper() == "A":
+    name = input ("Name of Location: ")
+    latitude = input ("Latitude: ")
+    longitude = input ("Longitude: ")
+    notes = input ("Notes: ")
 
-with open('places.csv', mode='a', newline='') as file:
-    writer = csv.writer(file)
+    file_exists = os.path.isfile('places.csv')
 
-    if not file_exists:
-        writer.writerow(['Name', 'Latitude', 'Longitude', 'Notes'])
-    writer.writerow([name, latitude, longitude, notes])
+    with open('places.csv', mode='a', newline='') as file:
+        writer = csv.writer(file)
 
-print ("\nLocation saved successfully")
+        if not file_exists:
+            writer.writerow(['Name', 'Latitude', 'Longitude', 'Notes'])
+        writer.writerow([name, latitude, longitude, notes])
+
+    print ("\nLocation saved successfully")
+
+elif choice.upper() == "B":
+    if not os.path.isfile('places.csv'):
+        print("\nNo discoveries recorded.")
+
+    else:
+        print("\n=== Discovery ===")
+        with open('places.csv', mode='r', newline='') as file:
+            reader = csv.reader(file)
+            next(reader, None)
+            for number, row in enumerate(reader, start=1):
+                print(f"\nDiscovery # {number}") 
+                print(f"Name: {row[0]}")
+                print(f"Latitude: {row[1]}")
+                print(f"Longitude: {row[2]}")
+                print(f"Notes: {row[3]}")
