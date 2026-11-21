@@ -4,6 +4,7 @@ import os
 print ("Welcome to Places Explorer")
 print ("A. Add Discovery")
 print ("B. View Discovery")
+print ("C. Search Discovery")
 
 choice = input ("Choose an option: ")
 
@@ -39,3 +40,26 @@ elif choice.upper() == "B":
                 print(f"Latitude: {row[1]}")
                 print(f"Longitude: {row[2]}")
                 print(f"Notes: {row[3]}")
+
+elif choice.upper() == "C":
+    if not os.path.isfile('places.csv'):
+        print("\nNo discoveries recorded.")
+
+    else:
+        search_term = input ("\nSearch by term: ").strip().lower()
+        found = False 
+
+        with open('places.csv', mode='r') as file:
+            reader = csv.reader(file)
+            next(reader)
+            for row in reader:
+                if any(search_term in str(field).lower() for field in row):
+                    found = True
+                    print("\nMatch found")
+                    print(f"\nName: {row[0]}")
+                    print(f"Latitude: {row[1]}")
+                    print(f"Longitude: {row[2]}")
+                    print(f"Notes: {row[3]}")
+
+        if not found:
+            print("\nTerm does not exist.")
