@@ -1,9 +1,20 @@
+import csv 
+import os
+
 print ("Welcome to Places Explorer")
 
-latitude = input ("Enter Latitude: ")
-longitude = input ("Enter Longitude: ")
+name = input ("Name of Location: ")
+latitude = input ("Latitude: ")
+longitude = input ("Longitude: ")
+notes = input ("Notes: ")
 
-print ()
-print ("Location Recorded")
-print ("Latitude:", latitude)
-print ("Longitude:", longitude)
+file_exists = os.path.isfile('places.csv')
+
+with open('places.csv', mode='a', newline='') as file:
+    writer = csv.writer(file)
+
+    if not file_exists:
+        writer.writerow(['Name', 'Latitude', 'Longitude', 'Notes'])
+    writer.writerow([name, latitude, longitude, notes])
+
+print ("\nLocation saved successfully")
