@@ -1,6 +1,8 @@
 import csv 
 import os
 
+from geo_utils import calculate_distance
+
 def load_places():
     places = []
 
@@ -29,6 +31,7 @@ print ("A. Add Discovery")
 print ("B. View Discovery")
 print ("C. Search Discovery")
 print ("D. Recommend Similar Places")
+print ("E. Find Nearby Places")
 
 choice = input ("Choose an option: ")
 
@@ -105,13 +108,11 @@ elif choice.upper() == "D":
 
                 similarity_score = calculate_similarity(
                     places[i],
-                    places[j]
-                )
+                    places[j])
 
                 if similarity_score > 0:
                     recommendations.append(
-                        (places[i], places[j], similarity_score)
-                    )
+                        (places[i], places[j], similarity_score))
 
         if recommendations:
 
@@ -119,17 +120,52 @@ elif choice.upper() == "D":
 
             recommendations.sort(
                 key=lambda x: x[2],
-                reverse=True
-            )
+                reverse=True)
 
             for place1, place2, score in recommendations:
 
                 print(
                     f"\n{place1['Name of Location']} and "
                     f"{place2['Name of Location']} "
-                    f"have a similarity score of {score}."
-                )
+                    f"have a similarity score of {score}.")
 
         else:
             print("\nNo similar places found.")
 
+elif choice.upper() == "E":
+
+    if not os.path.isfile('places.csv'):
+        print("\nNo discoveries recorded.")
+
+    else:
+        places = load_places()
+        place_name = input("\nSelect a place by name: ").strip().lower()
+        selected_place = next(
+            (place for place in places
+             if place["Name of Location"].strip().lower() == place_name),
+            None)
+
+        if selected_place is None:
+            print("\nPlace does not exist.")
+        else:
+            print("\n=== Nearby Places ===")
+
+            nearby_places = []
+
+            for place in places:
+
+                if place == selected_place:
+                    continue
+
+                distance = calculate_distance(
+                    selected_place["Latitude"],
+                    selected_place["Longitude"],
+                    place["Latitude"],
+                    place["Longitude"])
+
+                nearby_places.append((place["Name of Location"], distance))
+
+            nearby_places.sort(key=lambda x: x[1])
+
+            for name, distance in nearby_places:
+                print(f"{name} ({distance:.2f} km)")
