@@ -1,10 +1,34 @@
 import csv 
 import os
 
+def load_places():
+    places = []
+
+    if os.path.isfile("places.csv"):
+        with open("places.csv", "r") as file:
+            reader = csv.DictReader(file)
+
+            for row in reader:
+                places.append(row)
+
+    return places
+
+def calculate_similarity(place1, place2):
+    score = 0
+
+    if place1["Location Type"] == place2["Location Type"]:
+        score += 1
+
+    if place1["Civilization"] == place2["Civilization"]:
+        score += 1
+
+    return score
+
 print ("Welcome to Places Explorer")
 print ("A. Add Discovery")
 print ("B. View Discovery")
 print ("C. Search Discovery")
+print ("D. Recommend Similar Places")
 
 choice = input ("Choose an option: ")
 
@@ -14,9 +38,6 @@ if choice.upper() == "A":
     latitude = input ("Latitude: ")
     longitude = input ("Longitude: ")
     civilization = input ("Civilization: ")
-    time_period = input ("Time Period: ")
-    water_source = input ("Water Source: ")
-    status = input ("Status: ")
     notes = input ("Notes: ")
 
     file_exists = os.path.isfile('places.csv')
@@ -25,8 +46,8 @@ if choice.upper() == "A":
         writer = csv.writer(file)
 
         if not file_exists:
-            writer.writerow(['Name of Location', 'Location Type', 'Latitude', 'Longitude', 'Civilization', 'Time Period', 'Water Source', 'Status', 'Notes'])
-        writer.writerow([name, location_type, latitude, longitude, civilization, time_period, water_source, status, notes])
+            writer.writerow(['Name of Location', 'Location Type', 'Latitude', 'Longitude', 'Civilization', 'Notes'])
+        writer.writerow([name, location_type, latitude, longitude, civilization, notes])
 
     print ("\nLocation saved successfully")
 
@@ -36,20 +57,16 @@ elif choice.upper() == "B":
 
     else:
         print("\n=== Discovery ===")
-        with open('places.csv', mode='r', newline='') as file:
-            reader = csv.reader(file)
-            next(reader, None) 
-            for number, row in enumerate(reader, start=1):
-                print(f"\nDiscovery # {number}") 
-                print(f"Name: {row[0]}")
-                print(f"Location Type: {row[1]}")
-                print(f"Latitude: {row[2]}")
-                print(f"Longitude: {row[3]}")
-                print(f"Civilization: {row[4]}")
-                print(f"Time Period: {row[5]}")
-                print(f"Water Source: {row[6]}")
-                print(f"Status: {row[7]}")
-                print(f"Notes: {row[8]}")
+        with open('places.csv', mode='r') as file:
+            reader = csv.DictReader(file) 
+            for row in reader:
+                print("\n=== Discovery #{} ===".format(reader.line_num - 1))
+                print(row["Name of Location"])
+                print(row["Location Type"])
+                print(row["Latitude"])
+                print(row["Longitude"])
+                print(row["Civilization"])
+                print(row["Notes"])
 
 elif choice.upper() == "C":
     if not os.path.isfile('places.csv'):
@@ -60,21 +77,59 @@ elif choice.upper() == "C":
         found = False 
 
         with open('places.csv', mode='r') as file:
-            reader = csv.reader(file)
-            next(reader)
+            reader = csv.DictReader(file)
             for row in reader:
-                if any(search_term in str(field).lower() for field in row):
+                if search_term in row["Name of Location"].strip().lower() or search_term in row["Location Type"].strip().lower():
                     found = True
-                    print("\nMatch found")
-                    print(f"\nName: {row[0]}")
-                    print(f"Location Type: {row[1]}")
-                    print(f"Latitude: {row[2]}")
-                    print(f"Longitude: {row[3]}")
-                    print(f"Civilization: {row[4]}")
-                    print(f"Time Period: {row[5]}")
-                    print(f"Water Source: {row[6]}")
-                    print(f"Status: {row[7]}")
-                    print(f"Notes: {row[8]}")
-
+                    print("\n=== Match Found ===")
+                    print(row["Name of Location"])
+                    print(row["Location Type"])
+                    print(row["Latitude"])
+                    print(row["Longitude"])
+                    print(row["Civilization"])
+                    print(row["Notes"])
         if not found:
             print("\nTerm does not exist.")
+
+elif choice.upper() == "D":
+
+    if not os.path.isfile('places.csv'):
+        print("\nNo discoveries recorded.")
+
+    else:
+        places = load_places()
+        recommendations = []
+
+        for i in range(len(places)):
+            for j in range(i + 1, len(places)):
+
+                similarity_score = calculate_similarity(
+                    places[i],
+                    places[j]
+                )
+
+                if similarity_score > 0:
+                    recommendations.append(
+                        (places[i], places[j], similarity_score)
+                    )
+
+        if recommendations:
+
+            print("\n=== Recommended Similar Places ===")
+
+            recommendations.sort(
+                key=lambda x: x[2],
+                reverse=True
+            )
+
+            for place1, place2, score in recommendations:
+
+                print(
+                    f"\n{place1['Name of Location']} and "
+                    f"{place2['Name of Location']} "
+                    f"have a similarity score of {score}."
+                )
+
+        else:
+            print("\nNo similar places found.")
+
