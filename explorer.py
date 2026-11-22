@@ -2,9 +2,9 @@
 import csv 
 import os
 
-#.py imports
+#.py imports internal to m branch
 from geo_utils import calculate_distance
-from ai_utils import find_nearest_sites, predict_civilization
+from ai_utils import find_nearest_sites, predict_civilization, prediction_confidence, find_clusters
 
 #function to load places from files
 def load_places():
@@ -38,6 +38,7 @@ print ("C. Search Discovery")
 print ("D. Recommend Similar Places")
 print ("E. Find Nearby Places")
 print ("F. Archaeological Predictor")
+print ("G. ID Site Clusters")
 
 choice = input ("Choose an option: ")
 
@@ -65,7 +66,7 @@ elif choice.upper() == "B":
         print("\nNo discoveries recorded.")
 
     else:
-        print("\n=== Discovery ===")
+        print("\n>>> Discovery <<<")
         with open('places.csv', mode='r') as file:
             reader = csv.DictReader(file) 
             for row in reader:
@@ -122,7 +123,7 @@ elif choice.upper() == "D":
 
         if recommendations:
 
-            print("\n=== Recommended Similar Places ===")
+            print("\n>>> Recommended Similar Places <<<")
 
             recommendations.sort(
                 key=lambda x: x[2],
@@ -154,7 +155,7 @@ elif choice.upper() == "E":
         if selected_place is None:
             print("\nPlace does not exist.")
         else:
-            print("\n=== Nearby Places ===")
+            print("\n>>> Nearby Places <<<")
 
             nearby_places = []
 
@@ -195,6 +196,31 @@ elif choice.upper() == "F":
             f"{site[0]} "
             f"({site[1]}) "
             f"- {site[2]:.2f} km")
-        
-prediction = predict_civilization(nearby_sites)
-print(f"\nPredicted Civilization: " f"{prediction}")
+
+    prediction = predict_civilization(nearby_sites)
+    print(f"\nPredicted Civilization: {prediction}")
+
+    confidence = prediction_confidence(nearby_sites)
+    print(f"Confidence: {confidence:.2f}%")
+
+elif choice.upper() == "G":
+
+    if not os.path.isfile('places.csv'):
+        print("\nNo discoveries recorded.")
+
+    else:
+
+        places = load_places()
+
+        clusters = find_clusters(places)
+
+        print("\n >>> Site Clusters <<<")
+
+        for location, nearby_sites in clusters:
+
+            if nearby_sites:
+
+                print(f"\n{location}")
+
+                for site in nearby_sites:
+                    print(f"  - {site}")
