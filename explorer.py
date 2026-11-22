@@ -6,12 +6,12 @@ import os
 from geo_utils import calculate_distance
 from ai_utils import find_nearest_sites, predict_civilization, prediction_confidence, find_clusters
 
-#function to load places from files
+#functions to load places from files
 def load_places():
     places = []
 
     if os.path.isfile("places.csv"):
-        with open("places.csv", "r") as file:
+        with open("places.csv", mode="r", encoding='utf-8') as file:
             reader = csv.DictReader(file)
 
             for row in reader:
@@ -52,7 +52,7 @@ if choice.upper() == "A":
 
     file_exists = os.path.isfile('places.csv')
 
-    with open('places.csv', mode='a', newline='') as file:
+    with open('places.csv', mode='a', encoding='utf-8') as file:
         writer = csv.writer(file)
 
         if not file_exists:
@@ -67,7 +67,7 @@ elif choice.upper() == "B":
 
     else:
         print("\n>>> Discovery <<<")
-        with open('places.csv', mode='r') as file:
+        with open('places.csv', mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file) 
             for row in reader:
                 print("\n=== Discovery #{} ===".format(reader.line_num - 1))
@@ -86,7 +86,7 @@ elif choice.upper() == "C":
         search_term = input ("\nSearch by term: ").strip().lower()
         found = False 
 
-        with open('places.csv', mode='r') as file:
+        with open('places.csv', mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
                 if search_term in row["Name of Location"].strip().lower() or search_term in row["Location Type"].strip().lower():
@@ -201,6 +201,8 @@ elif choice.upper() == "F":
     print(f"\nPredicted Civilization: {prediction}")
 
     confidence = prediction_confidence(nearby_sites)
+    print(confidence)
+    print(type(confidence))
     print(f"Confidence: {confidence:.2f}%")
 
 elif choice.upper() == "G":
