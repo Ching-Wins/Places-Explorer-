@@ -1,8 +1,12 @@
+#file imports
 import csv 
 import os
 
+#.py imports
 from geo_utils import calculate_distance
+from ai_utils import find_nearest_sites, predict_civilization
 
+#function to load places from files
 def load_places():
     places = []
 
@@ -26,12 +30,14 @@ def calculate_similarity(place1, place2):
 
     return score
 
+#main program
 print ("Welcome to Places Explorer")
 print ("A. Add Discovery")
 print ("B. View Discovery")
 print ("C. Search Discovery")
 print ("D. Recommend Similar Places")
 print ("E. Find Nearby Places")
+print ("F. Archaeological Predictor")
 
 choice = input ("Choose an option: ")
 
@@ -169,3 +175,26 @@ elif choice.upper() == "E":
 
             for name, distance in nearby_places:
                 print(f"{name} ({distance:.2f} km)")
+
+elif choice.upper() == "F":
+
+    latitude = input("Latitude: ")
+    longitude = input("Longitude: ")
+
+    places = load_places()
+
+    nearby_sites = find_nearest_sites(
+        latitude,
+        longitude,
+        places)
+
+    print("\nNearest Sites:")
+
+    for site in nearby_sites:
+        print(
+            f"{site[0]} "
+            f"({site[1]}) "
+            f"- {site[2]:.2f} km")
+        
+prediction = predict_civilization(nearby_sites)
+print(f"\nPredicted Civilization: " f"{prediction}")
