@@ -1,0 +1,1097 @@
+Name of Location,Location Type,Latitude,Longitude,Civilization,Notes
+Great Pyramid of Giza,Pyramid,29.9792,31.1342,Ancient Egyptian,Tomb of Pharaoh Khufu
+Saqqara Necropolis,Necropolis,29.8711,31.2165,Ancient Egyptian,Site of Step Pyramid
+Abu Simbel,Temple,22.3372,31.6258,Ancient Egyptian,Ramses II temple complex
+Karnak,Temple Complex,25.7188,32.6573,Ancient Egyptian,Major religious center
+Luxor Temple,Temple,25.6996,32.6396,Ancient Egyptian,Temple on east bank of Nile
+Valley of the Kings,Tomb Valley,25.7402,32.6014,Ancient Egyptian,Royal burial ground
+Edfu Temple,Temple,24.9779,32.8733,Ancient Egyptian,Temple of Horus
+Kom Ombo,Temple,24.4528,32.9280,Ancient Egyptian,Dual deity temple
+Philae,Temple Island,24.0258,32.8846,Ancient Egyptian,Temple of Isis
+Abydos,Religious Site,26.1848,31.9190,Ancient Egyptian,Cult center of Osiris
+Ur,Ancient City,30.9625,46.1056,Sumerian,Believed birthplace of Abraham
+Uruk,Ancient City,31.3222,45.6361,Sumerian,Among earliest cities
+Eridu,Ancient Settlement,30.8139,45.9961,Sumerian,One of oldest settlements
+Lagash,City-State,31.4170,46.2670,Sumerian,Major Sumerian city
+Nippur,Religious Center,32.1230,45.2270,Sumerian,Sacred city of Enlil
+Kish,City-State,32.5430,44.6480,Sumerian,Important early kingdom
+Babylon,Ancient City,32.5364,44.4200,Babylonian,Capital of Babylonian Empire
+Borsippa,Ancient City,32.5170,44.5500,Babylonian,Associated with Nebo
+Nineveh,Ancient City,36.3606,43.1529,Assyrian,Capital of Neo-Assyrian Empire
+Ashur,Ancient City,35.4564,43.2528,Assyrian,Original Assyrian capital
+Persepolis,Ceremonial Capital,29.9351,52.8916,Achaemenid Persian,Royal ceremonial center
+Pasargadae,Royal Capital,30.2014,53.1797,Achaemenid Persian,Tomb of Cyrus the Great
+Susa,Ancient City,32.1942,48.2576,Elamite/Persian,Administrative capital
+Ecbatana,Ancient City,34.7992,48.5146,Median,Persian imperial center
+Naqsh-e Rostam,Necropolis,29.9888,52.8740,Persian,Royal tombs
+Jericho,Ancient Settlement,31.8667,35.4500,Canaanite,One of oldest inhabited cities
+Megiddo,Archaeological Tell,32.5841,35.1821,Canaanite/Biblical,Strategic city
+Hazor,Ancient City,33.0173,35.5680,Canaanite/Levantine,Largest tell in Israel
+Byblos,Ancient Port,34.1230,35.6519,Phoenician,Major maritime city
+Tyre,Ancient Port,33.2704,35.2038,Phoenician,Famous trading hub
+Athens,Ancient City,37.9715,23.7267,Greek,Center of Classical Greece
+Acropolis of Athens,Citadel,37.9715,23.7257,Greek,Religious and defensive center
+Delphi,Sanctuary,38.4824,22.5010,Greek,Oracle of Apollo
+Olympia,Sanctuary,37.6383,21.6300,Greek,Origin of Olympic Games
+Mycenae,Citadel,37.7308,22.7540,Mycenaean,Palatial Bronze Age center
+Knossos,Palace Complex,35.2989,25.1635,Minoan,Largest Bronze Age site on Crete
+Phaistos,Palace Complex,35.0515,24.8150,Minoan,Important Minoan center
+Sparta,City-State,37.0745,22.4300,Greek,Military city-state
+Corinth,Ancient City,37.9050,22.8790,Greek,Major trade center
+Thebes,Ancient City,38.3250,23.3180,Greek,Important Greek polis
+Rome,Ancient City,41.8902,12.4922,Roman,Imperial capital
+Roman Forum,Civic Center,41.8925,12.4853,Roman,Political heart of Rome
+Pompeii,Ancient City,40.7484,14.4869,Roman,Preserved by eruption
+Herculaneum,Ancient City,40.8060,14.3480,Roman,Buried by Vesuvius
+Ostia Antica,Port City,41.7540,12.2850,Roman,Main harbor of Rome
+Hadrian's Wall,Frontier Fortification,55.0260,-2.2690,Roman,Defensive barrier
+Leptis Magna,Ancient City,32.6397,14.2905,Roman,Major African city
+Timgad,Colonial City,35.4848,6.4686,Roman,Planned Roman settlement
+Jerash,Ancient City,32.2808,35.8916,Greco-Roman,Well-preserved ruins
+Palmyra,Oasis City,34.5514,38.2747,Roman/Syrian,Desert trade center
+Mohenjo-daro,Ancient City,27.3294,68.1386,Indus Valley,Major Harappan city
+Harappa,Ancient City,30.6300,72.8770,Indus Valley,Type-site civilization center
+Dholavira,Ancient City,23.8860,70.2150,Indus Valley,Water management system
+Lothal,Port City,22.5223,72.2430,Indus Valley,Ancient dockyard
+Kalibangan,Ancient Settlement,29.4772,74.1300,Indus Valley,Fire altars discovered
+Taxila,Ancient City,33.7450,72.8400,Gandharan,Buddhist learning center
+Nalanda,University,25.1357,85.4449,Ancient Indian,Ancient university
+Sanchi,Religious Site,23.4793,77.7396,Mauryan,Buddhist stupas
+Bodh Gaya,Sacred Site,24.6951,84.9910,Ancient Indian,Buddha enlightenment site
+Ajanta Caves,Cave Complex,20.5519,75.7033,Ancient Indian,Buddhist cave art
+Angkor Wat,Temple Complex,13.4125,103.8670,Khmer,Largest religious monument
+Angkor Thom,Ancient City,13.4417,103.8580,Khmer,Royal capital
+Banteay Srei,Temple,13.5989,103.9669,Khmer,Known for carvings
+Preah Vihear,Temple,14.3906,104.6797,Khmer,Mountain temple
+Sambor Prei Kuk,Temple Complex,12.8727,105.0690,Chenla,Pre-Angkorian capital
+Borobudur,Temple, -7.6079,110.2038,Sailendra,Buddhist monument
+Prambanan,Temple Complex,-7.7520,110.4915,Mataram,Hindu temple complex
+Muaro Jambi,Temple Complex,-1.4740,103.6120,Malay,Buddhist archaeological site
+Trowulan,Ancient City,-7.5560,112.3800,Majapahit,Capital ruins
+Candi Sukuh,Temple,-7.6281,111.1316,Javanese,Distinctive pyramid temple
+Anyang,Ancient Capital,36.1030,114.3920,Shang,Last Shang capital
+Yinxu,Archaeological Site,36.1270,114.3090,Shang,Oracle bone discoveries
+Luoyang,Ancient City,34.6197,112.4540,Chinese,Multiple dynastic capitals
+Chang'an,Ancient City,34.2667,108.9000,Chinese,Tang dynasty capital
+Longmen Grottoes,Cave Complex,34.5548,112.4775,Chinese,Buddhist sculptures
+Machu Picchu,Mountain City,-13.1631,-72.5450,Inca,Royal estate
+Sacsayhuaman,Fortress,-13.5095,-71.9810,Inca,Massive stone walls
+Ollantaytambo,Town/Fortress,-13.2580,-72.2650,Inca,Ceremonial center
+Pisac,Settlement,-13.4222,-71.8464,Inca,Agricultural terraces
+Choquequirao,Mountain City,-13.5292,-72.8878,Inca,Major Inca site
+Teotihuacan,Ancient City,19.6925,-98.8438,Teotihuacan,Pyramids of Sun and Moon
+Tenochtitlan,Ancient Capital,19.4326,-99.1332,Aztec,Modern Mexico City location
+Chichen Itza,Ceremonial Center,20.6843,-88.5678,Maya,El Castillo pyramid
+Palenque,Ancient City,17.4849,-92.0460,Maya,Important Classic Maya city
+Tikal,Ancient City,17.2216,-89.6237,Maya,Large archaeological complex
+Calakmul,Ancient City,18.1088,-89.8102,Maya,Rival of Tikal
+Uxmal,Ancient City,20.3606,-89.7686,Maya,Puuc-style architecture
+Copan,Ancient City,14.8390,-89.1420,Maya,Famous stelae
+Bonampak,Ceremonial Site,16.7036,-91.0630,Maya,Colorful murals
+Caracol,Ancient City,16.7639,-89.1175,Maya,Major Belizean city
+Cahokia,Urban Center,38.6556,-90.0618,Mississippian,Monk's Mound complex
+Poverty Point,Ceremonial Site,32.6368,-91.4084,Poverty Point Culture,Earthwork complex
+Mesa Verde,Settlement,37.2309,-108.4618,Ancestral Puebloan,Cliff dwellings
+Chaco Canyon,Ceremonial Center,36.0605,-107.9589,Ancestral Puebloan,Great House structures
+Casa Grande,Settlement,32.9954,-111.5368,Hohokam,Adobe structure
+Great Zimbabwe,Ancient City,-20.2675,30.9347,Shona,Stone city ruins
+Mapungubwe,Ancient Kingdom,-22.1930,29.2430,Mapungubwe,Trade center
+Khami,Ancient City,-20.1580,28.3760,Torwa,Stone-built capital
+Nok Site,Settlement,9.3330,8.8830,Nok Culture,Early iron-working culture
+Jenné-Jeno,Ancient City,13.9060,-4.5550,Malian,Early urban center
+Carthage,Ancient City,36.8529,10.3230,Punic,Phoenician colony
+Volubilis,Ancient City,34.0730,-5.5550,Berber/Roman,Ancient Moroccan city
+Meroe,Royal City,16.9370,33.7440,Kushite,Pyramids and palaces
+Kerma,Ancient City,19.6000,30.4167,Kushite,Capital of Kingdom of Kerma
+Aksum,Ancient City,14.1319,38.7200,Aksumite,Obelisks and stelae
+Stonehenge,Megalithic Monument,51.1789,-1.8262,Neolithic Britain,Stone circle
+Avebury,Henge Monument,51.4286,-1.8540,Neolithic Britain,Largest stone circle
+Newgrange,Passage Tomb,53.6947,-6.4754,Neolithic Ireland,Solar alignment tomb
+Skara Brae,Settlement,59.0487,-3.3419,Neolithic Orkney,Stone-built village
+Carnac Stones,Megalithic Site,47.5930,-3.0790,Neolithic Europe,Standing stone alignments
+Troy,Ancient City,39.9578,26.2389,Anatolian/Bronze Age,Legendary city
+Hattusa,Ancient Capital,40.0197,34.6153,Hittite,Capital of Hittite Empire
+Gordion,Ancient City,39.6480,31.9940,Phrygian,Associated with King Midas
+Catalhoyuk,Neolithic Settlement,37.6667,32.8261,Neolithic Anatolia,Early urban settlement
+Gobekli Tepe,Ritual Site,37.2231,38.9226,Pre-Pottery Neolithic,Monumental stone pillars
+Petra,Rock-Cut City,30.3285,35.4444,Nabataean,Carved sandstone city
+Bosra,Ancient City,32.5166,36.4828,Nabataean/Roman,Famous theater
+Dura-Europos,Fortified City,34.7490,40.7290,Hellenistic,Frontier city
+Mari,Ancient City,34.5500,40.8910,Mesopotamian,Euphrates kingdom
+Ebla,Ancient City,35.8000,36.7830,Syrian,Ancient archive site
+Sigiriya,Rock Fortress,7.9570,80.7603,Sri Lankan,Ancient royal palace
+Anuradhapura,Ancient Capital,8.3114,80.4037,Sri Lankan,Ancient Buddhist capital
+Polonnaruwa,Ancient Capital,7.9403,81.0188,Sri Lankan,Medieval capital
+Mihintale,Religious Site,8.3510,80.5120,Sri Lankan,Birthplace of Buddhism in Sri Lanka
+Dambulla,Cave Temple,7.8547,80.6517,Sri Lankan,Rock cave complex
+Nan Madol,Ceremonial Center,6.8420,158.3320,Saudeleur,Micronesian stone city
+Rapa Nui Ceremonial Sites,Ceremonial Site,-27.1212,-109.3664,Rapa Nui,Moai monuments
+Orongo,Ritual Village,-27.1840,-109.4340,Rapa Nui,Birdman cult center
+Taputapuatea,Sacred Site,-16.8330,-151.3670,Polynesian,Religious sanctuary
+Leluh,Ancient City,5.3290,163.0220,Micronesian,Stone ruins
+Jomon Sannai-Maruyama,Settlement,40.8100,140.6930,Jomon,Large prehistoric settlement
+Yoshinogari,Fortified Settlement,33.3160,130.3890,Yayoi,Moated village
+Asuka,Ancient Capital,34.4830,135.8190,Japanese,Early imperial center
+Fujiwara-kyo,Ancient Capital,34.5000,135.8000,Japanese,First planned capital
+Heijo-kyo,Ancient Capital,34.6851,135.8048,Japanese,Nara period capital
+Baalbek,Temple Complex,34.0060,36.2030,Roman/Lebanese,Massive temple ruins
+Arslantepe,Mound Settlement,38.3506,38.3560,Anatolian,State formation evidence
+Nimrud,Ancient City,36.0990,43.3210,Assyrian,Major Assyrian capital
+Dur-Sharrukin,Ancient City,36.5090,43.2230,Assyrian,Capital of Sargon II
+Zhengzhou Shang City,Ancient Capital,34.7473,113.6254,Shang,Walled city
+Sanxingdui,Archaeological Site,31.0060,104.2010,Shu,Bronze masks discovered
+Jiaohe,Ancient City,42.9560,89.0520,Tocharian,Island fortress city
+Kucha,Ancient Oasis City,41.7170,82.9670,Tocharian,Silk Road center
+Merv,Oasis City,37.6610,62.1900,Persian/Central Asian,Major Silk Road city
+Samarkand,Ancient City,39.6542,66.9597,Sogdian,Historic Silk Road hub
+Bukhara,Ancient City,39.7681,64.4556,Sogdian,Major Central Asian city
+Amarna,Ancient City,27.6473,30.8998,Ancient Egyptian,Capital of Akhenaten
+Tanis,Ancient City,30.9640,31.8140,Ancient Egyptian,Capital during Third Intermediate Period
+Bubastis,Ancient City,30.5690,31.5070,Ancient Egyptian,Center of Bastet worship
+Heliopolis,Religious Center,30.1290,31.2870,Ancient Egyptian,Major solar cult center
+Elephantine,Island Settlement,24.0850,32.8870,Ancient Egyptian,Strategic Nile island
+Deir el-Medina,Village,25.7330,32.6040,Ancient Egyptian,Home of royal tomb builders
+Medinet Habu,Temple Complex,25.7200,32.6010,Ancient Egyptian,Mortuary temple of Ramses III
+Dendera,Temple Complex,26.1410,32.6730,Ancient Egyptian,Temple of Hathor
+Hierakonpolis,Ancient City,25.0840,32.7890,Predynastic Egyptian,Early political center
+Tell el-Dab'a,Settlement,30.7870,31.8340,Hyksos,Site of Avaris
+Sippar,Ancient City,33.0580,44.2950,Babylonian,Sun-god Shamash center
+Isin,City-State,31.9410,45.2920,Sumerian,Important post-Ur kingdom
+Larsa,Ancient City,31.2870,45.5180,Sumerian,Major southern Mesopotamian city
+Adab,Ancient City,31.9500,45.9800,Sumerian,Ancient religious center
+Umma,City-State,31.6330,45.8830,Sumerian,Frequent rival of Lagash
+Shuruppak,Ancient City,31.7830,45.5000,Sumerian,Associated with flood traditions
+Eshnunna,Ancient City,33.4800,44.7300,Akkadian,Powerful Mesopotamian kingdom
+Dur-Kurigalzu,Royal City,33.3470,44.2540,Kassite,Kassite capital
+Nimrud Fortress,Citadel,36.1030,43.3210,Assyrian,Royal palace center
+Khorsabad,Royal Capital,36.5090,43.2230,Assyrian,Capital of Sargon II
+Sardis,Ancient City,38.4810,28.0380,Lydian,Capital of Lydia
+Miletus,Port City,37.5310,27.2770,Greek,Philosophical center
+Ephesus,Ancient City,37.9390,27.3410,Greek/Roman,Temple of Artemis location
+Halicarnassus,Ancient City,37.0380,27.4240,Greek,Mausoleum location
+Pergamon,Ancient City,39.1310,27.1840,Hellenistic,Famous library
+Didyma,Sanctuary,37.3850,27.2660,Greek,Oracle of Apollo
+Priene,Ancient City,37.6600,27.3060,Greek,Planned Hellenistic city
+Argos,City-State,37.6330,22.7330,Greek,Ancient Peloponnesian city
+Delos,Sacred Island,37.3980,25.2670,Greek,Birthplace of Apollo myth
+Rhodes,Ancient City,36.4340,28.2170,Greek,Colossus site
+Aquileia,Roman City,45.7680,13.3680,Roman,Major northern city
+Carnuntum,Frontier City,48.1120,16.8570,Roman,Danube frontier settlement
+Vindolanda,Fort,54.9910,-2.3600,Roman,Hadrian's Wall fort
+Londinium,Ancient City,51.5079,-0.0877,Roman,Origins of London
+Eboracum,Ancient City,53.9590,-1.0820,Roman,Modern York predecessor
+Colonia Claudia Ara Agrippinensium,Ancient City,50.9380,6.9590,Roman,Origins of Cologne
+Augusta Treverorum,Ancient City,49.7490,6.6370,Roman,Modern Trier precursor
+Emerita Augusta,Roman Colony,38.9160,-6.3440,Roman,Modern Mérida
+Segovia Aqueduct,Aqueduct,40.9480,-4.1180,Roman,Engineering landmark
+Dougga,Ancient City,36.4230,9.2190,Roman,Well-preserved North African city
+Rakhigarhi,Ancient City,29.2910,76.1080,Indus Valley,Large Harappan site
+Banawali,Settlement,29.6200,75.4500,Indus Valley,Fortified town
+Surkotada,Settlement,23.6240,70.8380,Indus Valley,Possible horse remains
+Rupnagar,Settlement,30.9690,76.5250,Indus Valley,Harappan outpost
+Ganweriwala,Ancient City,28.4810,70.4530,Indus Valley,Large unexplored city
+Kausambi,Ancient City,25.3360,81.3940,Ancient Indian,Important kingdom center
+Vaishali,Ancient City,25.9870,85.1300,Ancient Indian,Associated with Buddha
+Rajgir,Ancient City,25.0170,85.4200,Ancient Indian,Ancient Magadhan capital
+Ujjain,Ancient City,23.1760,75.7880,Ancient Indian,Historic trade hub
+Pataliputra,Imperial Capital,25.6100,85.1410,Mauryan,Capital of Mauryan Empire
+My Son,Temple Complex,15.7710,108.1240,Champa,Hindu religious center
+Co Loa,Fortified City,21.1380,105.8760,Ancient Vietnamese,Ancient capital
+Oc Eo,Port City,10.2500,105.2500,Funan,Trading center
+Hoa Lu,Ancient Capital,20.2530,105.9740,Vietnamese,Capital before Hanoi
+Vat Phou,Temple Complex,14.8480,105.8170,Khmer,Important Khmer sanctuary
+Bagan,Ancient City,21.1710,94.8580,Pagan,Thousands of temples
+Sri Ksetra,Ancient City,18.8110,95.2930,Pyu,Ancient urban center
+Beikthano,Ancient City,18.5720,95.2170,Pyu,Early city-state
+Thaton,Ancient Port,16.9180,97.3670,Mon,Important Mon kingdom center
+Pegu,Ancient City,17.3360,96.4890,Mon,Historic royal city
+Yamatai,Ancient Political Center,33.3500,130.3000,Yayoi,Possible queen Himiko realm
+Dazaifu,Administrative Center,33.5120,130.5230,Japanese,Regional government seat
+Nagaoka-kyo,Ancient Capital,34.9260,135.6950,Japanese,Brief imperial capital
+Iwami Ginzan,Mining Settlement,35.1070,132.4380,Japanese,Historic silver mine
+Takamatsuzuka Tomb,Tomb,34.4620,135.8060,Japanese,Famous mural tomb
+Huanuco Pampa,Administrative Center,-9.8200,-76.8150,Inca,Provincial capital
+Vilcabamba,Settlement,-13.1160,-72.9500,Inca,Last Inca refuge
+Moray,Agricultural Site,-13.3290,-72.1960,Inca,Circular terraces
+Pikillaqta,Ancient City,-13.5830,-71.7220,Wari,Planned urban center
+Tiwanaku,Ceremonial Center,-16.5540,-68.6740,Tiwanaku,Monumental stone architecture
+Monte Alban,Ceremonial Center,17.0430,-96.7670,Zapotec,Capital of Zapotec civilization
+Mitla,Ceremonial Site,16.9270,-96.3590,Zapotec,Famous stone mosaics
+El Tajin,Ancient City,20.4340,-97.3790,Totonac,Pyramid of the Niches
+Coba,Ancient City,20.4920,-87.7340,Maya,Extensive road network
+Yaxchilan,Ancient City,16.9000,-90.9650,Maya,Riverine ceremonial center
+Dos Pilas,Ancient City,16.4870,-90.1890,Maya,Classic-period kingdom
+Quirigua,Ceremonial Center,15.2690,-89.0400,Maya,Large carved monuments
+Lamanai,Ancient City,17.7520,-88.6540,Maya,Long occupation history
+Ek Balam,Ancient City,21.1230,-88.1340,Maya,Walled ceremonial city
+Mayapan,Ancient Capital,20.6290,-89.4610,Maya,Last major Maya capital
+Nabta Playa,Ceremonial Site,22.5100,30.7300,Neolithic Saharan,Stone calendar complex
+Tassili n'Ajjer,Rock Art Site,25.5000,9.0000,Saharan Prehistoric,Famous rock art
+Dhar Tichitt,Settlement,18.4500,-9.1700,Tichitt Culture,Ancient stone settlements
+Aoudaghost,Trading Center,17.0560,-6.9320,Ghana Empire,Saharan trade city
+Kumbi Saleh,Ancient Capital,15.7700,-11.9560,Ghana Empire,Capital of Ghana Empire
+Old Dongola,Ancient City,19.1700,30.4830,Nubian,Capital of Makuria
+Napata,Royal City,18.5330,31.8500,Kushite,Early Kushite capital
+Musawwarat es-Sufra,Religious Site,16.4080,33.2770,Kushite,Temple complex
+Qasr Ibrim,Fortress,22.6500,32.0000,Nubian,Nile stronghold
+Berenike,Port City,23.9160,35.4830,Greco-Egyptian,Red Sea trading port
+Maiden Castle,Hillfort,50.6940,-2.4700,Celtic Britain,Large Iron Age fort
+Danebury,Hillfort,51.1460,-1.4830,Celtic Britain,Excavated Iron Age fort
+Traprain Law,Hillfort,55.9420,-2.6610,Celtic Britain,Important tribal center
+Alesia,Fortified Settlement,47.5360,4.4900,Gaulish,Site of Caesar's victory
+Bibracte,Oppidum,46.9230,4.0360,Gaulish,Major tribal capital
+Jebel Barkal,Religious Site,18.5370,31.8260,Kushite,Sacred mountain complex
+Tell Brak,Ancient City,36.6720,41.0430,Mesopotamian,Early urban center
+Alalakh,Ancient City,36.2330,36.3930,Amorite,Important Bronze Age kingdom
+Ugarit,Port City,35.6020,35.7840,Canaanite,Alphabetic script discoveries
+Tarsus,Ancient City,36.9170,34.8920,Cilician,Major Mediterranean city
+Tell Beydar,Ancient Settlement,36.6720,40.7420,Hurrian,Bronze Age settlement
+Chogha Zanbil,Ziggurat,32.0080,48.5210,Elamite,Massive religious complex
+Anshan,Ancient City,29.6140,52.5390,Elamite,Major Elamite capital
+Tepe Sialk,Archaeological Site,33.9850,51.4370,Proto-Elamite,Early urban center
+Shahr-e Sukhteh,Ancient City,30.6570,61.4040,Jiroft Culture,Bronze Age city
+Jiroft,Ancient Settlement,28.6740,57.7380,Jiroft Culture,Earliest urbanized region
+Tepe Hissar,Settlement Mound,36.4150,54.6730,Iranian Bronze Age,Long habitation sequence
+Godin Tepe,Settlement Mound,34.3680,47.4930,Median,Trade center
+Hasanlu,Fortified Settlement,37.0000,45.4450,Mannaean,Famous destruction layer
+Tepe Yahya,Settlement,29.0010,56.7560,Proto-Elamite,Evidence of long-distance trade
+Xanthos,Ancient City,36.3570,29.3180,Lycian,Important Lycian capital
+Patara,Port City,36.2650,29.3170,Lycian,Major Mediterranean harbor
+Myra,Ancient City,36.2420,29.9850,Lycian,Rock-cut tombs
+Termessos,Mountain City,37.0010,30.4730,Pisidian,Mountain fortress city
+Sagalassos,Ancient City,37.6760,30.5170,Pisidian,Hellenistic and Roman center
+Aphrodisias,Ancient City,37.7090,28.7230,Carian,Temple of Aphrodite
+Labraunda,Sanctuary,37.4060,27.8240,Carian,Sacred mountain sanctuary
+Arykanda,Ancient City,36.5230,29.9300,Lycian,Terraced mountain settlement
+Kaunos,Port City,36.8340,28.6250,Carian,Rock tombs and harbor
+Assos,Ancient City,39.4880,26.3370,Greek,Home of Aristotle's academy
+Selinunte,Ancient City,37.5830,12.8330,Greek Colony,Western Sicilian city
+Agrigento,Ancient City,37.2900,13.5850,Greek Colony,Valley of the Temples
+Syracuse,Ancient City,37.0750,15.2860,Greek Colony,Major Mediterranean city
+Gela,Ancient City,37.0670,14.2500,Greek Colony,Powerful Sicilian polis
+Taras,Ancient City,40.4750,17.2330,Magna Graecia,Modern Taranto
+Cumae,Ancient Colony,40.8470,14.0540,Greek Colony,First Greek colony in Italy
+Paestum,Ancient City,40.4210,15.0050,Greek Colony,Well-preserved temples
+Metapontum,Ancient City,40.3970,16.7990,Greek Colony,Agricultural center
+Locri Epizephyrii,Ancient City,38.2390,16.2670,Greek Colony,Southern Italian colony
+Himera,Ancient City,37.9990,13.9520,Greek Colony,Site of major battles
+Aventicum,Roman City,46.8800,7.0400,Roman,Capital of Roman Helvetia
+Nemausus,Roman City,43.8370,4.3600,Roman,Modern Nîmes
+Arelate,Roman City,43.6760,4.6270,Roman,Modern Arles
+Lugdunum,Roman City,45.7600,4.8350,Roman,Capital of Roman Gaul
+Mediolanum,Roman City,45.4640,9.1900,Roman,Modern Milan
+Verulamium,Roman City,51.7520,-0.3390,Roman,Near modern St Albans
+Caerleon,Roman Fortress,51.6110,-2.9540,Roman,Legionary base
+Trimontium,Roman Fort,55.6000,-2.7160,Roman,Scottish frontier fort
+Durocortorum,Roman City,49.2580,4.0310,Roman,Modern Reims
+Viminacium,Roman City,44.7360,21.2210,Roman,Major Balkan center
+Sisupalgarh,Fortified City,20.2370,85.8340,Ancient Indian,Ancient urban center
+Shravasti,Ancient City,27.5050,82.0520,Ancient Indian,Important Buddhist site
+Kanchipuram,Ancient City,12.8340,79.7030,Pallava,Temple city
+Madurai,Ancient City,9.9250,78.1190,Pandya,Ancient Tamil capital
+Poompuhar,Port City,11.1380,79.8520,Chola,Ancient maritime center
+Amaravati,Buddhist Site,16.5720,80.3570,Satavahana,Great stupa
+Thanjavur,Ancient Capital,10.7870,79.1380,Chola,Royal city
+Badami,Ancient Capital,15.9150,75.6840,Chalukya,Rock-cut temples
+Aihole,Temple Complex,16.0170,75.8820,Chalukya,Cradle of temple architecture
+Pattadakal,Temple Complex,15.9480,75.8150,Chalukya,UNESCO temple group
+Beng Mealea,Temple Complex,13.4110,104.2260,Khmer,Overgrown temple ruins
+Koh Ker,Ancient Capital,13.7830,104.5430,Khmer,Short-lived royal capital
+Phimai,Temple Complex,15.2210,102.4940,Khmer,Major outpost city
+Muang Tam,Temple Complex,14.5400,102.9930,Khmer,Khmer sanctuary
+Wat Phu Champasak,Temple Complex,14.8480,105.8170,Khmer,Sacred mountain temple
+Chiang Saen,Ancient City,20.2700,100.0820,Lanna Kingdom,Early northern Thai city
+Sukhothai,Ancient Capital,17.0170,99.7040,Sukhothai,First Thai kingdom
+Si Satchanalai,Ancient City,17.5220,99.7930,Sukhothai,Twin city of Sukhothai
+Hariphunchai,Ancient City,18.5800,99.0080,Mon,Northern kingdom center
+Wiang Kum Kam,Ancient City,18.7440,98.9830,Lanna,Early Chiang Mai capital
+Ban Chiang,Settlement,17.4080,103.2350,Bronze Age Southeast Asia,Ancient metallurgy site
+Non Nok Tha,Settlement,16.8500,102.7000,Bronze Age Southeast Asia,Early bronze culture
+Go Co Noi,Settlement,15.8560,108.1570,Sa Huynh,Ancient iron-working culture
+Khu Bua,Ancient City,13.5420,99.8450,Dvaravati,Moated settlement
+Nakhon Pathom,Ancient City,13.8190,100.0620,Dvaravati,Large Buddhist center
+U Thong,Ancient City,14.3660,99.8920,Dvaravati,Early urban center
+Yarang,Ancient City,6.7520,101.3090,Langkasuka,Ancient Malay kingdom
+Bujang Valley,Archaeological Site,5.6720,100.4210,Kedah Tua,Early trade kingdom
+Sungai Batu,Archaeological Site,5.6890,100.4370,Kedah Tua,Ancient iron industry
+Kota Gelanggi,Ancient Settlement,3.6660,102.5330,Malay,Early kingdom site
+Chan Chan,Ancient City,-8.1110,-79.0720,Chimu,Largest adobe city
+Kuelap,Fortress,-6.4200,-77.9180,Chachapoya,Mountain stronghold
+Cerro Baul,Fortified Site,-17.1110,-70.8590,Wari,Administrative center
+Wari,Ancient City,-13.1630,-74.2230,Wari,Imperial capital
+Pachacamac,Ceremonial Center,-12.2550,-76.8960,Ychsma,Major pilgrimage site
+Caral,Ancient City,-10.8920,-77.5200,Norte Chico,One of oldest American cities
+Sechin Bajo,Ceremonial Site,-9.4540,-78.3060,Norte Chico,Very early monument
+El Paraiso,Temple Complex,-11.9660,-77.1010,Norte Chico,Large ceremonial site
+Cahuachi,Ceremonial Center,-14.8250,-75.1300,Nazca,Ritual capital
+Sipan,Royal Tomb, -6.7670,-79.6070,Moche,Famous elite burials
+El Mirador,Ancient City,17.7560,-89.9020,Maya,Preclassic mega-city
+Nakbe,Ancient City,17.5730,-89.9340,Maya,One of earliest Maya cities
+San Bartolo,Ceremonial Site,17.5510,-89.4350,Maya,Famous murals
+Aguateca,Ancient City,16.4740,-90.1100,Maya,Cliff-top city
+Ceibal,Ancient City,16.5260,-90.1900,Maya,Important Maya kingdom
+Yaxha,Ancient City,17.0740,-89.4030,Maya,Lakeside ceremonial center
+Naranjo,Ancient City,17.1290,-89.2860,Maya,Rival Maya kingdom
+Piedras Negras,Ancient City,16.9160,-91.2660,Maya,Usumacinta river city
+Becan,Ancient City,18.5180,-89.4630,Maya,Moated settlement
+Edzna,Ancient City,19.5960,-90.2300,Maya,Ceremonial center
+Snaketown,Settlement,33.1010,-111.9250,Hohokam,Extensive irrigation network
+Wupatki,Pueblo Settlement,35.5240,-111.3710,Ancestral Puebloan,Northern Arizona center
+Aztec Ruins,Pueblo Complex,36.8360,-107.9990,Ancestral Puebloan,Great house community
+Bandelier,Settlement,35.7790,-106.2800,Ancestral Puebloan,Cliff dwellings
+Paquime,Ancient City,30.3670,-107.9500,Casas Grandes,Trade center
+Tell Leilan,Ancient City,36.8500,41.8900,Mesopotamian,Major Bronze Age center
+Nuzi,Ancient City,35.4670,43.2330,Hurrian,Famous cuneiform archives
+Tell Mozan,Ancient City,36.6960,41.0140,Hurrian,Ancient Urkesh
+Urkesh,Ancient Capital,36.6960,41.0140,Hurrian,Early Hurrian kingdom center
+Kar-Tukulti-Ninurta,Royal City,35.5500,43.2500,Assyrian,Founded by Tukulti-Ninurta I
+Til Barsip,Ancient City,36.8270,38.0120,Aramean,Important Euphrates settlement
+Zincirli,Fortified City,36.6820,36.8180,Aramean,Capital of Sam'al
+Carchemish,Ancient City,36.8290,38.0150,Hittite,Major Euphrates crossing
+Tell Halaf,Ancient Settlement,36.8320,40.7450,Aramean,Famous archaeological mound
+Qatna,Royal City,34.8400,36.7300,Syrian Bronze Age,Major Levantine kingdom
+Hacilar,Neolithic Settlement,37.5760,30.0970,Neolithic Anatolia,Early farming community
+Aşıklı Höyük,Neolithic Settlement,38.4050,34.2380,Neolithic Anatolia,Early village site
+Boncuklu Höyük,Neolithic Settlement,37.8200,32.4200,Neolithic Anatolia,Early agriculture evidence
+Alaca Höyük,Ancient Settlement,40.1680,34.6620,Hattian,Royal tomb discoveries
+Kültepe,Trading Colony,38.8500,35.5500,Assyrian Anatolian,Mercantile center
+Arinna,Religious Center,40.0320,34.6140,Hittite,Sacred city of the Sun Goddess
+Sapinuwa,Ancient Capital,40.8160,34.2000,Hittite,Hittite administrative center
+Tlos,Ancient City,36.5410,29.4200,Lycian,Mythological hero Bellerophon connection
+Olympos,Ancient City,36.3940,30.4730,Lycian,Pirate stronghold and harbor
+Phaselis,Port City,36.5240,30.5520,Lycian,Major Mediterranean trade port
+Messene,Ancient City,37.1780,21.9290,Greek,Well-preserved polis
+Mantinea,Ancient City,37.6160,22.4000,Greek,Important Arcadian city
+Epidaurus,Sanctuary,37.5960,23.0750,Greek,Famous healing sanctuary
+Nemea,Sanctuary,37.8170,22.7160,Greek,Site of Nemean Games
+Aegina,Island City,37.7460,23.4290,Greek,Early naval power
+Abdera,Ancient City,40.9660,24.9660,Greek,Home of Democritus
+Amphipolis,Ancient City,40.8210,23.8470,Greek,Athenian colony
+Pella,Ancient Capital,40.7580,22.5240,Macedonian,Birthplace of Alexander the Great
+Vergina,Royal Necropolis,40.4860,22.3180,Macedonian,Royal Macedonian tombs
+Dion,Religious Center,40.1710,22.4870,Macedonian,Sacred city of Zeus
+Conimbriga,Roman City,40.0990,-8.4980,Roman,Important Iberian city
+Italica,Roman City,37.4380,-6.0430,Roman,Birthplace of Trajan
+Baelo Claudia,Roman City,36.0880,-5.7740,Roman,Fishing and trade center
+Numantia,Fortified Settlement,41.8040,-2.4770,Celtiberian,Famous resistance against Rome
+Clunia,Roman Colony,41.8140,-3.4600,Roman,Major Hispania city
+Bracara Augusta,Roman City,41.5450,-8.4260,Roman,Modern Braga predecessor
+Asturica Augusta,Roman City,42.4580,-6.0530,Roman,Mining administration center
+Segobriga,Roman City,39.8860,-2.8120,Roman,Well-preserved theater
+Ammaia,Roman City,39.3120,-7.3810,Roman,Lusitanian provincial town
+Complutum,Roman City,40.4810,-3.3640,Roman,Early Madrid region settlement
+Arikamedu,Port City,11.9130,79.8340,Ancient Indian,Roman trade connections
+Keezhadi,Settlement,9.8630,78.1950,Sangam Tamil,Urban archaeological site
+Kodumanal,Industrial Settlement,11.1620,77.8870,Sangam Tamil,Bead manufacturing center
+Adichanallur,Burial Site,8.7040,77.8670,Iron Age Tamil,Important urn burials
+Dwaraka,Ancient Port,22.2440,68.9680,Ancient Indian,Historic coastal city
+Bhimbetka,Rock Shelter,22.9390,77.6120,Prehistoric India,Rock art complex
+Lumbini,Sacred Site,27.4840,83.2760,Shakya,Birthplace of Buddha
+Kapilavastu,Ancient City,27.5330,83.0500,Shakya,Traditional home of Buddha
+Sarnath,Religious Site,25.3810,83.0210,Buddhist,First sermon location
+Kushinagar,Sacred Site,26.7400,83.8880,Buddhist,Place of Buddha's parinirvana
+Mrauk U,Ancient Capital,20.5840,93.2290,Rakhine,Important Arakanese city
+Halin,Ancient City,22.4700,95.6800,Pyu,Walled urban center
+Maingmaw,Ancient City,21.7700,95.3300,Pyu,Early city-state
+Waddhamana,Ancient Site,22.0800,95.5000,Pyu,Bronze and Iron Age remains
+Banteay Chhmar,Temple Complex,13.8030,102.9880,Khmer,Massive temple enclosure
+Roluos,Ancient Capital,13.3590,103.9050,Khmer,Early Angkor center
+Ta Prohm,Temple Complex,13.4340,103.8890,Khmer,Tree-covered temple
+Preah Khan,Temple Complex,13.4700,103.8760,Khmer,Royal monastery complex
+Bakong,Temple Mountain,13.3570,103.8970,Khmer,Early Khmer state temple
+Baphuon,Temple Mountain,13.4430,103.8580,Khmer,Large Angkor temple
+Nyaunggan,Bronze Age Cemetery,21.2160,95.1830,Bronze Age Myanmar,Early metallurgy evidence
+Samrong Sen,Settlement,12.0300,104.3850,Bronze Age Cambodia,Prehistoric occupation
+Ban Non Wat,Settlement,15.2180,102.1450,Bronze Age Thailand,Long habitation sequence
+Noen U-Loke,Settlement,14.9320,102.1950,Iron Age Thailand,Moated community
+Khao Sam Kaeo,Port Settlement,10.6150,99.2110,Early Maritime Southeast Asia,Trade nexus
+Batujaya,Temple Complex,-6.0800,107.1500,Tarumanagara,Buddhist temples
+Candi Muara Takus,Temple Complex,0.3360,100.6420,Srivijaya,Buddhist monument
+Candi Plaosan,Temple Complex,-7.7420,110.5090,Mataram,Twin Buddhist temples
+Candi Sewu,Temple Complex,-7.7430,110.4930,Mataram,Large Buddhist complex
+Gunung Padang,Megalithic Site,-6.9930,107.0550,Megalithic Indonesia,Stone terrace monument
+Pumapunku,Ceremonial Site,-16.5600,-68.6790,Tiwanaku,Monumental stonework
+Iskanwaya,Ancient City,-15.1810,-68.7640,Mollo,Highland settlement
+Marcahuamachuco,Fortified Complex,-7.8130,-78.0620,Huamachuco,Regional power center
+Kuélap South Sector,Fortress,-6.4200,-77.9180,Chachapoya,Elite structures
+Túcume,Ceremonial Complex,-6.5080,-79.8570,Lambayeque,Pyramid complex
+Batán Grande,Ceremonial Center,-6.4300,-79.7350,Sicán,Major metallurgical center
+Pikillacta South Zone,Urban Sector,-13.5830,-71.7220,Wari,Administrative district
+Cerro Sechin,Ceremonial Site,-9.4420,-78.3100,Casma-Sechin,Stone relief complex
+Aspero,Coastal Settlement,-10.8900,-77.5650,Norte Chico,Maritime center
+Vichama,Ceremonial Site,-11.1090,-77.6130,Norte Chico,Monumental architecture
+Kaminaljuyu,Ancient City,14.6340,-90.5350,Maya,Highland Maya center
+Izapa,Ceremonial Center,14.9210,-92.1850,Izapan,Famous carved monuments
+Takalik Abaj,Ancient City,14.6290,-91.7330,Maya/Olmec,Cultural crossroads
+La Venta,Ceremonial Center,18.1000,-94.0500,Olmec,Colossal heads site
+San Lorenzo,Ancient City,18.1330,-94.7670,Olmec,Earliest major Olmec center
+Tres Zapotes,Ancient City,18.4680,-95.4330,Olmec,Epi-Olmec center
+Cantona,Fortified City,19.5590,-97.4450,Classic Mexican,Large urban settlement
+Xochicalco,Ceremonial Center,18.8050,-99.2990,Epiclassic Mexico,Fortified hilltop city
+Tula,Ancient Capital,20.0510,-99.3430,Toltec,Famous warrior columns
+Tzintzuntzan,Ancient Capital,19.6200,-101.6400,Purépecha,Capital of Tarascan state
+Moundville,Ceremonial Center,32.9970,-87.6310,Mississippian,Major mound complex
+Etowah,Ceremonial Center,34.1250,-84.7990,Mississippian,Platform mounds
+Spiro,Ceremonial Center,35.2410,-94.6200,Mississippian,Important trade hub
+Kincaid Mounds,Ceremonial Site,37.1700,-88.9400,Mississippian,Large polity center
+Parkin,Fortified Village,35.2670,-90.5610,Mississippian,Palisaded settlement
+Tell es-Sultan,Ancient Settlement,31.8680,35.4440,Pre-Pottery Neolithic,Ancient core of Jericho
+Ain Ghazal,Neolithic Settlement,31.9900,35.9500,Pre-Pottery Neolithic,Famous plaster statues
+Beidha,Neolithic Village,30.3760,35.4400,Neolithic Levant,Early farming community
+Basta,Neolithic Settlement,30.2440,35.5230,Neolithic Levant,Large prehistoric village
+Tell Abu Hureyra,Settlement Mound,35.8600,38.3800,Natufian/Early Neolithic,Evidence of agricultural transition
+Tell Aswad,Ancient Settlement,33.4500,36.4500,Neolithic Levant,Early domestication site
+Tell Qarassa,Settlement,32.8090,36.2670,Neolithic Levant,Important early farming site
+Jerf el Ahmar,Settlement,36.7510,38.1250,Neolithic Levant,Communal architecture
+Çayönü,Neolithic Settlement,38.2240,39.7210,Neolithic Anatolia,Transition to agriculture
+Nevali Çori,Neolithic Settlement,37.5830,38.6330,Pre-Pottery Neolithic,Monumental ritual structures
+Tell Arpachiyah,Ancient Settlement,36.4440,43.1820,Halaf Culture,Decorated pottery center
+Hamoukar,Ancient City,36.7940,41.0130,Mesopotamian,Early urban warfare evidence
+Tell al-Rimah,Ancient City,35.8790,42.6110,Assyrian,Palatial complex
+Tell Chuera,Ancient City,36.7300,39.2500,Bronze Age Syria,Large walled city
+Tell Beydar North,Settlement,36.6800,40.7500,Hurrian,Regional administrative center
+Emar,Ancient City,35.1500,38.6330,Syrian Bronze Age,Euphrates trade city
+Terqa,Ancient City,34.9500,40.5830,Amorite,Kingdom on the Euphrates
+Tell Mishrifeh,Ancient City,34.8400,36.7300,Syrian Bronze Age,Site of Qatna
+Tilmen Höyük,Ancient Settlement,36.9500,37.0500,Bronze Age Anatolia,Fortified city mound
+Tell Kabri,Palatial Center,33.0160,35.1490,Canaanite,Massive Middle Bronze palace
+Mallos,Ancient City,36.7890,35.9700,Cilician,Important river city
+Soli Pompeiopolis,Ancient City,36.7670,34.5500,Cilician,Port and trading center
+Anemurium,Port City,36.0760,32.8100,Roman Anatolia,Southern coastal settlement
+Perge,Ancient City,36.9610,30.8520,Pamphylian,Major regional center
+Aspendos,Ancient City,36.9390,31.1720,Pamphylian,Famous Roman theater
+Side,Port City,36.7670,31.3880,Pamphylian,Ancient maritime metropolis
+Laodicea on Lycus,Ancient City,37.8360,29.1060,Hellenistic,Riches from textile trade
+Hierapolis,Thermal City,37.9250,29.1220,Hellenistic,Ruins beside Pamukkale
+Aizanoi,Ancient City,39.1930,29.6170,Phrygian,Temple of Zeus
+Smyrna,Ancient City,38.4190,27.1280,Greek/Ionian,Modern Izmir predecessor
+Naxos,Sacred Island,37.1030,25.3760,Greek Cycladic,Important Aegean center
+Paros,Island Settlement,37.0840,25.1500,Greek Cycladic,Famous marble source
+Thera,Ancient Settlement,36.4040,25.3960,Minoan,Site of Akrotiri
+Akrotiri,Bronze Age Town,36.3490,25.4030,Minoan,Volcanically preserved settlement
+Lefkandi,Ancient Settlement,38.4000,23.8000,Greek,Important Dark Age site
+Tiryns,Citadel,37.5980,22.8050,Mycenaean,Cyclopean fortifications
+Pylos,Palace Complex,36.9130,21.6960,Mycenaean,Palace of Nestor
+Gla,Fortified Settlement,38.4680,23.0900,Mycenaean,Large enclosed citadel
+Ialysos,Ancient City,36.4200,28.1550,Greek,Dorian settlement
+Lindos,Ancient City,36.0910,28.0870,Greek,Rhodian acropolis
+Aquincum,Roman City,47.5610,19.0460,Roman,Modern Budapest precursor
+Singidunum,Roman City,44.8170,20.4670,Roman,Modern Belgrade predecessor
+Sirmium,Roman City,44.9670,19.6100,Roman,Imperial capital
+Naissus,Roman City,43.3200,21.8950,Roman,Birthplace of Constantine
+Philipopolis,Roman City,42.1350,24.7450,Roman,Modern Plovdiv predecessor
+Tomis,Roman Port,44.1730,28.6380,Roman,Modern Constanța predecessor
+Apulum,Roman City,46.0700,23.5800,Roman,Dacian provincial center
+Porolissum,Roman Frontier City,47.1800,23.0600,Roman,Dacia frontier stronghold
+Ulpia Traiana Sarmizegetusa,Roman Colony,45.5150,22.7870,Roman,Dacia capital
+Noricum Virunum,Roman City,46.6230,14.3050,Roman,Provincial capital
+Sarmizegetusa Regia,Mountain Capital,45.6210,23.3050,Dacian,Royal center
+Costesti Fortress,Fortress,45.7050,23.1540,Dacian,Hilltop defensive site
+Blidaru Fortress,Fortress,45.6940,23.1950,Dacian,Part of Dacian defense network
+Piatra Rosia Fortress,Fortress,45.7140,23.2120,Dacian,Strategic mountain outpost
+Capidava,Fortified Settlement,44.5590,28.1800,Dacian/Roman,Danube crossing point
+Argedava,Ancient Settlement,44.3240,26.1040,Dacian,Possible royal residence
+Buridava,Ancient Settlement,45.1010,24.3580,Dacian,Commercial center
+Cumidava,Fortified Settlement,45.6500,25.3500,Dacian,Mountain frontier site
+Piroboridava,Ancient Settlement,46.5660,26.9160,Dacian,Eastern stronghold
+Zargidava,Settlement,46.8500,27.7300,Dacian,Cultural center
+Sisupalgarh West Sector,Urban Area,20.2300,85.8350,Ancient Indian,Fortified district
+Eran,Ancient City,24.0980,78.3850,Gupta,Important inscriptions
+Vidisha,Ancient City,23.5260,77.8090,Ancient Indian,Trade crossroads
+Kaushambi Citadel,Citadel,25.3380,81.3950,Ancient Indian,Fortified section
+Mathura,Ancient City,27.4920,77.6730,Ancient Indian,Religious and artistic center
+Ahichhatra,Ancient City,28.3820,79.4160,Panchala,Northern kingdom capital
+Atranjikhera,Settlement,27.6760,78.4470,Iron Age India,Painted Grey Ware culture
+Chandraketugarh,Port Settlement,22.7000,88.7000,Ancient Bengal,Trade connections
+Mahasthangarh,Fortified City,24.9610,89.3420,Ancient Bengal,Early urban center
+Mainamati,Religious Complex,23.4600,91.1000,Buddhist,Monastic archaeological zone
+Wat Mahathat Sukhothai,Temple Complex,17.0160,99.7050,Sukhothai,Principal royal temple
+Wat Si Chum,Temple Complex,17.0210,99.7010,Sukhothai,Giant seated Buddha
+Mueang Fa Daet,Ancient City,16.5460,103.6220,Dvaravati,Moated urban center
+Kok Phanom Di,Settlement,13.3500,101.0830,Bronze Age Thailand,Coastal cemetery site
+Wat Phra Phai Luang,Temple Complex,17.0190,99.6990,Sukhothai,Early Khmer influence
+Phu Phra Bat,Megalithic Site,17.7400,102.4700,Prehistoric Thailand,Rock formations and shrines
+Ban Kao,Settlement,13.9790,99.5350,Neolithic Thailand,Important prehistoric site
+Khao Wong Prachan Valley,Metallurgical Site,14.9500,100.6500,Bronze Age Thailand,Copper production center
+Tha Kae,Ancient Settlement,14.8200,100.6500,Dvaravati,Regional population center
+Dong Son,Settlement,21.6440,105.2200,Dong Son,Famous bronze drum culture
+Quelepa,Ceremonial Center,13.4100,-88.1200,Lenca,Monumental architecture
+Los Naranjos,Ancient Settlement,14.9200,-88.0400,Lenca,Trade center
+Tazumal,Ceremonial Center,13.9870,-89.6740,Maya,Major western settlement
+Joya de Cerén,Ancient Village,13.8270,-89.3620,Maya,"Pompeii of the Americas"
+Cerros,Ancient City,18.3500,-88.0330,Maya,Coastal trading center
+Altun Ha,Ancient City,17.7620,-88.6540,Maya,Famous jade discoveries
+Cahal Pech,Ancient City,17.1580,-89.0690,Maya,Hilltop ceremonial center
+Xunantunich,Ancient City,17.0890,-89.1420,Maya,Large pyramid complex
+El Pilar,Ancient City,17.1270,-89.1570,Maya,Border-region settlement
+Nim Li Punit,Ceremonial Center,16.3170,-88.7500,Maya,Famous stelae
+Tolokwa,Village Site,35.4950,-118.5890,Kawaiisu,Large prehistoric settlement
+Keet Seel,Cliff Dwelling,36.7800,-110.5300,Ancestral Puebloan,Remarkably preserved site
+Betatakin,Cliff Dwelling,36.6760,-110.5400,Ancestral Puebloan,Navajo National Monument
+Salmon Ruins,Great House,36.8260,-108.0000,Ancestral Puebloan,Chacoan outlier
+Chetro Ketl,Great House,36.0600,-107.9550,Ancestral Puebloan,Major Chaco structure
+Pueblo Bonito,Great House,36.0605,-107.9620,Ancestral Puebloan,Largest Chaco Canyon building
+Kin Kletso,Great House,36.0100,-107.9600,Ancestral Puebloan,Compact Chacoan structure
+Casa Rinconada,Ceremonial Site,36.0610,-107.9660,Ancestral Puebloan,Large great kiva
+Lowry Ruin,Pueblo Complex,37.5850,-108.9910,Ancestral Puebloan,Northern outlier community
+Hovenweep,Fortified Settlement,37.3830,-109.0820,Ancestral Puebloan,Tower complexes
+Lepenski Vir,Settlement,44.5500,22.0200,Mesolithic Europe,Famous Danube archaeological site
+Vinča Belo Brdo,Settlement,44.7550,20.6010,Vinča Culture,Large prehistoric tell
+Tărtăria,Settlement,45.9000,23.4160,Neolithic Europe,Tărtăria tablets discovered
+Karanovo,Settlement Mound,42.6160,25.8000,Karanovo Culture,Important stratified site
+Durankulak,Settlement,43.7000,28.5660,Varna Culture,Early European community
+Provadia-Solnitsata,Fortified Settlement,43.1830,27.4330,Chalcolithic Bulgaria,Ancient salt production center
+Varna Necropolis,Necropolis,43.2140,27.9140,Varna Culture,Earliest known gold artifacts
+Cucuteni,Settlement,47.2830,26.9330,Cucuteni-Trypillia,Large prehistoric culture
+Maidanetske,Mega-Settlement,48.8660,30.7830,Trypillia Culture,Massive Neolithic settlement
+Talianki,Mega-Settlement,48.8160,30.7000,Trypillia Culture,One of Europe’s largest prehistoric sites
+Los Millares,Fortified Settlement,36.9950,-2.5410,Chalcolithic Iberia,Copper Age settlement
+Zambujal,Fortified Settlement,39.2990,-9.2600,Chalcolithic Iberia,Early defensive architecture
+Castro de Santa Trega,Hillfort,41.8810,-8.8730,Celtic Iberia,Iron Age fortification
+Numancia Upper Citadel,Citadel,41.8040,-2.4770,Celtiberian,Resistance against Rome
+Monte Bernorio,Hillfort,42.7920,-4.4220,Celtiberian,Large fortified settlement
+Ullastret,Fortified Settlement,42.0000,3.0700,Iberian,Major northeastern Iberian town
+Puente Tablas,Oppidum,37.8000,-3.7830,Iberian,Walled urban center
+Cástulo,Ancient City,38.0160,-3.6330,Iberian,Important trade settlement
+Cerro de las Cabezas,Fortified Settlement,38.7830,-3.3830,Iberian,Well-preserved oppidum
+La Bastida,Fortified Settlement,37.6160,-1.7830,Argaric Culture,Bronze Age power center
+Heuneburg,Hillfort,48.0830,9.4330,Celtic,Early urban center north of Alps
+Manching,Oppidum,48.7160,11.5000,Celtic,Large Iron Age settlement
+Titelberg,Oppidum,49.5460,5.9000,Celtic,Treveri tribal center
+Bourges Avaricum,Ancient City,47.0830,2.4000,Gaulish,Major Gallic settlement
+Corent,Oppidum,45.6700,3.1800,Gaulish,Arvernian center
+Gergovia,Oppidum,45.7200,3.1400,Gaulish,Vercingetorix stronghold
+Entremont,Oppidum,43.5290,5.4410,Celtic,Ligurian capital
+Mont Beuvray,Oppidum,46.9230,4.0360,Gaulish,Bibracte archaeological area
+Tarodunum,Fortified Settlement,48.0170,7.8000,Celtic,Rhine Valley center
+Otzenhausen,Ring Fort,49.6330,7.0000,Celtic,Large circular fortification
+Takht-e Soleyman,Religious Complex,36.6050,47.2360,Sassanian,Sacred fire temple site
+Firuzabad,Ancient City,28.8430,52.5700,Sassanian,Circular city plan
+Bishapur,Ancient City,29.7780,51.5730,Sassanian,Royal city founded by Shapur I
+Darabgird,Ancient City,28.7510,54.5440,Sassanian,Walled urban center
+Nisa,Royal Capital,37.9490,58.2080,Parthian,Early Parthian capital
+Hecatompylos,Ancient City,36.3000,55.0000,Parthian,Historic royal residence
+Old Merv,City Oasis,37.6670,62.1830,Parthian,Important Silk Road city
+Nush-i Jan,Fortified Site,35.6760,48.6340,Median,Temple and fortress complex
+Tepe Nushijan,Religious Center,35.6760,48.6340,Median,Iron Age sanctuary
+Qaleh Yazdgird,Fortified Complex,34.5360,46.2700,Parthian,Royal architectural remains
+Aorneyxokwe,Settlement,-19.2500,23.7500,Tsodilo Culture,Ancient occupation area
+Tsodilo Hills,Rock Art Site,-18.7670,21.7500,San,Thousands of rock paintings
+Nqoma,Settlement,-18.9000,22.7500,Early Southern African,Prehistoric occupation
+Mosega,Settlement,-24.4000,25.5000,Tswana,Historic regional center
+Bosutswe,Hilltop Settlement,-22.4500,26.1500,Tswana,Precolonial trade site
+Schroda,Settlement,-22.1500,29.9500,Leokwe,Early Iron Age center
+K2 Settlement,Settlement,-22.2000,29.9500,Mapungubwe Culture,Predecessor to Mapungubwe
+Lydenburg Site,Settlement,-25.5000,30.2500,Early Iron Age,Famous ceramic heads
+Thulamela,Fortified Settlement,-22.4300,31.2200,Venda,Walled hilltop community
+Bambandyanalo,Settlement,-22.1900,29.2500,Mapungubwe Culture,Trade-based society
+Aksum Stelae Field,Monument Complex,14.1320,38.7210,Aksumite,Famous granite obelisks
+Yeha,Religious Site,14.2780,39.0420,Sabaean,Earliest monumental architecture in Ethiopia
+Matara,Ancient City,14.3750,39.4750,Aksumite,Urban trading center
+Qohaito,Ancient City,14.8370,39.3770,Aksumite,Highland settlement
+Adulis,Port City,15.2670,39.4500,Aksumite,Red Sea trade hub
+Wadi Jarf,Port Site,28.8860,32.6920,Ancient Egyptian,Earliest known harbor
+Serabit el-Khadim,Mining Site,29.0330,33.4180,Ancient Egyptian,Turquoise mining center
+Timna Valley,Mining Site,29.7860,34.9890,Edomite/Canaanite,Copper production center
+Kuntillet Ajrud,Fortified Waystation,30.8830,34.5000,Iron Age Levant,Desert crossroads
+Tel Arad,Fortified Settlement,31.2580,35.1330,Judahite,Ancient desert fortress
+Beth Shean,Ancient City,32.4970,35.5000,Canaanite/Biblical,Continuously occupied site
+Lachish,Fortified City,31.5640,34.8390,Judahite,Major Iron Age city
+Gezer,Ancient City,31.8570,34.9170,Canaanite,Strategic trade city
+Tel Dan,Ancient City,33.2480,35.6530,Israelite,Northern kingdom center
+Samaria,Ancient Capital,32.2760,35.1880,Israelite,Capital of northern kingdom
+Shiloh,Religious Site,32.0540,35.2890,Israelite,Important sanctuary
+Arad Citadel,Citadel,31.2580,35.1330,Judahite,Military garrison
+Beersheba,Ancient Settlement,31.2520,34.7910,Israelite,Southern administrative center
+Ashkelon,Port City,31.6690,34.5710,Philistine,Important Mediterranean harbor
+Ekron,Ancient City,31.8580,34.8300,Philistine,Industrial olive oil center
+Meroitic Royal Baths,Bath Complex,16.9370,33.7430,Kushite,Royal ceremonial structures
+Nuri,Necropolis,18.2660,31.8830,Kushite,Pyramids of Kushite kings
+El Kurru,Necropolis,18.3660,31.8500,Kushite,Earliest royal pyramids
+Sai Island,Settlement,20.7160,30.3330,Nubian,Trade center on Nile
+Amara West,Ancient City,20.8000,30.3500,Nubian,Egyptian colonial town
+Faras,Religious Center,21.2160,30.7330,Nubian,Christian cathedral remains
+Sedeinga,Necropolis,20.5830,30.3500,Nubian,Large cemetery complex
+Tumbus,Settlement,20.9660,30.4330,Nubian,Ancient river crossing
+Sesebi,Temple Town,21.9500,31.5830,Nubian,Religious center
+Kawa,Temple Complex,19.0160,30.4660,Kushite,Temple dedicated to Amun
+Marib,Ancient Capital,15.4620,45.3250,Sabaean,Famous dam and capital
+Sirwah,Ancient City,15.4330,45.0170,Sabaean,Religious and political center
+Shabwa,Ancient City,15.3830,47.0170,Hadramawt,Frankincense trade center
+Timna Yemen,Ancient Capital,14.5500,44.4330,Qatabanian,Kingdom capital
+Baraqish,Fortified City,16.0330,44.6500,Minaean,Caravan trade center
+Najran Ancient City,Oasis Settlement,17.4920,44.1270,South Arabian,Trade crossroads
+Qaryat al-Faw,Ancient City,20.2800,45.1200,Kindah,Important Arabian market city
+Dedan,Ancient Oasis City,26.6160,37.9160,Lihyanite,Trade route settlement
+Hegra,Rock-Cut City,26.8000,37.9500,Nabataean,Southern Nabataean city
+Tayma,Oasis Settlement,27.6160,38.5500,North Arabian,Ancient caravan center
+Pohnpei Stone Quarries,Industrial Site,6.8400,158.3000,Saudeleur,Source of Nan Madol stones
+Likinlam,Settlement,6.9000,158.2500,Saudeleur,Ceremonial district
+Menka,Settlement,7.3500,151.7500,Micronesian,Ancient island community
+Tofol Ruins,Settlement,5.3160,163.0000,Micronesian,Stone architecture remains
+Talietumu Fortress,Fortress,-13.3160,-176.1830,Tongan,Polynesian stronghold
+Mu'a,Royal Center,-21.1330,-175.0670,Tongan,Ancient royal capital
+Ha'amonga 'a Maui,Monument,-21.1550,-175.0680,Tongan,Stone trilithon structure
+Taputapuatea Marae,Ritual Site,-16.8330,-151.3670,Polynesian,Regional ceremonial complex
+Ahu Tongariki,Ceremonial Site,-27.1250,-109.2760,Rapa Nui,Largest moai platform
+Ahu Akivi,Ceremonial Site,-27.1020,-109.3960,Rapa Nui,Seven famous moai
+Khirbet al-Mafjar,Palace Complex,31.8710,35.4580,Umayyad,Early Islamic desert palace
+Qasr Amra,Desert Castle,31.8010,36.5830,Umayyad,Famous frescoes
+Qasr al-Kharana,Fortified Structure,31.8000,36.3660,Umayyad,Desert waystation
+Qasr al-Hayr al-Gharbi,Fortified Settlement,34.5670,38.0830,Umayyad,Agricultural palace complex
+Qasr al-Hayr al-Sharqi,Fortified Settlement,34.3330,39.2670,Umayyad,Eastern desert city
+Anjar,Planned City,33.7280,35.9300,Umayyad,Grid-planned settlement
+Resafa,Fortified City,35.6290,39.0280,Byzantine/Umayyad,Pilgrimage center
+Bosra Citadel,Citadel,32.5160,36.4820,Roman/Islamic,Major fortress
+Apamea,Ancient City,35.4130,36.3960,Hellenistic,Colonnaded avenue
+Dibsi Faraj,Fortified Settlement,35.8920,38.1500,Medieval Syria,Early fortified town
+Tell Tuna el-Gebel,Necropolis,27.7810,30.7320,Ancient Egyptian,Sacred animal burials
+Antinoopolis,Ancient City,27.8130,30.8790,Roman Egypt,Founded by Hadrian
+Coptos,Ancient City,25.9140,32.8110,Ancient Egyptian,Major trade route center
+El Kab,Ancient City,25.1370,32.7840,Ancient Egyptian,Walled settlement
+Qift Temple Precinct,Religious Site,25.9140,32.8110,Ancient Egyptian,Cult center of Min
+Zawyet el-Aryan,Pyramid Complex,29.9330,31.1500,Ancient Egyptian,Unfinished pyramids
+Meidum,Pyramid Complex,29.3910,31.1570,Ancient Egyptian,Transitional pyramid design
+Hawara,Pyramid Complex,29.2650,30.9050,Ancient Egyptian,Pyramid of Amenemhat III
+Lahun,Settlement,29.2390,30.9700,Ancient Egyptian,Pyramid town
+Tell Basta,Ancient City,30.5690,31.5070,Ancient Egyptian,Bubastis archaeological zone
+Tell el-Farkha,Settlement Mound,30.9330,31.8500,Predynastic Egyptian,Elite burials discovered
+Nekhen,Ceremonial Center,25.0840,32.7890,Predynastic Egyptian,Earliest kingship evidence
+Tell Ibrahim Awad,Settlement,30.9330,31.6830,Predynastic Egyptian,Early temple remains
+Kom el-Hisn,Ancient Settlement,30.7830,30.7170,Ancient Egyptian,Delta agricultural center
+Mendes,Ancient City,30.9670,31.5170,Ancient Egyptian,Capital of a nome
+Canopus,Port City,31.3180,30.0800,Ancient Egyptian,Major Nile Delta port
+Heracleion,Submerged City,31.3360,30.1200,Ancient Egyptian,Flooded Mediterranean port
+Pelusium,Fortified City,31.0400,32.5500,Ancient Egyptian,Eastern frontier city
+Tanis Royal Necropolis,Necropolis,30.9640,31.8140,Ancient Egyptian,Royal tomb complex
+Tell el-Retaba,Fortified Settlement,30.5800,32.1700,Ancient Egyptian,Eastern Delta fortress
+Tell Ahmar,Ancient Settlement,36.8230,38.0170,Aramean,Important Euphrates site
+Arslan Tash,Fortified City,36.8500,40.2000,Neo-Hittite,Decorated palace remains
+Malatya Arslantepe Palace,Palace Complex,38.3500,38.3560,Neo-Hittite,Elite administrative center
+Tell Tayinat,Ancient City,36.2280,36.2310,Neo-Hittite,Kingdom capital
+Kummanni,Religious Center,37.5830,36.9330,Hurrian,Holy city of Kizzuwatna
+Alacahöyük Royal Tombs,Necropolis,40.1680,34.6620,Hattian,Famous princely burials
+Şarhöyük,Ancient City,39.7760,30.5190,Phrygian,Site of Dorylaeum
+Midas City,Rock Monument Complex,39.1340,31.5850,Phrygian,Famous rock facade
+Gavurkale,Religious Site,39.3550,32.5410,Hittite,Rock relief sanctuary
+Yassıhöyük,Ancient City,39.6480,31.9940,Phrygian,Gordion archaeological mound
+Abaiang Stone Structures,Ceremonial Site,1.9000,173.0000,Micronesian,Ancient island constructions
+Nan Madol Central District,Ceremonial Complex,6.8420,158.3320,Saudeleur,Political center
+Menka Harbor Site,Port Settlement,7.3500,151.7500,Micronesian,Ancient maritime hub
+Pohnpei Royal Enclosure,Fortified Compound,6.9000,158.2500,Saudeleur,Elite residence area
+Kosrae Stone Canals,Canal System,5.3200,163.0200,Micronesian,Engineered waterways
+Lelu Harbor District,Port City,5.3290,163.0220,Micronesian,Trade center
+Fachau,Settlement,7.4670,151.8500,Micronesian,Ancient habitation area
+Pekin Islet Complex,Ceremonial Site,6.9000,158.3000,Micronesian,Ritual structures
+Wene Settlement,Settlement,7.4500,151.8500,Micronesian,Early island center
+Malem Ceremonial Area,Ritual Site,5.3000,163.0000,Micronesian,Traditional gathering place
+Ahu Nau Nau,Ceremonial Site,-27.1190,-109.2800,Rapa Nui,Well-preserved moai
+Ahu Te Pito Kura,Ceremonial Site,-27.0830,-109.2870,Rapa Nui,Largest transported moai
+Ahu Vinapu,Ceremonial Site,-27.1830,-109.4330,Rapa Nui,Precision stonework
+Rano Raraku,Quarry,-27.1230,-109.2830,Rapa Nui,Source of most moai
+Rano Kau,Ritual Landscape,-27.1830,-109.4330,Rapa Nui,Volcanic ceremonial area
+Anakena,Settlement,-27.0730,-109.3230,Rapa Nui,Traditional landing site
+Ahu Huri a Urenga,Ceremonial Site,-27.1160,-109.3660,Rapa Nui,Astronomical alignment
+Te Peu,Settlement,-27.1830,-109.5500,Rapa Nui,Coastal habitation area
+Vaihu Platform,Ceremonial Site,-27.1830,-109.4830,Rapa Nui,Fallen moai complex
+Tongariki Quarry Zone,Industrial Site,-27.1250,-109.2760,Rapa Nui,Associated stoneworking area
+Nanih Waiya,Ceremonial Mound,32.8000,-89.3330,Choctaw,Sacred origin site
+Winterville Mounds,Ceremonial Center,33.5080,-91.0550,Mississippian,Platform mound complex
+Bottle Creek,Ceremonial Center,30.8670,-87.9170,Mississippian,Island mound center
+Town Creek,Ceremonial Center,35.4490,-80.1910,South Appalachian Mississippian,Palisaded mound site
+Kolomoki,Ceremonial Center,31.5220,-84.9830,Woodland Culture,Large mound complex
+Crystal River,Ceremonial Center,28.8960,-82.6140,Deptford/Hopewell,Monumental earthworks
+Pinson Mounds,Ceremonial Site,35.4900,-88.7400,Middle Woodland,Large mound group
+Marksville Earthworks,Ceremonial Site,31.1280,-92.0650,Marksville Culture,Geometric earthworks
+Hopewell Mound Group,Ceremonial Center,39.3150,-82.9870,Hopewell,Major ceremonial complex
+Newark Earthworks,Earthwork Complex,40.0580,-82.4430,Hopewell,Largest geometric earthworks
+Seip Earthworks,Ceremonial Site,39.2300,-83.0830,Hopewell,Large burial mound
+Mound City,Ceremonial Center,39.3760,-82.9850,Hopewell,Concentration of ceremonial mounds
+Fort Ancient Hilltop Enclosure,Enclosure,39.4020,-84.0940,Hopewell,Large hilltop earthwork
+Serpent Mound,Effigy Mound,39.0270,-83.4300,Fort Ancient Culture,Serpent-shaped earthwork
+Cahokia Woodhenge,Astronomical Site,38.6560,-90.0620,Mississippian,Solar observation circle
+Emerald Mound,Ceremonial Site,38.6650,-90.0550,Mississippian,Regional ritual center
+Toltec Mounds,Ceremonial Center,34.7840,-92.1370,Plum Bayou Culture,Earthwork complex
+Parkin Temple Mound,Ceremonial Site,35.2670,-90.5610,Mississippian,Elite ceremonial area
+Anna Mounds,Ceremonial Center,37.4530,-89.2200,Mississippian,Southern Illinois mound group
+Angel Mounds,Ceremonial Center,37.9380,-87.5260,Mississippian,Large fortified center
+Nokalakevi,Ancient City,42.2730,42.1700,Colchian,Western Georgian center
+Vani,Ancient City,42.0850,42.5220,Colchian,Religious sanctuary city
+Armaztsikhe,Fortified Settlement,41.8420,44.7210,Iberian Caucasus,Royal residence
+Dmanisi,Ancient Settlement,41.3310,44.3420,Early Hominin,Famous human fossils
+Dedoplis Gora,Hillfort,41.4450,45.1640,Iberian Caucasus,Defensive settlement
+Sarkel,Fortress,47.7030,42.2410,Khazar,Major river fortress
+Balanjar,Ancient City,43.5830,46.6500,Khazar,Early Khazar capital
+Semender,Ancient City,43.1000,47.5000,Khazar,Coastal royal city
+Atil,Capital City,47.1000,47.4500,Khazar,Volga delta capital
+Belendzher,Fortified Settlement,43.5000,46.6000,Khazar,Early political center
+Kishkintenkiz,Ancient Settlement,43.1500,68.2500,Kangju,Central Asian fortified town
+Otrar,Ancient City,42.8500,68.3000,Kangju,Silk Road crossroads
+Sauran,Fortified City,43.5150,67.7700,Turkic,Large walled settlement
+Taraz,Ancient City,42.9000,71.3670,Sogdian,Major Silk Road center
+Kulan,Ancient City,42.9170,72.7330,Sogdian,Trade settlement
+Balasagun,Ancient Capital,42.7460,74.6010,Karakhanid,Important medieval Silk Road city
+Ak-Beshim,Ancient City,42.8200,74.6500,Sogdian,Identified with Suyab
+Suyab,Ancient City,42.8200,74.6500,Turkic,Western Turkic capital
+Navekat,Ancient City,42.8900,74.9800,Sogdian,Commercial center
+Krasnaya Rechka,Settlement,42.8800,74.9800,Sogdian,Urban Silk Road site
+Afrasiab,Ancient City,39.6610,66.9770,Sogdian,Ancient Samarkand core
+Panjikent,Ancient City,39.4950,67.6090,Sogdian,Famous mural discoveries
+Kampyr Tepe,Fortified Settlement,37.2220,67.2810,Bactrian,Oxus frontier town
+Dalverzin Tepe,Ancient City,37.0880,66.8630,Kushan,Buddhist and urban center
+Khalchayan,Royal Site,38.1000,67.0830,Kushan,Dynastic sculptures discovered
+Airtam,Religious Site,37.2220,67.2810,Kushan,Buddhist reliefs
+Toprak Kala,Ancient City,41.9280,60.8220,Khwarazmian,Fortified capital
+Ayaz Kala,Fortress,41.8380,61.1080,Khwarazmian,Desert fortress complex
+Koy Krylgan Kala,Fortified Settlement,41.7500,61.1330,Khwarazmian,Circular fortress
+Janbas Kala,Fortress,41.6500,61.0330,Khwarazmian,Defensive outpost
+Nyaunggan Cemetery,Burial Site,21.2170,95.1840,Bronze Age Myanmar,Important cemetery complex
+Halin Wall Complex,Fortified City,22.4700,95.6800,Pyu,Extensive city walls
+Binnaka,Ancient City,22.3000,95.5500,Pyu,Urban archaeological remains
+Sri Deva,Ancient City,19.4330,95.2170,Pyu,Large walled settlement
+Ksetra North Sector,Urban District,18.8110,95.2930,Pyu,Royal quarter remains
+Winka,Ancient Settlement,21.8500,95.2000,Pyu,Regional satellite center
+Peikthanomyo Citadel,Citadel,18.5720,95.2170,Pyu,Administrative compound
+Moegyo,Ancient Settlement,19.8000,95.0000,Mon,Archaeological occupation area
+Mongmao,Ancient City,24.1000,97.5670,Shan,Historic kingdom capital
+Keng Tung,Ancient City,21.2830,99.6170,Tai,Important regional center
+Oc Eo North Sector,Port District,10.2550,105.2470,Funan,Canal-linked trade zone
+Angkor Borei,Ancient City,10.9670,104.9500,Funan,Pre-Angkorian urban center
+Vyadhapura,Ancient Capital,11.0000,104.8000,Funan,Probable royal capital
+Go Thap,Ceremonial Center,10.5670,105.4670,Funan,Religious complex
+Tra Kieu,Ancient City,15.8500,108.1170,Champa,Former Champa capital
+Dong Duong,Religious Complex,15.7830,108.2000,Champa,Buddhist sanctuary
+Po Nagar,Temple Complex,12.2650,109.1960,Champa,Important Cham temple
+Po Klong Garai,Temple Complex,11.5670,108.9980,Champa,Brick tower complex
+Cha Ban,Ancient Capital,13.7670,109.2330,Champa,Vijaya kingdom center
+My Son Valley Core,Religious Center,15.7720,108.1240,Champa,Sacred temple valley
+Rujm el-Hiri,Megalithic Monument,32.9080,35.7920,Bronze Age Levant,Concentric stone circles
+Tel Megiddo Lower City,Urban District,32.5840,35.1820,Canaanite,Administrative center
+Tel Be'er Sheva,Ancient Settlement,31.2520,34.7910,Israelite,Planned Iron Age town
+Tel Hazor Acropolis,Citadel,33.0170,35.5680,Canaanite,Upper city precinct
+Tel Lachish Palace District,Palace Complex,31.5640,34.8390,Judahite,Royal administrative zone
+Tel Kabri Palace,Palace Complex,33.0160,35.1490,Canaanite,Minoan-style frescoes
+Tel Dor,Port City,32.6170,34.9170,Phoenician,Mediterranean harbor
+Tel Kedesh,Fortified Settlement,33.1120,35.5710,Phoenician/Hellenistic,Northern trade center
+Achzib,Port Settlement,33.0470,35.1030,Phoenician,Coastal commercial site
+Tel Keisan,Settlement Mound,32.7070,35.0780,Canaanite,Long occupation history
+Monte d'Accoddi,Monument Complex,40.7600,8.4600,Prehistoric Sardinia,Stepped ritual platform
+Nuraghe Santu Antine,Tower Complex,40.4420,8.6740,Nuragic,Large stone fortress
+Su Nuraxi,Fortified Settlement,39.7050,8.9990,Nuragic,Best-known Nuragic site
+Nuraghe Losa,Tower Complex,40.0200,8.8100,Nuragic,Well-preserved tower
+Palmavera,Fortified Settlement,40.5890,8.3040,Nuragic,Multi-tower complex
+Tharros,Ancient City,39.8780,8.4390,Phoenician,Major Sardinian colony
+Nora,Port City,38.9890,9.0120,Phoenician,Southern Sardinian center
+Motya,Island Settlement,37.8670,12.4670,Phoenician,Island trading colony
+Sulcis,Ancient City,39.1670,8.5170,Phoenician,Western Mediterranean port
+Monte Sirai,Settlement,39.1670,8.5170,Phoenician,Fortified hilltop colony
+Huaca del Sol,Ceremonial Center,-8.1310,-79.0270,Moche,Massive adobe pyramid
+Huaca de la Luna,Ceremonial Center,-8.1290,-79.0310,Moche,Famous polychrome murals
+El Brujo,Ceremonial Complex,-7.9160,-79.2930,Moche,Lady of Cao discovery
+Pampa Grande,Ancient City,-6.9500,-79.8000,Moche,Large planned center
+Galindo,Fortified Settlement,-8.0830,-79.0830,Chimu,Walled administrative center
+Farfan,Administrative Center,-7.2330,-79.4670,Lambayeque,Regional management site
+Chotuna,Ceremonial Complex,-6.7170,-79.8830,Lambayeque,Legendary royal center
+Pacatnamu,Fortified City,-7.7160,-79.4330,Moche/Chimu,Large coastal center
+Paramonga Fortress,Fortress,-10.6800,-77.8190,Chimu,Massive adobe fortress
+Tambo Colorado,Administrative Center,-13.7430,-76.2190,Inca,Well-preserved provincial center
+Raqchi,Temple Complex,-14.1840,-71.3430,Inca,Temple of Viracocha
+Ingapirca,Fortified Temple,-2.5410,-78.8700,Cañari/Inca,Major Ecuadorian monument
+Tumebamba,Ancient City,-2.8970,-79.0040,Inca,Northern administrative center
+Hatun Xauxa,Administrative Center,-11.7750,-75.5000,Inca,Important provincial capital
+Vilcashuaman,Ceremonial Center,-13.6530,-73.9540,Inca,Ritual and political center
+Tambo Viejo,Administrative Site,-17.4980,-70.1860,Inca,Pacific coast outpost
+Pumpu,Administrative Center,-10.7700,-76.2500,Inca,Highland management center
+Huanuco Viejo,Ceremonial Center,-9.8200,-76.8150,Inca,Major imperial settlement
+Ollagüe Caravan Station,Trade Site,-21.3000,-68.2500,Andean,High-altitude trade route stop
+Pukara de Quitor,Fortress,-22.9270,-68.2110,Atacameño,Defensive hilltop stronghold
+Spina,Port City,44.6500,12.2500,Etruscan,Adriatic trade center
+Veii,Ancient City,42.0330,12.4000,Etruscan,Powerful rival of Rome
+Tarquinia,Necropolis,42.2540,11.7560,Etruscan,Famous painted tombs
+Cerveteri,Necropolis,42.0060,12.0930,Etruscan,Banditaccia cemetery
+Volterra,Ancient City,43.4020,10.8610,Etruscan,Important hilltop city
+Populonia,Port City,42.9950,10.4940,Etruscan,Iron-working center
+Roselle,Ancient City,42.8500,11.1330,Etruscan,Walled settlement
+Marzabotto,Planned City,44.3410,11.2040,Etruscan,Orthogonal city plan
+Chiusi,Ancient City,43.0160,11.9500,Etruscan,Associated with Lars Porsena
+Felsina,Ancient City,44.4940,11.3420,Etruscan,Predecessor of Bologna
+Orvieto,Ancient City,42.7180,12.1110,Etruscan,Major hilltop settlement
+Perugia,Ancient City,43.1120,12.3880,Etruscan,Member of Etruscan League
+Vetulonia,Ancient City,42.8500,10.9830,Etruscan,Important metalworking center
+Vulci,Ancient City,42.4200,11.6250,Etruscan,Powerful coastal city
+Pyrgi,Port City,42.0400,11.9300,Etruscan,Sanctuary and harbor
+Arezzo,Ancient City,43.4630,11.8790,Etruscan,Known as Arretium
+Orraon,Fortified Settlement,39.0580,20.8570,Epirus,Planned Hellenistic town
+Dodona,Sanctuary,39.5460,20.7870,Greek,Oracle of Zeus
+Cassope,Ancient City,39.1300,20.7200,Greek,Well-preserved urban plan
+Phoenice,Ancient City,39.9060,20.0120,Epirote,Regional political center
+Butrint,Ancient City,39.7450,20.0200,Greek/Roman,Major Adriatic settlement
+Amantia,Ancient City,40.4300,19.7400,Illyrian,Fortified hilltop city
+Byllis,Ancient City,40.5400,19.7400,Illyrian,Hellenized urban center
+Lissus,Ancient City,41.7830,19.6440,Illyrian,Strategic coastal city
+Shkodra,Ancient City,42.0680,19.5120,Illyrian,Capital of Illyrian kingdom
+Daorson,Fortified City,43.1210,17.9090,Illyrian,Megalithic walls
+Risan,Ancient City,42.5150,18.6950,Illyrian,Important Bay of Kotor center
+Meteon,Fortified Settlement,42.3210,19.3020,Illyrian,Tribal stronghold
+Dimale,Fortified City,40.6200,19.8200,Illyrian,Frequent Roman target
+Selca e Poshtme,Royal Tomb Site,41.0250,20.5960,Illyrian,Monumental burials
+Gamzigrad,Palace Complex,43.8900,22.1900,Roman,Imperial palace of Galerius
+Felix Romuliana,Royal Complex,43.8900,22.1900,Roman,UNESCO archaeological site
+Doclea,Ancient City,42.4710,19.2670,Roman,Major Balkan urban center
+Stobi,Ancient City,41.5500,21.9750,Paeonian/Roman,Regional crossroads
+Heraclea Lyncestis,Ancient City,41.0200,21.3400,Macedonian/Roman,Famous mosaics
+Nicopolis ad Istrum,Ancient City,43.2160,25.5660,Roman,Founded by Trajan
+Marcianopolis,Ancient City,43.2160,27.9160,Roman,Balkan provincial city
+Deultum,Roman Colony,42.4980,27.2730,Roman,Veteran settlement
+Abritus,Fortified City,43.5330,26.5160,Roman,Site of Emperor Decius' death
+Pautalia,Ancient City,42.2830,22.6830,Thracian/Roman,Famous thermal springs
+Seuthopolis,Ancient Capital,42.6160,25.4000,Thracian,Capital of the Odrysian Kingdom
+Perperikon,Sacred City,41.7330,25.4660,Thracian,Rock sanctuary complex
+Tatul,Religious Site,41.5830,25.3830,Thracian,Megalithic cult center
+Helis,Ancient Capital,44.5660,28.4500,Getae,Probable royal city
+Sveshtari Tomb,Necropolis,43.7160,26.7660,Getae,UNESCO royal tomb
+Sboryanovo,Archaeological Reserve,43.7500,26.7500,Getae,Large ancient complex
+Kabyle,Ancient City,42.5330,26.5330,Thracian,Important military center
+Pistiros,Trading Post,42.1000,24.6500,Thracian/Greek,Commercial crossroads
+Bizye,Ancient City,41.7330,27.2160,Thracian,Royal residence
+Zaldapa,Fortified City,43.8500,27.4500,Late Roman,Defensive stronghold
+Susa Acropolis,Acropolis,32.1940,48.2570,Elamite,Earliest urban core
+Haft Tepe,Royal Center,32.0500,48.5000,Elamite,Royal burial complex
+Jubaji,Tomb Complex,31.7500,48.6000,Elamite,Elite tomb discoveries
+Choga Mish,Settlement,32.2450,48.5410,Proto-Elamite,Early administrative center
+Tal-i Malyan,Ancient City,29.9800,52.8700,Elamite,Ancient Anshan
+Tepe Giyan,Settlement Mound,34.3500,47.9500,Bronze Age Iran,Long occupation sequence
+Tepe Nush-e Jan,Fortified Site,35.6760,48.6340,Median,Temple-fort complex
+Baba Jan,Settlement,33.7830,47.5000,Median,Iron Age stronghold
+Qaleh Kali,Settlement,30.1000,51.9000,Achaemenid,Regional administrative center
+Tol-e Ajori,Monument Complex,29.9400,52.9000,Achaemenid,Decorated gateway structure
+Begash,Settlement,43.2000,78.0000,Bronze Age Steppe,Pastoralist occupation site
+Botai,Settlement,53.2500,69.1500,Botai Culture,Early horse domestication
+Arkaim,Fortified Settlement,52.6330,59.5660,Sintashta,Circular Bronze Age city
+Sintashta,Fortified Settlement,52.4830,60.9500,Sintashta,Chariot burials found
+Ustie Settlement,Settlement,53.1000,59.0000,Sintashta,Steppe occupation site
+Toksanbay,Settlement,44.1000,54.1000,Early Nomadic,Caspian region site
+Chirik-Rabat,Fortified City,44.2500,63.5500,Saka,Desert stronghold
+Babish-Mola,Settlement,44.1000,63.4000,Saka,Lower Syr Darya center
+Shirik-Rabat Citadel,Citadel,44.2500,63.5500,Saka,Administrative seat
+Besshatyr,Necropolis,43.9170,78.3500,Saka,Royal burial mounds
+Taxila Sirkap,Ancient City,33.7440,72.8360,Indo-Greek,Planned urban center
+Taxila Bhir Mound,Settlement,33.7440,72.8360,Achaemenid,Oldest Taxila occupation
+Takht-i-Bahi,Monastic Complex,34.3210,71.9390,Gandharan,Buddhist monastery
+Butkara Stupa,Religious Site,34.7760,72.3600,Gandharan,Major Buddhist stupa
+Jamal Garhi,Monastic Complex,34.1200,71.9200,Gandharan,Buddhist educational center
+Sahri Bahlol,Ancient City,34.1100,71.9400,Gandharan,Fortified settlement
+Ranigat,Religious Complex,34.6500,72.1000,Gandharan,Large Buddhist site
+Mohra Muradu,Monastic Complex,33.7160,72.8500,Gandharan,Buddhist ruins
+Bhamala Stupa,Religious Site,34.1500,72.8000,Gandharan,Reclining Buddha discovery
+Julian Monastery,Monastic Complex,33.7330,72.8500,Gandharan,Monastery near Taxila
+Nan Madol North Sector,Ceremonial Complex,6.8430,158.3340,Saudeleur,Northern administrative area
+Nan Madol South Sector,Ceremonial Complex,6.8400,158.3300,Saudeleur,Royal compounds
+Nandauwas Islet,Royal Compound,6.8420,158.3320,Saudeleur,Burial complex
+Idehd Islet,Ceremonial Site,6.8410,158.3310,Saudeleur,Ritual precinct
+Pahnwi Islet,Settlement,6.8430,158.3330,Saudeleur,Stone-built district
+Nan Douwas Tombs,Necropolis,6.8420,158.3320,Saudeleur,Royal tombs
+Leluh Royal District,Administrative Center,5.3290,163.0220,Micronesian,Elite compound area
+Malem Harbor,Port Settlement,5.3000,163.0000,Micronesian,Ancient landing place
+Utwe Settlement,Coastal Village,5.2750,162.9750,Micronesian,Traditional habitation area
+Insaru Ruins,Stone Settlement,5.3200,163.0300,Micronesian,Archaeological remains
+Pueblo Alto,Great House,36.0680,-107.9570,Ancestral Puebloan,Chaco Canyon structure
+Una Vida,Great House,36.0590,-107.9500,Ancestral Puebloan,Early Chacoan construction
+Kin Ya'a,Great House,35.8280,-108.0060,Ancestral Puebloan,Outlier community
+Aztec West Ruin,Great House,36.8360,-107.9990,Ancestral Puebloan,Core ceremonial center
+Kin Bineola,Great House,36.0180,-108.0500,Ancestral Puebloan,Regional administrative site
+Hungo Pavi,Great House,36.0780,-107.9500,Ancestral Puebloan,Classic Chaco architecture
+Wijiji,Great House,36.0700,-107.9300,Ancestral Puebloan,Late-period Chacoan site
+Pueblo del Arroyo,Great House,36.0640,-107.9550,Ancestral Puebloan,Large community center
+Peñasco Blanco,Great House,36.0940,-107.9970,Ancestral Puebloan,Extensive room blocks
+Kin Kletso North Sector,Residential Complex,36.0110,-107.9600,Ancestral Puebloan,Associated residential area
+Tell Qaramel,Neolithic Settlement,36.4580,37.0900,Pre-Pottery Neolithic,Early tower structures
+Mureybet,Settlement,35.0500,38.3000,Natufian,Transition to agriculture
+Dja'de al-Mughara,Settlement,36.7500,38.0500,Neolithic Levant,Early painted buildings
+Tell Halula,Settlement,36.6330,38.1670,Neolithic Levant,Important farming community
+Akarçay Tepe,Settlement,36.7000,38.0000,Neolithic Anatolia,Early village site
+Göbekli Tepe Enclosure D,Ritual Site,37.2230,38.9220,Pre-Pottery Neolithic,Monumental stone enclosure
+Karahan Tepe,Ritual Site,37.2080,39.2700,Pre-Pottery Neolithic,Related to Göbekli Tepe
+Harbetsuvan Tepe,Ritual Site,37.1700,39.0500,Pre-Pottery Neolithic,Stone pillar sanctuary
+Sefer Tepe,Ritual Site,37.2200,39.1500,Pre-Pottery Neolithic,Archaeological cult center
+Hamzan Tepe,Settlement,37.1600,38.9000,Pre-Pottery Neolithic,Early occupation mound
+Tell Madhhur,Ancient Settlement,34.2000,44.9000,Mesopotamian,Diyala River site
+Tell Uqair,Ancient City,32.6330,44.7500,Sumerian,Early temple complex
+Tell Harmal,Ancient City,33.3330,44.4670,Babylonian,Important legal archives
+Mashkan-shapir,Ancient City,31.8500,46.0000,Babylonian,Provincial administrative center
+Akkad,Ancient City,33.1000,44.1000,Akkadian,Capital of Sargon
+Agade,Ancient Capital,33.1000,44.1000,Akkadian,Legendary imperial center
+Tell Agrab,Settlement,33.3500,44.9500,Sumerian,Administrative hub
+Tell Asmar,Ancient City,33.3830,44.7830,Sumerian,Ancient Eshnunna center
+Tell Khaiber,Fortified Settlement,31.2330,46.1670,Sumerian,Old Babylonian fortress
+Tell Jokha,Ancient City,31.3830,45.6330,Sumerian,Ancient Umma site
+Myrmekion,Ancient City,45.3550,36.4740,Greek Colony,Black Sea settlement
+Panticapaeum,Ancient City,45.3500,36.4670,Greek Colony,Capital of Bosporan Kingdom
+Olbia Pontica,Port City,46.6200,31.5410,Greek Colony,Major grain export center
+Chersonesus,Ancient City,44.6100,33.4890,Greek Colony,Crimean urban center
+Tanais,Ancient City,47.2660,39.3330,Greek Colony,Don River trading colony
+Phanagoria,Ancient City,45.1050,36.9560,Greek Colony,Bosporan capital
+Nymphaion,Ancient City,45.0490,35.2990,Greek Colony,Strategic harbor
+Hermonassa,Ancient City,45.2170,36.7170,Greek Colony,Taman Peninsula center
+Kerkinitis,Port Settlement,45.2000,33.3500,Greek Colony,Coastal mercantile town
+Tyritake,Ancient City,45.3530,36.5100,Greek Colony,Fortified settlement
+Augusta Raurica,Roman City,47.5330,7.7200,Roman,Major city on the Rhine
+Arausio,Roman City,44.1380,4.8070,Roman,Modern Orange precursor
+Forum Julii,Roman City,43.4330,6.7350,Roman,Major naval base
+Vindonissa,Roman Legionary Camp,47.4750,8.2120,Roman,Important military headquarters
+Aventicum Forum,Civic Center,46.8800,7.0400,Roman,Administrative district
+Nijmegen Roman Town,Ancient City,51.8470,5.8630,Roman,Frontier settlement
+Colonia Ulpia Traiana,Roman City,51.6600,6.4500,Roman,Lower Rhine capital
+Mogontiacum,Roman City,50.0000,8.2710,Roman,Modern Mainz origin
+Castra Regina,Roman Fortress,49.0170,12.0960,Roman,Modern Regensburg precursor
+Lauriacum,Roman City,48.2130,14.4760,Roman,Danube military center
+Anuradhapura Citadel,Citadel,8.3110,80.4040,Sri Lankan,Royal administrative zone
+Abhayagiri Monastery,Monastic Complex,8.3530,80.3970,Sri Lankan,Major Buddhist learning center
+Jetavanaramaya,Religious Monument,8.3500,80.3980,Sri Lankan,One of tallest ancient stupas
+Thuparamaya,Religious Site,8.3520,80.3960,Sri Lankan,Earliest Buddhist stupa
+Ritigala,Monastic Complex,8.0660,80.6500,Sri Lankan,Forest monastery
+Yapahuwa,Fortress,7.8220,80.3020,Sri Lankan,Rock fortress capital
+Sigiriya Water Gardens,Garden Complex,7.9570,80.7600,Sri Lankan,Advanced hydraulic design
+Nalanda Gedige,Temple,7.6700,80.7100,Sri Lankan,Unique stone temple
+Medirigiriya Vatadage,Religious Site,7.9000,80.8800,Sri Lankan,Circular relic house
+Minneriya Settlement,Ancient Settlement,8.0330,80.8830,Sri Lankan,Ancient irrigation center
+Berenice Troglodytica,Port City,23.9160,35.4830,Ptolemaic,Red Sea trade hub
+Ptolemais Hermiou,Ancient City,26.5660,31.7500,Ptolemaic,Hellenistic administrative center
+Naukratis,Port City,30.9000,30.6330,Greek Egyptian,Early Greek colony in Egypt
+Alexandria Royal Quarter,Urban District,31.2000,29.9000,Ptolemaic,Political center of Egypt
+Taposiris Magna,Temple Complex,30.8060,29.5040,Ptolemaic,Sanctuary near Alexandria
+Karanis,Ancient Town,29.9000,30.8830,Greco-Roman Egypt,Fayum agricultural settlement
+Tebtunis,Ancient Town,29.3830,30.6500,Greco-Roman Egypt,Famous papyri discoveries
+Bacchias,Settlement,29.6500,30.8330,Greco-Roman Egypt,Temple-centered community
+Narmouthis,Ancient Town,29.2500,30.6830,Greco-Roman Egypt,Crocodile cult center
+Philadelphia Fayum,Settlement,29.5500,30.8500,Ptolemaic,Agricultural colony
+Lixus,Ancient City,35.2000,-6.1500,Phoenician,One of oldest Moroccan cities
+Chellah,Ancient City,34.0200,-6.8220,Mauretanian,Important necropolis
+Banasa,Ancient City,34.2500,-6.5830,Mauretanian,Roman provincial center
+Tamuda,Ancient City,35.5750,-5.3500,Mauretanian,Military and trade settlement
+Volubilis South Quarter,Urban District,34.0730,-5.5550,Roman North Africa,Residential sector
+Tipasa,Ancient City,36.5920,2.4480,Punic/Roman,Coastal colony
+Cuicul,Ancient City,36.3200,5.7360,Roman,Modern Djemila
+Tiddis,Fortified Settlement,36.3830,6.6170,Numidian,Mountain stronghold
+Thugga Capitol Sector,Civic Center,36.4230,9.2190,Roman,Administrative quarter
+Bulla Regia,Ancient City,36.5610,8.7540,Numidian,Renowned underground villas
+Monte Alban North Platform,Ceremonial Site,17.0430,-96.7670,Zapotec,Ritual precinct
+Lambityeco,Ancient City,16.9580,-96.5070,Zapotec,Regional political center
+Dainzu,Ceremonial Center,17.0670,-96.6330,Zapotec,Ballcourt and carvings
+Yagul,Fortified Settlement,16.9580,-96.4720,Zapotec,Clifftop stronghold
+Zaachila,Ancient Capital,16.9500,-96.7500,Zapotec,Final Zapotec capital
+Guiengola,Fortified City,16.5200,-95.3700,Zapotec,Defensive hilltop center
+La Quemada,Fortified Settlement,22.5330,-102.5830,Chichimeca,Northern frontier city
+Paquime Ceremonial Core,Ceremonial Center,30.3670,-107.9500,Casas Grandes,Urban heart of city
+Las Ventanas Cave Settlement,Cave Settlement,30.4500,-108.0000,Casas Grandes,Associated habitation area
+Alta Vista,Ceremonial Center,23.4670,-103.8170,Chalchihuites,Astronomical alignments
+Cerro de Trincheras,Hill Settlement,30.3670,-111.5330,Trincheras Culture,Terraced hill complex
+Guachimontones,Ceremonial Center,20.6830,-103.8330,Teuchitlan Culture,Circular pyramid complex
+Teuchitlan Core,Ancient Settlement,20.6830,-103.8330,Teuchitlan Culture,Political center
+Ixtepete,Ceremonial Site,20.6500,-103.4330,Classic West Mexico,Pyramid complex
+El Grillo,Ancient Settlement,20.7200,-103.3500,Classic West Mexico,Residential center
+Tingambato,Ceremonial Center,19.5000,-101.8500,Classic Michoacan,Monumental architecture
+Peralta,Ancient City,20.6160,-101.2500,Bajio Culture,Urban ceremonial center
+Plazuelas,Ceremonial Site,20.5670,-101.2000,Bajio Culture,Ballcourts and temples
+El Opeño,Burial Site,19.9170,-102.2830,Preclassic West Mexico,Shaft tomb tradition
+Capacha,Ancient Settlement,19.2500,-103.7170,Capacha Culture,Early western Mexican society
+Sanghol,Ancient Settlement,30.5500,76.3830,Harappan/Kushan,Famous stupa and sculptures
+Rupnagar,Ancient Settlement,30.9660,76.5330,Harappan,Continuous occupation site
+Kotla Nihang Khan,Ancient Settlement,30.9670,76.5000,Harappan,Important Harappan locality
+Bara,Ancient Settlement,30.9000,76.4500,Bara Culture,Type-site of Bara culture
+Dher Majra,Ancient Settlement,30.7800,76.4700,Harappan,Late Harappan occupation
+Mandi Faizgarh,Ancient Settlement,30.3500,74.2500,Harappan,Indus Valley site
+Hasanpur,Ancient Settlement,30.4800,75.0500,Harappan,Bronze Age remains
+Chak 86,Ancient Settlement,30.7500,73.9000,Harappan,Rural Harappan site
+Bagrian,Ancient Settlement,30.2000,75.2500,Harappan,Significant settlement mound
+Ballowal,Ancient Settlement,31.0500,76.0000,Harappan,Archaeological occupation
+Harappa Mound AB,Ancient City,30.6300,72.8770,Harappan,Urban administrative area
+Harappa Mound E,Industrial Area,30.6320,72.8790,Harappan,Craft production zone
+Harappa Cemetery R37,Necropolis,30.6290,72.8750,Harappan,Famous burial ground
+Harappa Granary District,Industrial Complex,30.6310,72.8780,Harappan,Storage structures
+Harappa Citadel,Citadel,30.6305,72.8775,Harappan,Raised defensive area
+Jalilpur,Ancient Settlement,30.9200,71.8500,Harappan,Early agricultural center
+Rangpur Punjab,Ancient Settlement,30.7000,72.2000,Harappan,Late Harappan occupation
+Mallah,Ancient Settlement,30.8200,71.9200,Harappan,Settlement mound
+Jhok Sarkari,Ancient Settlement,30.5600,72.3500,Harappan,Bronze Age site
+Cholistan Fringe Site A,Ancient Settlement,29.9500,72.8000,Harappan,Peripheral urban network
+Ganweriwala North Sector,Ancient City,28.5000,70.4500,Harappan,Large unexcavated center
+Ganweriwala South Sector,Urban District,28.4900,70.4450,Harappan,Urban occupation area
+Marot Mound,Ancient Settlement,29.2000,71.8000,Harappan,Cholistan occupation
+Derawar Vicinity Site 1,Ancient Settlement,28.7700,71.3300,Harappan,Desert trade node
+Derawar Vicinity Site 2,Ancient Settlement,28.7600,71.3400,Harappan,Regional settlement
+Cholistan Site 29,Ancient Settlement,28.9000,71.6000,Harappan,Surveyed Hakra site
+Cholistan Site 34,Ancient Settlement,28.9500,71.7000,Harappan,Indus-related habitation
+Cholistan Site 61,Ancient Settlement,29.0500,71.8500,Harappan,Trade corridor stop
+Hakra Site East,Ancient Settlement,28.8500,71.6500,Hakra Culture,Ancient river settlement
+Hakra Site West,Ancient Settlement,28.8200,71.6100,Hakra Culture,Pre-Harappan remains
+Sakala,Ancient Capital,32.5000,74.5330,Madra,Capital of ancient Madra
+Sialkot Fort Core,Fortified Settlement,32.4970,74.5360,Indo-Greek,Historic urban center
+Sialkot Acropolis,Acropolis,32.4980,74.5350,Madra,Royal district
+Eminabad,Ancient Settlement,32.0420,74.2590,Ancient Punjab,Long-term occupation
+Shahkot Mound,Ancient Settlement,31.5700,73.4900,Ancient Punjab,Riverine settlement
+Kamoke Mound,Ancient Settlement,31.9760,74.2230,Ancient Punjab,Settlement remains
+Wazirabad Ancient Core,Ancient Settlement,32.4430,74.1210,Ancient Punjab,Historic crossing
+Gujranwala Mound,Ancient Settlement,32.1580,74.1880,Ancient Punjab,Ancient habitation
+Pind Dadan Khan Site,Ancient Settlement,32.5860,73.0490,Salt Range,Trade route locality
+Bhera Ancient Core,Ancient City,32.4830,72.9170,Ancient Punjab,Historic commercial center
+Taxila Hathial,Settlement Mound,33.7420,72.8460,Gandharan,Early occupation layer
+Taxila Sirkap East Quarter,Urban District,33.7440,72.8380,Indo-Greek,Grid-planned city
+Taxila Sirsukh,Fortified City,33.7470,72.8500,Kushan,Walled urban center
+Dharmarajika Stupa,Religious Site,33.7370,72.8500,Gandharan,Important Buddhist monument
+Jaulian Monastery,Monastic Complex,33.7550,72.8900,Gandharan,Buddhist learning center
+Mohra Moradu,Monastic Complex,33.7160,72.8500,Gandharan,Monastic ruins
+Bhamala Complex,Religious Site,33.9000,72.8000,Gandharan,Buddhist structures
+Jinnan Wali Dheri,Settlement,33.7200,72.8300,Gandharan,Urban archaeological site
+Giri Fort Complex,Fortress,33.7000,72.9000,Gandharan,Defensive installation
+Kunala Stupa,Religious Site,33.7600,72.8800,Gandharan,Pilgrimage center
+Tulamba,Ancient City,30.5260,72.2390,Ancient Punjab,Historic trade town
+Multan Citadel,Fortified City,30.1970,71.4690,Mallian,Ancient urban nucleus
+Multan Sun Temple Site,Religious Site,30.1980,71.4700,Ancient Punjab,Famous ancient sanctuary
+Uch Ancient Core,Ancient Settlement,29.2390,71.0580,Ancient Punjab,River confluence center
+Kabirwala Mound,Ancient Settlement,30.4060,71.8620,Ancient Punjab,Settled occupation
+Shorkot Mound,Ancient City,30.4990,72.3990,Ancient Punjab,Historic urban center
+Kot Adu Ancient Site,Ancient Settlement,30.4700,70.9670,Ancient Punjab,River settlement
+Jhang Mound,Ancient Settlement,31.2680,72.3310,Ancient Punjab,Trading locality
+Chiniot Ancient Core,Ancient Settlement,31.7190,72.9780,Ancient Punjab,River crossing center
+Toba Tek Singh Site,Ancient Settlement,30.9710,72.4820,Ancient Punjab,Agricultural settlement
+Sarai Khola,Ancient Settlement,33.5000,72.8330,Early Harappan,Important excavated site
+Rehman Dheri East,Ancient Settlement,31.7330,70.3160,Early Harappan,Proto-urban development
+Rehman Dheri West,Ancient Settlement,31.7300,70.3120,Early Harappan,Fortified settlement
+Gumla Mound,Ancient Settlement,31.9500,70.8500,Early Harappan,Regional center
+Lewan,Industrial Site,32.0200,70.9200,Early Harappan,Bead manufacturing
+Tarakai Qila,Fortified Settlement,32.0300,70.8700,Early Harappan,Walled settlement
+Hathala,Ancient Settlement,33.1800,72.9500,Early Harappan,Pottery-rich occupation
+Jalilpur East,Settlement Mound,30.9250,71.8450,Early Harappan,Regional village
+Qila Sobha Singh Site,Ancient Settlement,32.4000,73.3500,Ancient Punjab,Archaeological mound
+Lalian Ancient Core,Ancient Settlement,31.8250,72.8010,Ancient Punjab,Riverine occupation
+Katas Raj Ancient Precinct,Religious Site,32.7250,72.9750,Ancient Punjab,Sacred temple area
+Nandana Fort,Fortress,32.6530,72.8060,Hindu Shahi,Strategic fortification
+Malot Fort,Fortress,32.7090,72.9110,Hindu Shahi,Salt Range stronghold
+Kafirkot North,Temple Complex,32.4200,71.2500,Hindu Shahi,Ancient temples
+Kafirkot South,Temple Complex,32.3400,71.2700,Hindu Shahi,Riverside temple complex
+Amb Sharif,Temple Complex,33.7800,72.3400,Hindu Shahi,Stone temple remains
+Barikot Punjab,Settlement,33.7500,72.3200,Ancient Punjab,Historic occupation
+Jhelum Ancient Core,Ancient Settlement,32.9340,73.7310,Ancient Punjab,River trade center
+Rasul Settlement,Ancient Settlement,32.7000,73.5000,Ancient Punjab,Historic crossing
+Mong Ancient Site,Ancient Settlement,32.6500,73.2000,Ancient Punjab,Salt Range locality
+Sangla Hill Mound,Ancient Settlement,31.7160,73.3830,Ancient Punjab,Elevated occupation zone
+Sheikhupura Ancient Core,Ancient Settlement,31.7130,73.9850,Ancient Punjab,Long occupation history
+Pattoki Mound,Ancient Settlement,31.0210,73.8470,Ancient Punjab,Settlement remains
+Kasur Ancient Core,Ancient Settlement,31.1160,74.4500,Ancient Punjab,Historic frontier town
+Okara Settlement Mound,Ancient Settlement,30.8080,73.4450,Ancient Punjab,Rural occupation area
+Pakpattan Ancient Core,Ancient Settlement,30.3410,73.3870,Ancient Punjab,Historic settlement
+Depalpur Mound,Ancient Settlement,30.6720,73.6530,Ancient Punjab,Archaeological occupation
+Mailsi Ancient Site,Ancient Settlement,29.8000,72.1830,Ancient Punjab,Regional settlement
+Bahawalnagar Mound,Ancient Settlement,29.9990,73.2520,Ancient Punjab,Hakra corridor site
+Fort Abbas Archaeological Site,Ancient Settlement,29.1910,72.8530,Hakra Culture,Ancient desert settlement
+Madra Frontier Site A,Ancient Settlement,31.9000,74.0500,Madra,Border region occupation
+Madra Frontier Site B,Ancient Settlement,31.8500,74.1000,Madra,Settlement mound
+Ravi Bend Settlement,Ancient Settlement,31.4000,74.0000,Ancient Punjab,Riverine habitation
+Chenab Bend Settlement,Ancient Settlement,31.9000,73.9000,Ancient Punjab,Floodplain community
+Beas Corridor Site,Ancient Settlement,31.7000,75.0000,Ancient Punjab,Trade-route settlement
+Sutlej Corridor Site,Ancient Settlement,31.2000,75.2000,Ancient Punjab,River transport node
+Punjab Stupa Site A,Religious Site,30.6500,76.3500,Kushan,Buddhist remains
+Punjab Stupa Site B,Religious Site,30.7500,76.2200,Kushan,Ritual complex
+Punjab Kushan Settlement,Ancient Settlement,30.7200,76.2800,Kushan,Urban occupation
+Punjab Gandharan Outpost,Fortified Settlement,31.0500,75.8500,Gandharan,Frontier trading station
