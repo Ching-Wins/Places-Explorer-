@@ -1,0 +1,1097 @@
+Name of Location,Location Type,Latitude,Longitude,Site
+Great Pyramid of Giza,Pyramid,29.9792,31.1342,1
+Saqqara Necropolis,Necropolis,29.8711,31.2165,1
+Abu Simbel,Temple,22.3372,31.6258,1
+Karnak,Temple Complex,25.7188,32.6573,1
+Luxor Temple,Temple,25.6996,32.6396,1
+Valley of the Kings,Tomb Valley,25.7402,32.6014,1
+Edfu Temple,Temple,24.9779,32.8733,1
+Kom Ombo,Temple,24.4528,32.9280,1
+Philae,Temple Island,24.0258,32.8846,1
+Abydos,Religious Site,26.1848,31.9190,1
+Ur,Ancient City,30.9625,46.1056,1
+Uruk,Ancient City,31.3222,45.6361,1
+Eridu,Ancient Settlement,30.8139,45.9961,1
+Lagash,City-State,31.4170,46.2670,1
+Nippur,Religious Center,32.1230,45.2270,1
+Kish,City-State,32.5430,44.6480,1
+Babylon,Ancient City,32.5364,44.4200,1
+Borsippa,Ancient City,32.5170,44.5500,1
+Nineveh,Ancient City,36.3606,43.1529,1
+Ashur,Ancient City,35.4564,43.2528,1
+Persepolis,Ceremonial Capital,29.9351,52.8916,1
+Pasargadae,Royal Capital,30.2014,53.1797,1
+Susa,Ancient City,32.1942,48.2576,1
+Ecbatana,Ancient City,34.7992,48.5146,1
+Naqsh-e Rostam,Necropolis,29.9888,52.8740,1
+Jericho,Ancient Settlement,31.8667,35.4500,1
+Megiddo,Archaeological Tell,32.5841,35.1821,1
+Hazor,Ancient City,33.0173,35.5680,1
+Byblos,Ancient Port,34.1230,35.6519,1
+Tyre,Ancient Port,33.2704,35.2038,1
+Athens,Ancient City,37.9715,23.7267,1
+Acropolis of Athens,Citadel,37.9715,23.7257,1
+Delphi,Sanctuary,38.4824,22.5010,1
+Olympia,Sanctuary,37.6383,21.6300,1
+Mycenae,Citadel,37.7308,22.7540,1
+Knossos,Palace Complex,35.2989,25.1635,1
+Phaistos,Palace Complex,35.0515,24.8150,1
+Sparta,City-State,37.0745,22.4300,1
+Corinth,Ancient City,37.9050,22.8790,1
+Thebes,Ancient City,38.3250,23.3180,1
+Rome,Ancient City,41.8902,12.4922,1
+Roman Forum,Civic Center,41.8925,12.4853,1
+Pompeii,Ancient City,40.7484,14.4869,1
+Herculaneum,Ancient City,40.8060,14.3480,1
+Ostia Antica,Port City,41.7540,12.2850,1
+Hadrian's Wall,Frontier Fortification,55.0260,-2.2690,1
+Leptis Magna,Ancient City,32.6397,14.2905,1
+Timgad,Colonial City,35.4848,6.4686,1
+Jerash,Ancient City,32.2808,35.8916,1
+Palmyra,Oasis City,34.5514,38.2747,1
+Mohenjo-daro,Ancient City,27.3294,68.1386,1
+Harappa,Ancient City,30.6300,72.8770,1
+Dholavira,Ancient City,23.8860,70.2150,1
+Lothal,Port City,22.5223,72.2430,1
+Kalibangan,Ancient Settlement,29.4772,74.1300,1
+Taxila,Ancient City,33.7450,72.8400,1
+Nalanda,University,25.1357,85.4449,1
+Sanchi,Religious Site,23.4793,77.7396,1
+Bodh Gaya,Sacred Site,24.6951,84.9910,1
+Ajanta Caves,Cave Complex,20.5519,75.7033,1
+Angkor Wat,Temple Complex,13.4125,103.8670,1
+Angkor Thom,Ancient City,13.4417,103.8580,1
+Banteay Srei,Temple,13.5989,103.9669,1
+Preah Vihear,Temple,14.3906,104.6797,1
+Sambor Prei Kuk,Temple Complex,12.8727,105.0690,1
+Borobudur,Temple, -7.6079,110.2038,1
+Prambanan,Temple Complex,-7.7520,110.4915,1
+Muaro Jambi,Temple Complex,-1.4740,103.6120,1
+Trowulan,Ancient City,-7.5560,112.3800,1
+Candi Sukuh,Temple,-7.6281,111.1316,1
+Anyang,Ancient Capital,36.1030,114.3920,1
+Yinxu,Archaeological Site,36.1270,114.3090,1
+Luoyang,Ancient City,34.6197,112.4540,1
+Chang'an,Ancient City,34.2667,108.9000,1
+Longmen Grottoes,Cave Complex,34.5548,112.4775,1
+Machu Picchu,Mountain City,-13.1631,-72.5450,1
+Sacsayhuaman,Fortress,-13.5095,-71.9810,1
+Ollantaytambo,Town/Fortress,-13.2580,-72.2650,1
+Pisac,Settlement,-13.4222,-71.8464,1
+Choquequirao,Mountain City,-13.5292,-72.8878,1
+Teotihuacan,Ancient City,19.6925,-98.8438,1
+Tenochtitlan,Ancient Capital,19.4326,-99.1332,1
+Chichen Itza,Ceremonial Center,20.6843,-88.5678,1
+Palenque,Ancient City,17.4849,-92.0460,1
+Tikal,Ancient City,17.2216,-89.6237,1
+Calakmul,Ancient City,18.1088,-89.8102,1
+Uxmal,Ancient City,20.3606,-89.7686,1
+Copan,Ancient City,14.8390,-89.1420,1
+Bonampak,Ceremonial Site,16.7036,-91.0630,1
+Caracol,Ancient City,16.7639,-89.1175,1
+Cahokia,Urban Center,38.6556,-90.0618,1
+Poverty Point,Ceremonial Site,32.6368,-91.4084,1
+Mesa Verde,Settlement,37.2309,-108.4618,1
+Chaco Canyon,Ceremonial Center,36.0605,-107.9589,1
+Casa Grande,Settlement,32.9954,-111.5368,1
+Great Zimbabwe,Ancient City,-20.2675,30.9347,1
+Mapungubwe,Ancient Kingdom,-22.1930,29.2430,1
+Khami,Ancient City,-20.1580,28.3760,1
+Nok Site,Settlement,9.3330,8.8830,1
+Jenné-Jeno,Ancient City,13.9060,-4.5550,1
+Carthage,Ancient City,36.8529,10.3230,1
+Volubilis,Ancient City,34.0730,-5.5550,1
+Meroe,Royal City,16.9370,33.7440,1
+Kerma,Ancient City,19.6000,30.4167,1
+Aksum,Ancient City,14.1319,38.7200,1
+Stonehenge,Megalithic Monument,51.1789,-1.8262,1
+Avebury,Henge Monument,51.4286,-1.8540,1
+Newgrange,Passage Tomb,53.6947,-6.4754,1
+Skara Brae,Settlement,59.0487,-3.3419,1
+Carnac Stones,Megalithic Site,47.5930,-3.0790,1
+Troy,Ancient City,39.9578,26.2389,1
+Hattusa,Ancient Capital,40.0197,34.6153,1
+Gordion,Ancient City,39.6480,31.9940,1
+Catalhoyuk,Neolithic Settlement,37.6667,32.8261,1
+Gobekli Tepe,Ritual Site,37.2231,38.9226,1
+Petra,Rock-Cut City,30.3285,35.4444,1
+Bosra,Ancient City,32.5166,36.4828,1
+Dura-Europos,Fortified City,34.7490,40.7290,1
+Mari,Ancient City,34.5500,40.8910,1
+Ebla,Ancient City,35.8000,36.7830,1
+Sigiriya,Rock Fortress,7.9570,80.7603,1
+Anuradhapura,Ancient Capital,8.3114,80.4037,1
+Polonnaruwa,Ancient Capital,7.9403,81.0188,1
+Mihintale,Religious Site,8.3510,80.5120,1
+Dambulla,Cave Temple,7.8547,80.6517,1
+Nan Madol,Ceremonial Center,6.8420,158.3320,1
+Rapa Nui Ceremonial Sites,Ceremonial Site,-27.1212,-109.3664,1
+Orongo,Ritual Village,-27.1840,-109.4340,1
+Taputapuatea,Sacred Site,-16.8330,-151.3670,1
+Leluh,Ancient City,5.3290,163.0220,1
+Jomon Sannai-Maruyama,Settlement,40.8100,140.6930,1
+Yoshinogari,Fortified Settlement,33.3160,130.3890,1
+Asuka,Ancient Capital,34.4830,135.8190,1
+Fujiwara-kyo,Ancient Capital,34.5000,135.8000,1
+Heijo-kyo,Ancient Capital,34.6851,135.8048,1
+Baalbek,Temple Complex,34.0060,36.2030,1
+Arslantepe,Mound Settlement,38.3506,38.3560,1
+Nimrud,Ancient City,36.0990,43.3210,1
+Dur-Sharrukin,Ancient City,36.5090,43.2230,1
+Zhengzhou Shang City,Ancient Capital,34.7473,113.6254,1
+Sanxingdui,Archaeological Site,31.0060,104.2010,1
+Jiaohe,Ancient City,42.9560,89.0520,1
+Kucha,Ancient Oasis City,41.7170,82.9670,1
+Merv,Oasis City,37.6610,62.1900,1
+Samarkand,Ancient City,39.6542,66.9597,1
+Bukhara,Ancient City,39.7681,64.4556,1
+Amarna,Ancient City,27.6473,30.8998,1
+Tanis,Ancient City,30.9640,31.8140,1
+Bubastis,Ancient City,30.5690,31.5070,1
+Heliopolis,Religious Center,30.1290,31.2870,1
+Elephantine,Island Settlement,24.0850,32.8870,1
+Deir el-Medina,Village,25.7330,32.6040,1
+Medinet Habu,Temple Complex,25.7200,32.6010,1
+Dendera,Temple Complex,26.1410,32.6730,1
+Hierakonpolis,Ancient City,25.0840,32.7890,1
+Tell el-Dab'a,Settlement,30.7870,31.8340,1
+Sippar,Ancient City,33.0580,44.2950,1
+Isin,City-State,31.9410,45.2920,1
+Larsa,Ancient City,31.2870,45.5180,1
+Adab,Ancient City,31.9500,45.9800,1
+Umma,City-State,31.6330,45.8830,1
+Shuruppak,Ancient City,31.7830,45.5000,1
+Eshnunna,Ancient City,33.4800,44.7300,1
+Dur-Kurigalzu,Royal City,33.3470,44.2540,1
+Nimrud Fortress,Citadel,36.1030,43.3210,1
+Khorsabad,Royal Capital,36.5090,43.2230,1
+Sardis,Ancient City,38.4810,28.0380,1
+Miletus,Port City,37.5310,27.2770,1
+Ephesus,Ancient City,37.9390,27.3410,1
+Halicarnassus,Ancient City,37.0380,27.4240,1
+Pergamon,Ancient City,39.1310,27.1840,1
+Didyma,Sanctuary,37.3850,27.2660,1
+Priene,Ancient City,37.6600,27.3060,1
+Argos,City-State,37.6330,22.7330,1
+Delos,Sacred Island,37.3980,25.2670,1
+Rhodes,Ancient City,36.4340,28.2170,1
+Aquileia,Roman City,45.7680,13.3680,1
+Carnuntum,Frontier City,48.1120,16.8570,1
+Vindolanda,Fort,54.9910,-2.3600,1
+Londinium,Ancient City,51.5079,-0.0877,1
+Eboracum,Ancient City,53.9590,-1.0820,1
+Colonia Claudia Ara Agrippinensium,Ancient City,50.9380,6.9590,1
+Augusta Treverorum,Ancient City,49.7490,6.6370,1
+Emerita Augusta,Roman Colony,38.9160,-6.3440,1
+Segovia Aqueduct,Aqueduct,40.9480,-4.1180,1
+Dougga,Ancient City,36.4230,9.2190,1
+Rakhigarhi,Ancient City,29.2910,76.1080,1
+Banawali,Settlement,29.6200,75.4500,1
+Surkotada,Settlement,23.6240,70.8380,1
+Rupnagar,Settlement,30.9690,76.5250,1
+Ganweriwala,Ancient City,28.4810,70.4530,1
+Kausambi,Ancient City,25.3360,81.3940,1
+Vaishali,Ancient City,25.9870,85.1300,1
+Rajgir,Ancient City,25.0170,85.4200,1
+Ujjain,Ancient City,23.1760,75.7880,1
+Pataliputra,Imperial Capital,25.6100,85.1410,1
+My Son,Temple Complex,15.7710,108.1240,1
+Co Loa,Fortified City,21.1380,105.8760,1
+Oc Eo,Port City,10.2500,105.2500,1
+Hoa Lu,Ancient Capital,20.2530,105.9740,1
+Vat Phou,Temple Complex,14.8480,105.8170,1
+Bagan,Ancient City,21.1710,94.8580,1
+Sri Ksetra,Ancient City,18.8110,95.2930,1
+Beikthano,Ancient City,18.5720,95.2170,1
+Thaton,Ancient Port,16.9180,97.3670,1
+Pegu,Ancient City,17.3360,96.4890,1
+Yamatai,Ancient Political Center,33.3500,130.3000,1
+Dazaifu,Administrative Center,33.5120,130.5230,1
+Nagaoka-kyo,Ancient Capital,34.9260,135.6950,1
+Iwami Ginzan,Mining Settlement,35.1070,132.4380,1
+Takamatsuzuka Tomb,Tomb,34.4620,135.8060,1
+Huanuco Pampa,Administrative Center,-9.8200,-76.8150,1
+Vilcabamba,Settlement,-13.1160,-72.9500,1
+Moray,Agricultural Site,-13.3290,-72.1960,1
+Pikillaqta,Ancient City,-13.5830,-71.7220,1
+Tiwanaku,Ceremonial Center,-16.5540,-68.6740,1
+Monte Alban,Ceremonial Center,17.0430,-96.7670,1
+Mitla,Ceremonial Site,16.9270,-96.3590,1
+El Tajin,Ancient City,20.4340,-97.3790,1
+Coba,Ancient City,20.4920,-87.7340,1
+Yaxchilan,Ancient City,16.9000,-90.9650,1
+Dos Pilas,Ancient City,16.4870,-90.1890,1
+Quirigua,Ceremonial Center,15.2690,-89.0400,1
+Lamanai,Ancient City,17.7520,-88.6540,1
+Ek Balam,Ancient City,21.1230,-88.1340,1
+Mayapan,Ancient Capital,20.6290,-89.4610,1
+Nabta Playa,Ceremonial Site,22.5100,30.7300,1
+Tassili n'Ajjer,Rock Art Site,25.5000,9.0000,1
+Dhar Tichitt,Settlement,18.4500,-9.1700,1
+Aoudaghost,Trading Center,17.0560,-6.9320,1
+Kumbi Saleh,Ancient Capital,15.7700,-11.9560,1
+Old Dongola,Ancient City,19.1700,30.4830,1
+Napata,Royal City,18.5330,31.8500,1
+Musawwarat es-Sufra,Religious Site,16.4080,33.2770,1
+Qasr Ibrim,Fortress,22.6500,32.0000,1
+Berenike,Port City,23.9160,35.4830,1
+Maiden Castle,Hillfort,50.6940,-2.4700,1
+Danebury,Hillfort,51.1460,-1.4830,1
+Traprain Law,Hillfort,55.9420,-2.6610,1
+Alesia,Fortified Settlement,47.5360,4.4900,1
+Bibracte,Oppidum,46.9230,4.0360,1
+Jebel Barkal,Religious Site,18.5370,31.8260,1
+Tell Brak,Ancient City,36.6720,41.0430,1
+Alalakh,Ancient City,36.2330,36.3930,1
+Ugarit,Port City,35.6020,35.7840,1
+Tarsus,Ancient City,36.9170,34.8920,1
+Tell Beydar,Ancient Settlement,36.6720,40.7420,1
+Chogha Zanbil,Ziggurat,32.0080,48.5210,1
+Anshan,Ancient City,29.6140,52.5390,1
+Tepe Sialk,Archaeological Site,33.9850,51.4370,1
+Shahr-e Sukhteh,Ancient City,30.6570,61.4040,1
+Jiroft,Ancient Settlement,28.6740,57.7380,1
+Tepe Hissar,Settlement Mound,36.4150,54.6730,1
+Godin Tepe,Settlement Mound,34.3680,47.4930,1
+Hasanlu,Fortified Settlement,37.0000,45.4450,1
+Tepe Yahya,Settlement,29.0010,56.7560,1
+Xanthos,Ancient City,36.3570,29.3180,1
+Patara,Port City,36.2650,29.3170,1
+Myra,Ancient City,36.2420,29.9850,1
+Termessos,Mountain City,37.0010,30.4730,1
+Sagalassos,Ancient City,37.6760,30.5170,1
+Aphrodisias,Ancient City,37.7090,28.7230,1
+Labraunda,Sanctuary,37.4060,27.8240,1
+Arykanda,Ancient City,36.5230,29.9300,1
+Kaunos,Port City,36.8340,28.6250,1
+Assos,Ancient City,39.4880,26.3370,1
+Selinunte,Ancient City,37.5830,12.8330,1
+Agrigento,Ancient City,37.2900,13.5850,1
+Syracuse,Ancient City,37.0750,15.2860,1
+Gela,Ancient City,37.0670,14.2500,1
+Taras,Ancient City,40.4750,17.2330,1
+Cumae,Ancient Colony,40.8470,14.0540,1
+Paestum,Ancient City,40.4210,15.0050,1
+Metapontum,Ancient City,40.3970,16.7990,1
+Locri Epizephyrii,Ancient City,38.2390,16.2670,1
+Himera,Ancient City,37.9990,13.9520,1
+Aventicum,Roman City,46.8800,7.0400,1
+Nemausus,Roman City,43.8370,4.3600,1
+Arelate,Roman City,43.6760,4.6270,1
+Lugdunum,Roman City,45.7600,4.8350,1
+Mediolanum,Roman City,45.4640,9.1900,1
+Verulamium,Roman City,51.7520,-0.3390,1
+Caerleon,Roman Fortress,51.6110,-2.9540,1
+Trimontium,Roman Fort,55.6000,-2.7160,1
+Durocortorum,Roman City,49.2580,4.0310,1
+Viminacium,Roman City,44.7360,21.2210,1
+Sisupalgarh,Fortified City,20.2370,85.8340,1
+Shravasti,Ancient City,27.5050,82.0520,1
+Kanchipuram,Ancient City,12.8340,79.7030,1
+Madurai,Ancient City,9.9250,78.1190,1
+Poompuhar,Port City,11.1380,79.8520,1
+Amaravati,Buddhist Site,16.5720,80.3570,1
+Thanjavur,Ancient Capital,10.7870,79.1380,1
+Badami,Ancient Capital,15.9150,75.6840,1
+Aihole,Temple Complex,16.0170,75.8820,1
+Pattadakal,Temple Complex,15.9480,75.8150,1
+Beng Mealea,Temple Complex,13.4110,104.2260,1
+Koh Ker,Ancient Capital,13.7830,104.5430,1
+Phimai,Temple Complex,15.2210,102.4940,1
+Muang Tam,Temple Complex,14.5400,102.9930,1
+Wat Phu Champasak,Temple Complex,14.8480,105.8170,1
+Chiang Saen,Ancient City,20.2700,100.0820,1
+Sukhothai,Ancient Capital,17.0170,99.7040,1
+Si Satchanalai,Ancient City,17.5220,99.7930,1
+Hariphunchai,Ancient City,18.5800,99.0080,1
+Wiang Kum Kam,Ancient City,18.7440,98.9830,1
+Ban Chiang,Settlement,17.4080,103.2350,1
+Non Nok Tha,Settlement,16.8500,102.7000,1
+Go Co Noi,Settlement,15.8560,108.1570,1
+Khu Bua,Ancient City,13.5420,99.8450,1
+Nakhon Pathom,Ancient City,13.8190,100.0620,1
+U Thong,Ancient City,14.3660,99.8920,1
+Yarang,Ancient City,6.7520,101.3090,1
+Bujang Valley,Archaeological Site,5.6720,100.4210,1
+Sungai Batu,Archaeological Site,5.6890,100.4370,1
+Kota Gelanggi,Ancient Settlement,3.6660,102.5330,1
+Chan Chan,Ancient City,-8.1110,-79.0720,1
+Kuelap,Fortress,-6.4200,-77.9180,1
+Cerro Baul,Fortified Site,-17.1110,-70.8590,1
+Wari,Ancient City,-13.1630,-74.2230,1
+Pachacamac,Ceremonial Center,-12.2550,-76.8960,1
+Caral,Ancient City,-10.8920,-77.5200,1
+Sechin Bajo,Ceremonial Site,-9.4540,-78.3060,1
+El Paraiso,Temple Complex,-11.9660,-77.1010,1
+Cahuachi,Ceremonial Center,-14.8250,-75.1300,1
+Sipan,Royal Tomb, -6.7670,-79.6070,1
+El Mirador,Ancient City,17.7560,-89.9020,1
+Nakbe,Ancient City,17.5730,-89.9340,1
+San Bartolo,Ceremonial Site,17.5510,-89.4350,1
+Aguateca,Ancient City,16.4740,-90.1100,1
+Ceibal,Ancient City,16.5260,-90.1900,1
+Yaxha,Ancient City,17.0740,-89.4030,1
+Naranjo,Ancient City,17.1290,-89.2860,1
+Piedras Negras,Ancient City,16.9160,-91.2660,1
+Becan,Ancient City,18.5180,-89.4630,1
+Edzna,Ancient City,19.5960,-90.2300,1
+Snaketown,Settlement,33.1010,-111.9250,1
+Wupatki,Pueblo Settlement,35.5240,-111.3710,1
+Aztec Ruins,Pueblo Complex,36.8360,-107.9990,1
+Bandelier,Settlement,35.7790,-106.2800,1
+Paquime,Ancient City,30.3670,-107.9500,1
+Tell Leilan,Ancient City,36.8500,41.8900,1
+Nuzi,Ancient City,35.4670,43.2330,1
+Tell Mozan,Ancient City,36.6960,41.0140,1
+Urkesh,Ancient Capital,36.6960,41.0140,1
+Kar-Tukulti-Ninurta,Royal City,35.5500,43.2500,1
+Til Barsip,Ancient City,36.8270,38.0120,1
+Zincirli,Fortified City,36.6820,36.8180,1
+Carchemish,Ancient City,36.8290,38.0150,1
+Tell Halaf,Ancient Settlement,36.8320,40.7450,1
+Qatna,Royal City,34.8400,36.7300,1
+Hacilar,Neolithic Settlement,37.5760,30.0970,1
+Aşıklı Höyük,Neolithic Settlement,38.4050,34.2380,1
+Boncuklu Höyük,Neolithic Settlement,37.8200,32.4200,1
+Alaca Höyük,Ancient Settlement,40.1680,34.6620,1
+Kültepe,Trading Colony,38.8500,35.5500,1
+Arinna,Religious Center,40.0320,34.6140,1
+Sapinuwa,Ancient Capital,40.8160,34.2000,1
+Tlos,Ancient City,36.5410,29.4200,1
+Olympos,Ancient City,36.3940,30.4730,1
+Phaselis,Port City,36.5240,30.5520,1
+Messene,Ancient City,37.1780,21.9290,1
+Mantinea,Ancient City,37.6160,22.4000,1
+Epidaurus,Sanctuary,37.5960,23.0750,1
+Nemea,Sanctuary,37.8170,22.7160,1
+Aegina,Island City,37.7460,23.4290,1
+Abdera,Ancient City,40.9660,24.9660,1
+Amphipolis,Ancient City,40.8210,23.8470,1
+Pella,Ancient Capital,40.7580,22.5240,1
+Vergina,Royal Necropolis,40.4860,22.3180,1
+Dion,Religious Center,40.1710,22.4870,1
+Conimbriga,Roman City,40.0990,-8.4980,1
+Italica,Roman City,37.4380,-6.0430,1
+Baelo Claudia,Roman City,36.0880,-5.7740,1
+Numantia,Fortified Settlement,41.8040,-2.4770,1
+Clunia,Roman Colony,41.8140,-3.4600,1
+Bracara Augusta,Roman City,41.5450,-8.4260,1
+Asturica Augusta,Roman City,42.4580,-6.0530,1
+Segobriga,Roman City,39.8860,-2.8120,1
+Ammaia,Roman City,39.3120,-7.3810,1
+Complutum,Roman City,40.4810,-3.3640,1
+Arikamedu,Port City,11.9130,79.8340,1
+Keezhadi,Settlement,9.8630,78.1950,1
+Kodumanal,Industrial Settlement,11.1620,77.8870,1
+Adichanallur,Burial Site,8.7040,77.8670,1
+Dwaraka,Ancient Port,22.2440,68.9680,1
+Bhimbetka,Rock Shelter,22.9390,77.6120,1
+Lumbini,Sacred Site,27.4840,83.2760,1
+Kapilavastu,Ancient City,27.5330,83.0500,1
+Sarnath,Religious Site,25.3810,83.0210,1
+Kushinagar,Sacred Site,26.7400,83.8880,1
+Mrauk U,Ancient Capital,20.5840,93.2290,1
+Halin,Ancient City,22.4700,95.6800,1
+Maingmaw,Ancient City,21.7700,95.3300,1
+Waddhamana,Ancient Site,22.0800,95.5000,1
+Banteay Chhmar,Temple Complex,13.8030,102.9880,1
+Roluos,Ancient Capital,13.3590,103.9050,1
+Ta Prohm,Temple Complex,13.4340,103.8890,1
+Preah Khan,Temple Complex,13.4700,103.8760,1
+Bakong,Temple Mountain,13.3570,103.8970,1
+Baphuon,Temple Mountain,13.4430,103.8580,1
+Nyaunggan,Bronze Age Cemetery,21.2160,95.1830,1
+Samrong Sen,Settlement,12.0300,104.3850,1
+Ban Non Wat,Settlement,15.2180,102.1450,1
+Noen U-Loke,Settlement,14.9320,102.1950,1
+Khao Sam Kaeo,Port Settlement,10.6150,99.2110,1
+Batujaya,Temple Complex,-6.0800,107.1500,1
+Candi Muara Takus,Temple Complex,0.3360,100.6420,1
+Candi Plaosan,Temple Complex,-7.7420,110.5090,1
+Candi Sewu,Temple Complex,-7.7430,110.4930,1
+Gunung Padang,Megalithic Site,-6.9930,107.0550,1
+Pumapunku,Ceremonial Site,-16.5600,-68.6790,1
+Iskanwaya,Ancient City,-15.1810,-68.7640,1
+Marcahuamachuco,Fortified Complex,-7.8130,-78.0620,1
+Kuélap South Sector,Fortress,-6.4200,-77.9180,1
+Túcume,Ceremonial Complex,-6.5080,-79.8570,1
+Batán Grande,Ceremonial Center,-6.4300,-79.7350,1
+Pikillacta South Zone,Urban Sector,-13.5830,-71.7220,1
+Cerro Sechin,Ceremonial Site,-9.4420,-78.3100,1
+Aspero,Coastal Settlement,-10.8900,-77.5650,1
+Vichama,Ceremonial Site,-11.1090,-77.6130,1
+Kaminaljuyu,Ancient City,14.6340,-90.5350,1
+Izapa,Ceremonial Center,14.9210,-92.1850,1
+Takalik Abaj,Ancient City,14.6290,-91.7330,1
+La Venta,Ceremonial Center,18.1000,-94.0500,1
+San Lorenzo,Ancient City,18.1330,-94.7670,1
+Tres Zapotes,Ancient City,18.4680,-95.4330,1
+Cantona,Fortified City,19.5590,-97.4450,1
+Xochicalco,Ceremonial Center,18.8050,-99.2990,1
+Tula,Ancient Capital,20.0510,-99.3430,1
+Tzintzuntzan,Ancient Capital,19.6200,-101.6400,1
+Moundville,Ceremonial Center,32.9970,-87.6310,1
+Etowah,Ceremonial Center,34.1250,-84.7990,1
+Spiro,Ceremonial Center,35.2410,-94.6200,1
+Kincaid Mounds,Ceremonial Site,37.1700,-88.9400,1
+Parkin,Fortified Village,35.2670,-90.5610,1
+Tell es-Sultan,Ancient Settlement,31.8680,35.4440,1
+Ain Ghazal,Neolithic Settlement,31.9900,35.9500,1
+Beidha,Neolithic Village,30.3760,35.4400,1
+Basta,Neolithic Settlement,30.2440,35.5230,1
+Tell Abu Hureyra,Settlement Mound,35.8600,38.3800,1
+Tell Aswad,Ancient Settlement,33.4500,36.4500,1
+Tell Qarassa,Settlement,32.8090,36.2670,1
+Jerf el Ahmar,Settlement,36.7510,38.1250,1
+Çayönü,Neolithic Settlement,38.2240,39.7210,1
+Nevali Çori,Neolithic Settlement,37.5830,38.6330,1
+Tell Arpachiyah,Ancient Settlement,36.4440,43.1820,1
+Hamoukar,Ancient City,36.7940,41.0130,1
+Tell al-Rimah,Ancient City,35.8790,42.6110,1
+Tell Chuera,Ancient City,36.7300,39.2500,1
+Tell Beydar North,Settlement,36.6800,40.7500,1
+Emar,Ancient City,35.1500,38.6330,1
+Terqa,Ancient City,34.9500,40.5830,1
+Tell Mishrifeh,Ancient City,34.8400,36.7300,1
+Tilmen Höyük,Ancient Settlement,36.9500,37.0500,1
+Tell Kabri,Palatial Center,33.0160,35.1490,1
+Mallos,Ancient City,36.7890,35.9700,1
+Soli Pompeiopolis,Ancient City,36.7670,34.5500,1
+Anemurium,Port City,36.0760,32.8100,1
+Perge,Ancient City,36.9610,30.8520,1
+Aspendos,Ancient City,36.9390,31.1720,1
+Side,Port City,36.7670,31.3880,1
+Laodicea on Lycus,Ancient City,37.8360,29.1060,1
+Hierapolis,Thermal City,37.9250,29.1220,1
+Aizanoi,Ancient City,39.1930,29.6170,1
+Smyrna,Ancient City,38.4190,27.1280,1
+Naxos,Sacred Island,37.1030,25.3760,1
+Paros,Island Settlement,37.0840,25.1500,1
+Thera,Ancient Settlement,36.4040,25.3960,1
+Akrotiri,Bronze Age Town,36.3490,25.4030,1
+Lefkandi,Ancient Settlement,38.4000,23.8000,1
+Tiryns,Citadel,37.5980,22.8050,1
+Pylos,Palace Complex,36.9130,21.6960,1
+Gla,Fortified Settlement,38.4680,23.0900,1
+Ialysos,Ancient City,36.4200,28.1550,1
+Lindos,Ancient City,36.0910,28.0870,1
+Aquincum,Roman City,47.5610,19.0460,1
+Singidunum,Roman City,44.8170,20.4670,1
+Sirmium,Roman City,44.9670,19.6100,1
+Naissus,Roman City,43.3200,21.8950,1
+Philipopolis,Roman City,42.1350,24.7450,1
+Tomis,Roman Port,44.1730,28.6380,1
+Apulum,Roman City,46.0700,23.5800,1
+Porolissum,Roman Frontier City,47.1800,23.0600,1
+Ulpia Traiana Sarmizegetusa,Roman Colony,45.5150,22.7870,1
+Noricum Virunum,Roman City,46.6230,14.3050,1
+Sarmizegetusa Regia,Mountain Capital,45.6210,23.3050,1
+Costesti Fortress,Fortress,45.7050,23.1540,1
+Blidaru Fortress,Fortress,45.6940,23.1950,1
+Piatra Rosia Fortress,Fortress,45.7140,23.2120,1
+Capidava,Fortified Settlement,44.5590,28.1800,1
+Argedava,Ancient Settlement,44.3240,26.1040,1
+Buridava,Ancient Settlement,45.1010,24.3580,1
+Cumidava,Fortified Settlement,45.6500,25.3500,1
+Piroboridava,Ancient Settlement,46.5660,26.9160,1
+Zargidava,Settlement,46.8500,27.7300,1
+Sisupalgarh West Sector,Urban Area,20.2300,85.8350,1
+Eran,Ancient City,24.0980,78.3850,1
+Vidisha,Ancient City,23.5260,77.8090,1
+Kaushambi Citadel,Citadel,25.3380,81.3950,1
+Mathura,Ancient City,27.4920,77.6730,1
+Ahichhatra,Ancient City,28.3820,79.4160,1
+Atranjikhera,Settlement,27.6760,78.4470,1
+Chandraketugarh,Port Settlement,22.7000,88.7000,1
+Mahasthangarh,Fortified City,24.9610,89.3420,1
+Mainamati,Religious Complex,23.4600,91.1000,1
+Wat Mahathat Sukhothai,Temple Complex,17.0160,99.7050,1
+Wat Si Chum,Temple Complex,17.0210,99.7010,1
+Mueang Fa Daet,Ancient City,16.5460,103.6220,1
+Kok Phanom Di,Settlement,13.3500,101.0830,1
+Wat Phra Phai Luang,Temple Complex,17.0190,99.6990,1
+Phu Phra Bat,Megalithic Site,17.7400,102.4700,1
+Ban Kao,Settlement,13.9790,99.5350,1
+Khao Wong Prachan Valley,Metallurgical Site,14.9500,100.6500,1
+Tha Kae,Ancient Settlement,14.8200,100.6500,1
+Dong Son,Settlement,21.6440,105.2200,1
+Quelepa,Ceremonial Center,13.4100,-88.1200,1
+Los Naranjos,Ancient Settlement,14.9200,-88.0400,1
+Tazumal,Ceremonial Center,13.9870,-89.6740,1
+Joya de Cerén,Ancient Village,13.8270,-89.3620,1
+Cerros,Ancient City,18.3500,-88.0330,1
+Altun Ha,Ancient City,17.7620,-88.6540,1
+Cahal Pech,Ancient City,17.1580,-89.0690,1
+Xunantunich,Ancient City,17.0890,-89.1420,1
+El Pilar,Ancient City,17.1270,-89.1570,1
+Nim Li Punit,Ceremonial Center,16.3170,-88.7500,1
+Tolokwa,Village Site,35.4950,-118.5890,1
+Keet Seel,Cliff Dwelling,36.7800,-110.5300,1
+Betatakin,Cliff Dwelling,36.6760,-110.5400,1
+Salmon Ruins,Great House,36.8260,-108.0000,1
+Chetro Ketl,Great House,36.0600,-107.9550,1
+Pueblo Bonito,Great House,36.0605,-107.9620,1
+Kin Kletso,Great House,36.0100,-107.9600,1
+Casa Rinconada,Ceremonial Site,36.0610,-107.9660,1
+Lowry Ruin,Pueblo Complex,37.5850,-108.9910,1
+Hovenweep,Fortified Settlement,37.3830,-109.0820,1
+Lepenski Vir,Settlement,44.5500,22.0200,1
+Vinča Belo Brdo,Settlement,44.7550,20.6010,1
+Tărtăria,Settlement,45.9000,23.4160,1
+Karanovo,Settlement Mound,42.6160,25.8000,1
+Durankulak,Settlement,43.7000,28.5660,1
+Provadia-Solnitsata,Fortified Settlement,43.1830,27.4330,1
+Varna Necropolis,Necropolis,43.2140,27.9140,1
+Cucuteni,Settlement,47.2830,26.9330,1
+Maidanetske,Mega-Settlement,48.8660,30.7830,1
+Talianki,Mega-Settlement,48.8160,30.7000,1
+Los Millares,Fortified Settlement,36.9950,-2.5410,1
+Zambujal,Fortified Settlement,39.2990,-9.2600,1
+Castro de Santa Trega,Hillfort,41.8810,-8.8730,1
+Numancia Upper Citadel,Citadel,41.8040,-2.4770,1
+Monte Bernorio,Hillfort,42.7920,-4.4220,1
+Ullastret,Fortified Settlement,42.0000,3.0700,1
+Puente Tablas,Oppidum,37.8000,-3.7830,1
+Cástulo,Ancient City,38.0160,-3.6330,1
+Cerro de las Cabezas,Fortified Settlement,38.7830,-3.3830,1
+La Bastida,Fortified Settlement,37.6160,-1.7830,1
+Heuneburg,Hillfort,48.0830,9.4330,1
+Manching,Oppidum,48.7160,11.5000,1
+Titelberg,Oppidum,49.5460,5.9000,1
+Bourges Avaricum,Ancient City,47.0830,2.4000,1
+Corent,Oppidum,45.6700,3.1800,1
+Gergovia,Oppidum,45.7200,3.1400,1
+Entremont,Oppidum,43.5290,5.4410,1
+Mont Beuvray,Oppidum,46.9230,4.0360,1
+Tarodunum,Fortified Settlement,48.0170,7.8000,1
+Otzenhausen,Ring Fort,49.6330,7.0000,1
+Takht-e Soleyman,Religious Complex,36.6050,47.2360,1
+Firuzabad,Ancient City,28.8430,52.5700,1
+Bishapur,Ancient City,29.7780,51.5730,1
+Darabgird,Ancient City,28.7510,54.5440,1
+Nisa,Royal Capital,37.9490,58.2080,1
+Hecatompylos,Ancient City,36.3000,55.0000,1
+Old Merv,City Oasis,37.6670,62.1830,1
+Nush-i Jan,Fortified Site,35.6760,48.6340,1
+Tepe Nushijan,Religious Center,35.6760,48.6340,1
+Qaleh Yazdgird,Fortified Complex,34.5360,46.2700,1
+Aorneyxokwe,Settlement,-19.2500,23.7500,1
+Tsodilo Hills,Rock Art Site,-18.7670,21.7500,1
+Nqoma,Settlement,-18.9000,22.7500,1
+Mosega,Settlement,-24.4000,25.5000,1
+Bosutswe,Hilltop Settlement,-22.4500,26.1500,1
+Schroda,Settlement,-22.1500,29.9500,1
+K2 Settlement,Settlement,-22.2000,29.9500,1
+Lydenburg Site,Settlement,-25.5000,30.2500,1
+Thulamela,Fortified Settlement,-22.4300,31.2200,1
+Bambandyanalo,Settlement,-22.1900,29.2500,1
+Aksum Stelae Field,Monument Complex,14.1320,38.7210,1
+Yeha,Religious Site,14.2780,39.0420,1
+Matara,Ancient City,14.3750,39.4750,1
+Qohaito,Ancient City,14.8370,39.3770,1
+Adulis,Port City,15.2670,39.4500,1
+Wadi Jarf,Port Site,28.8860,32.6920,1
+Serabit el-Khadim,Mining Site,29.0330,33.4180,1
+Timna Valley,Mining Site,29.7860,34.9890,1
+Kuntillet Ajrud,Fortified Waystation,30.8830,34.5000,1
+Tel Arad,Fortified Settlement,31.2580,35.1330,1
+Beth Shean,Ancient City,32.4970,35.5000,1
+Lachish,Fortified City,31.5640,34.8390,1
+Gezer,Ancient City,31.8570,34.9170,1
+Tel Dan,Ancient City,33.2480,35.6530,1
+Samaria,Ancient Capital,32.2760,35.1880,1
+Shiloh,Religious Site,32.0540,35.2890,1
+Arad Citadel,Citadel,31.2580,35.1330,1
+Beersheba,Ancient Settlement,31.2520,34.7910,1
+Ashkelon,Port City,31.6690,34.5710,1
+Ekron,Ancient City,31.8580,34.8300,1
+Meroitic Royal Baths,Bath Complex,16.9370,33.7430,1
+Nuri,Necropolis,18.2660,31.8830,1
+El Kurru,Necropolis,18.3660,31.8500,1
+Sai Island,Settlement,20.7160,30.3330,1
+Amara West,Ancient City,20.8000,30.3500,1
+Faras,Religious Center,21.2160,30.7330,1
+Sedeinga,Necropolis,20.5830,30.3500,1
+Tumbus,Settlement,20.9660,30.4330,1
+Sesebi,Temple Town,21.9500,31.5830,1
+Kawa,Temple Complex,19.0160,30.4660,1
+Marib,Ancient Capital,15.4620,45.3250,1
+Sirwah,Ancient City,15.4330,45.0170,1
+Shabwa,Ancient City,15.3830,47.0170,1
+Timna Yemen,Ancient Capital,14.5500,44.4330,1
+Baraqish,Fortified City,16.0330,44.6500,1
+Najran Ancient City,Oasis Settlement,17.4920,44.1270,1
+Qaryat al-Faw,Ancient City,20.2800,45.1200,1
+Dedan,Ancient Oasis City,26.6160,37.9160,1
+Hegra,Rock-Cut City,26.8000,37.9500,1
+Tayma,Oasis Settlement,27.6160,38.5500,1
+Pohnpei Stone Quarries,Industrial Site,6.8400,158.3000,1
+Likinlam,Settlement,6.9000,158.2500,1
+Menka,Settlement,7.3500,151.7500,1
+Tofol Ruins,Settlement,5.3160,163.0000,1
+Talietumu Fortress,Fortress,-13.3160,-176.1830,1
+Mu'a,Royal Center,-21.1330,-175.0670,1
+Ha'amonga 'a Maui,Monument,-21.1550,-175.0680,1
+Taputapuatea Marae,Ritual Site,-16.8330,-151.3670,1
+Ahu Tongariki,Ceremonial Site,-27.1250,-109.2760,1
+Ahu Akivi,Ceremonial Site,-27.1020,-109.3960,1
+Khirbet al-Mafjar,Palace Complex,31.8710,35.4580,1
+Qasr Amra,Desert Castle,31.8010,36.5830,1
+Qasr al-Kharana,Fortified Structure,31.8000,36.3660,1
+Qasr al-Hayr al-Gharbi,Fortified Settlement,34.5670,38.0830,1
+Qasr al-Hayr al-Sharqi,Fortified Settlement,34.3330,39.2670,1
+Anjar,Planned City,33.7280,35.9300,1
+Resafa,Fortified City,35.6290,39.0280,1
+Bosra Citadel,Citadel,32.5160,36.4820,1
+Apamea,Ancient City,35.4130,36.3960,1
+Dibsi Faraj,Fortified Settlement,35.8920,38.1500,1
+Tell Tuna el-Gebel,Necropolis,27.7810,30.7320,1
+Antinoopolis,Ancient City,27.8130,30.8790,1
+Coptos,Ancient City,25.9140,32.8110,1
+El Kab,Ancient City,25.1370,32.7840,1
+Qift Temple Precinct,Religious Site,25.9140,32.8110,1
+Zawyet el-Aryan,Pyramid Complex,29.9330,31.1500,1
+Meidum,Pyramid Complex,29.3910,31.1570,1
+Hawara,Pyramid Complex,29.2650,30.9050,1
+Lahun,Settlement,29.2390,30.9700,1
+Tell Basta,Ancient City,30.5690,31.5070,1
+Tell el-Farkha,Settlement Mound,30.9330,31.8500,1
+Nekhen,Ceremonial Center,25.0840,32.7890,1
+Tell Ibrahim Awad,Settlement,30.9330,31.6830,1
+Kom el-Hisn,Ancient Settlement,30.7830,30.7170,1
+Mendes,Ancient City,30.9670,31.5170,1
+Canopus,Port City,31.3180,30.0800,1
+Heracleion,Submerged City,31.3360,30.1200,1
+Pelusium,Fortified City,31.0400,32.5500,1
+Tanis Royal Necropolis,Necropolis,30.9640,31.8140,1
+Tell el-Retaba,Fortified Settlement,30.5800,32.1700,1
+Tell Ahmar,Ancient Settlement,36.8230,38.0170,1
+Arslan Tash,Fortified City,36.8500,40.2000,1
+Malatya Arslantepe Palace,Palace Complex,38.3500,38.3560,1
+Tell Tayinat,Ancient City,36.2280,36.2310,1
+Kummanni,Religious Center,37.5830,36.9330,1
+Alacahöyük Royal Tombs,Necropolis,40.1680,34.6620,1
+Şarhöyük,Ancient City,39.7760,30.5190,1
+Midas City,Rock Monument Complex,39.1340,31.5850,1
+Gavurkale,Religious Site,39.3550,32.5410,1
+Yassıhöyük,Ancient City,39.6480,31.9940,1
+Abaiang Stone Structures,Ceremonial Site,1.9000,173.0000,1
+Nan Madol Central District,Ceremonial Complex,6.8420,158.3320,1
+Menka Harbor Site,Port Settlement,7.3500,151.7500,1
+Pohnpei Royal Enclosure,Fortified Compound,6.9000,158.2500,1
+Kosrae Stone Canals,Canal System,5.3200,163.0200,1
+Lelu Harbor District,Port City,5.3290,163.0220,1
+Fachau,Settlement,7.4670,151.8500,1
+Pekin Islet Complex,Ceremonial Site,6.9000,158.3000,1
+Wene Settlement,Settlement,7.4500,151.8500,1
+Malem Ceremonial Area,Ritual Site,5.3000,163.0000,1
+Ahu Nau Nau,Ceremonial Site,-27.1190,-109.2800,1
+Ahu Te Pito Kura,Ceremonial Site,-27.0830,-109.2870,1
+Ahu Vinapu,Ceremonial Site,-27.1830,-109.4330,1
+Rano Raraku,Quarry,-27.1230,-109.2830,1
+Rano Kau,Ritual Landscape,-27.1830,-109.4330,1
+Anakena,Settlement,-27.0730,-109.3230,1
+Ahu Huri a Urenga,Ceremonial Site,-27.1160,-109.3660,1
+Te Peu,Settlement,-27.1830,-109.5500,1
+Vaihu Platform,Ceremonial Site,-27.1830,-109.4830,1
+Tongariki Quarry Zone,Industrial Site,-27.1250,-109.2760,1
+Nanih Waiya,Ceremonial Mound,32.8000,-89.3330,1
+Winterville Mounds,Ceremonial Center,33.5080,-91.0550,1
+Bottle Creek,Ceremonial Center,30.8670,-87.9170,1
+Town Creek,Ceremonial Center,35.4490,-80.1910,1
+Kolomoki,Ceremonial Center,31.5220,-84.9830,1
+Crystal River,Ceremonial Center,28.8960,-82.6140,1
+Pinson Mounds,Ceremonial Site,35.4900,-88.7400,1
+Marksville Earthworks,Ceremonial Site,31.1280,-92.0650,1
+Hopewell Mound Group,Ceremonial Center,39.3150,-82.9870,1
+Newark Earthworks,Earthwork Complex,40.0580,-82.4430,1
+Seip Earthworks,Ceremonial Site,39.2300,-83.0830,1
+Mound City,Ceremonial Center,39.3760,-82.9850,1
+Fort Ancient Hilltop Enclosure,Enclosure,39.4020,-84.0940,1
+Serpent Mound,Effigy Mound,39.0270,-83.4300,1
+Cahokia Woodhenge,Astronomical Site,38.6560,-90.0620,1
+Emerald Mound,Ceremonial Site,38.6650,-90.0550,1
+Toltec Mounds,Ceremonial Center,34.7840,-92.1370,1
+Parkin Temple Mound,Ceremonial Site,35.2670,-90.5610,1
+Anna Mounds,Ceremonial Center,37.4530,-89.2200,1
+Angel Mounds,Ceremonial Center,37.9380,-87.5260,1
+Nokalakevi,Ancient City,42.2730,42.1700,1
+Vani,Ancient City,42.0850,42.5220,1
+Armaztsikhe,Fortified Settlement,41.8420,44.7210,1
+Dmanisi,Ancient Settlement,41.3310,44.3420,1
+Dedoplis Gora,Hillfort,41.4450,45.1640,1
+Sarkel,Fortress,47.7030,42.2410,1
+Balanjar,Ancient City,43.5830,46.6500,1
+Semender,Ancient City,43.1000,47.5000,1
+Atil,Capital City,47.1000,47.4500,1
+Belendzher,Fortified Settlement,43.5000,46.6000,1
+Kishkintenkiz,Ancient Settlement,43.1500,68.2500,1
+Otrar,Ancient City,42.8500,68.3000,1
+Sauran,Fortified City,43.5150,67.7700,1
+Taraz,Ancient City,42.9000,71.3670,1
+Kulan,Ancient City,42.9170,72.7330,1
+Balasagun,Ancient Capital,42.7460,74.6010,1
+Ak-Beshim,Ancient City,42.8200,74.6500,1
+Suyab,Ancient City,42.8200,74.6500,1
+Navekat,Ancient City,42.8900,74.9800,1
+Krasnaya Rechka,Settlement,42.8800,74.9800,1
+Afrasiab,Ancient City,39.6610,66.9770,1
+Panjikent,Ancient City,39.4950,67.6090,1
+Kampyr Tepe,Fortified Settlement,37.2220,67.2810,1
+Dalverzin Tepe,Ancient City,37.0880,66.8630,1
+Khalchayan,Royal Site,38.1000,67.0830,1
+Airtam,Religious Site,37.2220,67.2810,1
+Toprak Kala,Ancient City,41.9280,60.8220,1
+Ayaz Kala,Fortress,41.8380,61.1080,1
+Koy Krylgan Kala,Fortified Settlement,41.7500,61.1330,1
+Janbas Kala,Fortress,41.6500,61.0330,1
+Nyaunggan Cemetery,Burial Site,21.2170,95.1840,1
+Halin Wall Complex,Fortified City,22.4700,95.6800,1
+Binnaka,Ancient City,22.3000,95.5500,1
+Sri Deva,Ancient City,19.4330,95.2170,1
+Ksetra North Sector,Urban District,18.8110,95.2930,1
+Winka,Ancient Settlement,21.8500,95.2000,1
+Peikthanomyo Citadel,Citadel,18.5720,95.2170,1
+Moegyo,Ancient Settlement,19.8000,95.0000,1
+Mongmao,Ancient City,24.1000,97.5670,1
+Keng Tung,Ancient City,21.2830,99.6170,1
+Oc Eo North Sector,Port District,10.2550,105.2470,1
+Angkor Borei,Ancient City,10.9670,104.9500,1
+Vyadhapura,Ancient Capital,11.0000,104.8000,1
+Go Thap,Ceremonial Center,10.5670,105.4670,1
+Tra Kieu,Ancient City,15.8500,108.1170,1
+Dong Duong,Religious Complex,15.7830,108.2000,1
+Po Nagar,Temple Complex,12.2650,109.1960,1
+Po Klong Garai,Temple Complex,11.5670,108.9980,1
+Cha Ban,Ancient Capital,13.7670,109.2330,1
+My Son Valley Core,Religious Center,15.7720,108.1240,1
+Rujm el-Hiri,Megalithic Monument,32.9080,35.7920,1
+Tel Megiddo Lower City,Urban District,32.5840,35.1820,1
+Tel Be'er Sheva,Ancient Settlement,31.2520,34.7910,1
+Tel Hazor Acropolis,Citadel,33.0170,35.5680,1
+Tel Lachish Palace District,Palace Complex,31.5640,34.8390,1
+Tel Kabri Palace,Palace Complex,33.0160,35.1490,1
+Tel Dor,Port City,32.6170,34.9170,1
+Tel Kedesh,Fortified Settlement,33.1120,35.5710,1
+Achzib,Port Settlement,33.0470,35.1030,1
+Tel Keisan,Settlement Mound,32.7070,35.0780,1
+Monte d'Accoddi,Monument Complex,40.7600,8.4600,1
+Nuraghe Santu Antine,Tower Complex,40.4420,8.6740,1
+Su Nuraxi,Fortified Settlement,39.7050,8.9990,1
+Nuraghe Losa,Tower Complex,40.0200,8.8100,1
+Palmavera,Fortified Settlement,40.5890,8.3040,1
+Tharros,Ancient City,39.8780,8.4390,1
+Nora,Port City,38.9890,9.0120,1
+Motya,Island Settlement,37.8670,12.4670,1
+Sulcis,Ancient City,39.1670,8.5170,1
+Monte Sirai,Settlement,39.1670,8.5170,1
+Huaca del Sol,Ceremonial Center,-8.1310,-79.0270,1
+Huaca de la Luna,Ceremonial Center,-8.1290,-79.0310,1
+El Brujo,Ceremonial Complex,-7.9160,-79.2930,1
+Pampa Grande,Ancient City,-6.9500,-79.8000,1
+Galindo,Fortified Settlement,-8.0830,-79.0830,1
+Farfan,Administrative Center,-7.2330,-79.4670,1
+Chotuna,Ceremonial Complex,-6.7170,-79.8830,1
+Pacatnamu,Fortified City,-7.7160,-79.4330,1
+Paramonga Fortress,Fortress,-10.6800,-77.8190,1
+Tambo Colorado,Administrative Center,-13.7430,-76.2190,1
+Raqchi,Temple Complex,-14.1840,-71.3430,1
+Ingapirca,Fortified Temple,-2.5410,-78.8700,1
+Tumebamba,Ancient City,-2.8970,-79.0040,1
+Hatun Xauxa,Administrative Center,-11.7750,-75.5000,1
+Vilcashuaman,Ceremonial Center,-13.6530,-73.9540,1
+Tambo Viejo,Administrative Site,-17.4980,-70.1860,1
+Pumpu,Administrative Center,-10.7700,-76.2500,1
+Huanuco Viejo,Ceremonial Center,-9.8200,-76.8150,1
+Ollagüe Caravan Station,Trade Site,-21.3000,-68.2500,1
+Pukara de Quitor,Fortress,-22.9270,-68.2110,1
+Spina,Port City,44.6500,12.2500,1
+Veii,Ancient City,42.0330,12.4000,1
+Tarquinia,Necropolis,42.2540,11.7560,1
+Cerveteri,Necropolis,42.0060,12.0930,1
+Volterra,Ancient City,43.4020,10.8610,1
+Populonia,Port City,42.9950,10.4940,1
+Roselle,Ancient City,42.8500,11.1330,1
+Marzabotto,Planned City,44.3410,11.2040,1
+Chiusi,Ancient City,43.0160,11.9500,1
+Felsina,Ancient City,44.4940,11.3420,1
+Orvieto,Ancient City,42.7180,12.1110,1
+Perugia,Ancient City,43.1120,12.3880,1
+Vetulonia,Ancient City,42.8500,10.9830,1
+Vulci,Ancient City,42.4200,11.6250,1
+Pyrgi,Port City,42.0400,11.9300,1
+Arezzo,Ancient City,43.4630,11.8790,1
+Orraon,Fortified Settlement,39.0580,20.8570,1
+Dodona,Sanctuary,39.5460,20.7870,1
+Cassope,Ancient City,39.1300,20.7200,1
+Phoenice,Ancient City,39.9060,20.0120,1
+Butrint,Ancient City,39.7450,20.0200,1
+Amantia,Ancient City,40.4300,19.7400,1
+Byllis,Ancient City,40.5400,19.7400,1
+Lissus,Ancient City,41.7830,19.6440,1
+Shkodra,Ancient City,42.0680,19.5120,1
+Daorson,Fortified City,43.1210,17.9090,1
+Risan,Ancient City,42.5150,18.6950,1
+Meteon,Fortified Settlement,42.3210,19.3020,1
+Dimale,Fortified City,40.6200,19.8200,1
+Selca e Poshtme,Royal Tomb Site,41.0250,20.5960,1
+Gamzigrad,Palace Complex,43.8900,22.1900,1
+Felix Romuliana,Royal Complex,43.8900,22.1900,1
+Doclea,Ancient City,42.4710,19.2670,1
+Stobi,Ancient City,41.5500,21.9750,1
+Heraclea Lyncestis,Ancient City,41.0200,21.3400,1
+Nicopolis ad Istrum,Ancient City,43.2160,25.5660,1
+Marcianopolis,Ancient City,43.2160,27.9160,1
+Deultum,Roman Colony,42.4980,27.2730,1
+Abritus,Fortified City,43.5330,26.5160,1
+Pautalia,Ancient City,42.2830,22.6830,1
+Seuthopolis,Ancient Capital,42.6160,25.4000,1
+Perperikon,Sacred City,41.7330,25.4660,1
+Tatul,Religious Site,41.5830,25.3830,1
+Helis,Ancient Capital,44.5660,28.4500,1
+Sveshtari Tomb,Necropolis,43.7160,26.7660,1
+Sboryanovo,Archaeological Reserve,43.7500,26.7500,1
+Kabyle,Ancient City,42.5330,26.5330,1
+Pistiros,Trading Post,42.1000,24.6500,1
+Bizye,Ancient City,41.7330,27.2160,1
+Zaldapa,Fortified City,43.8500,27.4500,1
+Susa Acropolis,Acropolis,32.1940,48.2570,1
+Haft Tepe,Royal Center,32.0500,48.5000,1
+Jubaji,Tomb Complex,31.7500,48.6000,1
+Choga Mish,Settlement,32.2450,48.5410,1
+Tal-i Malyan,Ancient City,29.9800,52.8700,1
+Tepe Giyan,Settlement Mound,34.3500,47.9500,1
+Tepe Nush-e Jan,Fortified Site,35.6760,48.6340,1
+Baba Jan,Settlement,33.7830,47.5000,1
+Qaleh Kali,Settlement,30.1000,51.9000,1
+Tol-e Ajori,Monument Complex,29.9400,52.9000,1
+Begash,Settlement,43.2000,78.0000,1
+Botai,Settlement,53.2500,69.1500,1
+Arkaim,Fortified Settlement,52.6330,59.5660,1
+Sintashta,Fortified Settlement,52.4830,60.9500,1
+Ustie Settlement,Settlement,53.1000,59.0000,1
+Toksanbay,Settlement,44.1000,54.1000,1
+Chirik-Rabat,Fortified City,44.2500,63.5500,1
+Babish-Mola,Settlement,44.1000,63.4000,1
+Shirik-Rabat Citadel,Citadel,44.2500,63.5500,1
+Besshatyr,Necropolis,43.9170,78.3500,1
+Taxila Sirkap,Ancient City,33.7440,72.8360,1
+Taxila Bhir Mound,Settlement,33.7440,72.8360,1
+Takht-i-Bahi,Monastic Complex,34.3210,71.9390,1
+Butkara Stupa,Religious Site,34.7760,72.3600,1
+Jamal Garhi,Monastic Complex,34.1200,71.9200,1
+Sahri Bahlol,Ancient City,34.1100,71.9400,1
+Ranigat,Religious Complex,34.6500,72.1000,1
+Mohra Muradu,Monastic Complex,33.7160,72.8500,1
+Bhamala Stupa,Religious Site,34.1500,72.8000,1
+Julian Monastery,Monastic Complex,33.7330,72.8500,1
+Nan Madol North Sector,Ceremonial Complex,6.8430,158.3340,1
+Nan Madol South Sector,Ceremonial Complex,6.8400,158.3300,1
+Nandauwas Islet,Royal Compound,6.8420,158.3320,1
+Idehd Islet,Ceremonial Site,6.8410,158.3310,1
+Pahnwi Islet,Settlement,6.8430,158.3330,1
+Nan Douwas Tombs,Necropolis,6.8420,158.3320,1
+Leluh Royal District,Administrative Center,5.3290,163.0220,1
+Malem Harbor,Port Settlement,5.3000,163.0000,1
+Utwe Settlement,Coastal Village,5.2750,162.9750,1
+Insaru Ruins,Stone Settlement,5.3200,163.0300,1
+Pueblo Alto,Great House,36.0680,-107.9570,1
+Una Vida,Great House,36.0590,-107.9500,1
+Kin Ya'a,Great House,35.8280,-108.0060,1
+Aztec West Ruin,Great House,36.8360,-107.9990,1
+Kin Bineola,Great House,36.0180,-108.0500,1
+Hungo Pavi,Great House,36.0780,-107.9500,1
+Wijiji,Great House,36.0700,-107.9300,1
+Pueblo del Arroyo,Great House,36.0640,-107.9550,1
+Peñasco Blanco,Great House,36.0940,-107.9970,1
+Kin Kletso North Sector,Residential Complex,36.0110,-107.9600,1
+Tell Qaramel,Neolithic Settlement,36.4580,37.0900,1
+Mureybet,Settlement,35.0500,38.3000,1
+Dja'de al-Mughara,Settlement,36.7500,38.0500,1
+Tell Halula,Settlement,36.6330,38.1670,1
+Akarçay Tepe,Settlement,36.7000,38.0000,1
+Göbekli Tepe Enclosure D,Ritual Site,37.2230,38.9220,1
+Karahan Tepe,Ritual Site,37.2080,39.2700,1
+Harbetsuvan Tepe,Ritual Site,37.1700,39.0500,1
+Sefer Tepe,Ritual Site,37.2200,39.1500,1
+Hamzan Tepe,Settlement,37.1600,38.9000,1
+Tell Madhhur,Ancient Settlement,34.2000,44.9000,1
+Tell Uqair,Ancient City,32.6330,44.7500,1
+Tell Harmal,Ancient City,33.3330,44.4670,1
+Mashkan-shapir,Ancient City,31.8500,46.0000,1
+Akkad,Ancient City,33.1000,44.1000,1
+Agade,Ancient Capital,33.1000,44.1000,1
+Tell Agrab,Settlement,33.3500,44.9500,1
+Tell Asmar,Ancient City,33.3830,44.7830,1
+Tell Khaiber,Fortified Settlement,31.2330,46.1670,1
+Tell Jokha,Ancient City,31.3830,45.6330,1
+Myrmekion,Ancient City,45.3550,36.4740,1
+Panticapaeum,Ancient City,45.3500,36.4670,1
+Olbia Pontica,Port City,46.6200,31.5410,1
+Chersonesus,Ancient City,44.6100,33.4890,1
+Tanais,Ancient City,47.2660,39.3330,1
+Phanagoria,Ancient City,45.1050,36.9560,1
+Nymphaion,Ancient City,45.0490,35.2990,1
+Hermonassa,Ancient City,45.2170,36.7170,1
+Kerkinitis,Port Settlement,45.2000,33.3500,1
+Tyritake,Ancient City,45.3530,36.5100,1
+Augusta Raurica,Roman City,47.5330,7.7200,1
+Arausio,Roman City,44.1380,4.8070,1
+Forum Julii,Roman City,43.4330,6.7350,1
+Vindonissa,Roman Legionary Camp,47.4750,8.2120,1
+Aventicum Forum,Civic Center,46.8800,7.0400,1
+Nijmegen Roman Town,Ancient City,51.8470,5.8630,1
+Colonia Ulpia Traiana,Roman City,51.6600,6.4500,1
+Mogontiacum,Roman City,50.0000,8.2710,1
+Castra Regina,Roman Fortress,49.0170,12.0960,1
+Lauriacum,Roman City,48.2130,14.4760,1
+Anuradhapura Citadel,Citadel,8.3110,80.4040,1
+Abhayagiri Monastery,Monastic Complex,8.3530,80.3970,1
+Jetavanaramaya,Religious Monument,8.3500,80.3980,1
+Thuparamaya,Religious Site,8.3520,80.3960,1
+Ritigala,Monastic Complex,8.0660,80.6500,1
+Yapahuwa,Fortress,7.8220,80.3020,1
+Sigiriya Water Gardens,Garden Complex,7.9570,80.7600,1
+Nalanda Gedige,Temple,7.6700,80.7100,1
+Medirigiriya Vatadage,Religious Site,7.9000,80.8800,1
+Minneriya Settlement,Ancient Settlement,8.0330,80.8830,1
+Berenice Troglodytica,Port City,23.9160,35.4830,1
+Ptolemais Hermiou,Ancient City,26.5660,31.7500,1
+Naukratis,Port City,30.9000,30.6330,1
+Alexandria Royal Quarter,Urban District,31.2000,29.9000,1
+Taposiris Magna,Temple Complex,30.8060,29.5040,1
+Karanis,Ancient Town,29.9000,30.8830,1
+Tebtunis,Ancient Town,29.3830,30.6500,1
+Bacchias,Settlement,29.6500,30.8330,1
+Narmouthis,Ancient Town,29.2500,30.6830,1
+Philadelphia Fayum,Settlement,29.5500,30.8500,1
+Lixus,Ancient City,35.2000,-6.1500,1
+Chellah,Ancient City,34.0200,-6.8220,1
+Banasa,Ancient City,34.2500,-6.5830,1
+Tamuda,Ancient City,35.5750,-5.3500,1
+Volubilis South Quarter,Urban District,34.0730,-5.5550,1
+Tipasa,Ancient City,36.5920,2.4480,1
+Cuicul,Ancient City,36.3200,5.7360,1
+Tiddis,Fortified Settlement,36.3830,6.6170,1
+Thugga Capitol Sector,Civic Center,36.4230,9.2190,1
+Bulla Regia,Ancient City,36.5610,8.7540,1
+Monte Alban North Platform,Ceremonial Site,17.0430,-96.7670,1
+Lambityeco,Ancient City,16.9580,-96.5070,1
+Dainzu,Ceremonial Center,17.0670,-96.6330,1
+Yagul,Fortified Settlement,16.9580,-96.4720,1
+Zaachila,Ancient Capital,16.9500,-96.7500,1
+Guiengola,Fortified City,16.5200,-95.3700,1
+La Quemada,Fortified Settlement,22.5330,-102.5830,1
+Paquime Ceremonial Core,Ceremonial Center,30.3670,-107.9500,1
+Las Ventanas Cave Settlement,Cave Settlement,30.4500,-108.0000,1
+Alta Vista,Ceremonial Center,23.4670,-103.8170,1
+Cerro de Trincheras,Hill Settlement,30.3670,-111.5330,1
+Guachimontones,Ceremonial Center,20.6830,-103.8330,1
+Teuchitlan Core,Ancient Settlement,20.6830,-103.8330,1
+Ixtepete,Ceremonial Site,20.6500,-103.4330,1
+El Grillo,Ancient Settlement,20.7200,-103.3500,1
+Tingambato,Ceremonial Center,19.5000,-101.8500,1
+Peralta,Ancient City,20.6160,-101.2500,1
+Plazuelas,Ceremonial Site,20.5670,-101.2000,1
+El Opeño,Burial Site,19.9170,-102.2830,1
+Capacha,Ancient Settlement,19.2500,-103.7170,1
+Sanghol,Ancient Settlement,30.5500,76.3830,1
+Rupnagar,Ancient Settlement,30.9660,76.5330,1
+Kotla Nihang Khan,Ancient Settlement,30.9670,76.5000,1
+Bara,Ancient Settlement,30.9000,76.4500,1
+Dher Majra,Ancient Settlement,30.7800,76.4700,1
+Mandi Faizgarh,Ancient Settlement,30.3500,74.2500,1
+Hasanpur,Ancient Settlement,30.4800,75.0500,1
+Chak 86,Ancient Settlement,30.7500,73.9000,1
+Bagrian,Ancient Settlement,30.2000,75.2500,1
+Ballowal,Ancient Settlement,31.0500,76.0000,1
+Harappa Mound AB,Ancient City,30.6300,72.8770,1
+Harappa Mound E,Industrial Area,30.6320,72.8790,1
+Harappa Cemetery R37,Necropolis,30.6290,72.8750,1
+Harappa Granary District,Industrial Complex,30.6310,72.8780,1
+Harappa Citadel,Citadel,30.6305,72.8775,1
+Jalilpur,Ancient Settlement,30.9200,71.8500,1
+Rangpur Punjab,Ancient Settlement,30.7000,72.2000,1
+Mallah,Ancient Settlement,30.8200,71.9200,1
+Jhok Sarkari,Ancient Settlement,30.5600,72.3500,1
+Cholistan Fringe Site A,Ancient Settlement,29.9500,72.8000,1
+Ganweriwala North Sector,Ancient City,28.5000,70.4500,1
+Ganweriwala South Sector,Urban District,28.4900,70.4450,1
+Marot Mound,Ancient Settlement,29.2000,71.8000,1
+Derawar Vicinity Site 1,Ancient Settlement,28.7700,71.3300,1
+Derawar Vicinity Site 2,Ancient Settlement,28.7600,71.3400,1
+Cholistan Site 29,Ancient Settlement,28.9000,71.6000,1
+Cholistan Site 34,Ancient Settlement,28.9500,71.7000,1
+Cholistan Site 61,Ancient Settlement,29.0500,71.8500,1
+Hakra Site East,Ancient Settlement,28.8500,71.6500,1
+Hakra Site West,Ancient Settlement,28.8200,71.6100,1
+Sakala,Ancient Capital,32.5000,74.5330,1
+Sialkot Fort Core,Fortified Settlement,32.4970,74.5360,1
+Sialkot Acropolis,Acropolis,32.4980,74.5350,1
+Eminabad,Ancient Settlement,32.0420,74.2590,1
+Shahkot Mound,Ancient Settlement,31.5700,73.4900,1
+Kamoke Mound,Ancient Settlement,31.9760,74.2230,1
+Wazirabad Ancient Core,Ancient Settlement,32.4430,74.1210,1
+Gujranwala Mound,Ancient Settlement,32.1580,74.1880,1
+Pind Dadan Khan Site,Ancient Settlement,32.5860,73.0490,1
+Bhera Ancient Core,Ancient City,32.4830,72.9170,1
+Taxila Hathial,Settlement Mound,33.7420,72.8460,1
+Taxila Sirkap East Quarter,Urban District,33.7440,72.8380,1
+Taxila Sirsukh,Fortified City,33.7470,72.8500,1
+Dharmarajika Stupa,Religious Site,33.7370,72.8500,1
+Jaulian Monastery,Monastic Complex,33.7550,72.8900,1
+Mohra Moradu,Monastic Complex,33.7160,72.8500,1
+Bhamala Complex,Religious Site,33.9000,72.8000,1
+Jinnan Wali Dheri,Settlement,33.7200,72.8300,1
+Giri Fort Complex,Fortress,33.7000,72.9000,1
+Kunala Stupa,Religious Site,33.7600,72.8800,1
+Tulamba,Ancient City,30.5260,72.2390,1
+Multan Citadel,Fortified City,30.1970,71.4690,1
+Multan Sun Temple Site,Religious Site,30.1980,71.4700,1
+Uch Ancient Core,Ancient Settlement,29.2390,71.0580,1
+Kabirwala Mound,Ancient Settlement,30.4060,71.8620,1
+Shorkot Mound,Ancient City,30.4990,72.3990,1
+Kot Adu Ancient Site,Ancient Settlement,30.4700,70.9670,1
+Jhang Mound,Ancient Settlement,31.2680,72.3310,1
+Chiniot Ancient Core,Ancient Settlement,31.7190,72.9780,1
+Toba Tek Singh Site,Ancient Settlement,30.9710,72.4820,1
+Sarai Khola,Ancient Settlement,33.5000,72.8330,1
+Rehman Dheri East,Ancient Settlement,31.7330,70.3160,1
+Rehman Dheri West,Ancient Settlement,31.7300,70.3120,1
+Gumla Mound,Ancient Settlement,31.9500,70.8500,1
+Lewan,Industrial Site,32.0200,70.9200,1
+Tarakai Qila,Fortified Settlement,32.0300,70.8700,1
+Hathala,Ancient Settlement,33.1800,72.9500,1
+Jalilpur East,Settlement Mound,30.9250,71.8450,1
+Qila Sobha Singh Site,Ancient Settlement,32.4000,73.3500,1
+Lalian Ancient Core,Ancient Settlement,31.8250,72.8010,1
+Katas Raj Ancient Precinct,Religious Site,32.7250,72.9750,1
+Nandana Fort,Fortress,32.6530,72.8060,1
+Malot Fort,Fortress,32.7090,72.9110,1
+Kafirkot North,Temple Complex,32.4200,71.2500,1
+Kafirkot South,Temple Complex,32.3400,71.2700,1
+Amb Sharif,Temple Complex,33.7800,72.3400,1
+Barikot Punjab,Settlement,33.7500,72.3200,1
+Jhelum Ancient Core,Ancient Settlement,32.9340,73.7310,1
+Rasul Settlement,Ancient Settlement,32.7000,73.5000,1
+Mong Ancient Site,Ancient Settlement,32.6500,73.2000,1
+Sangla Hill Mound,Ancient Settlement,31.7160,73.3830,1
+Sheikhupura Ancient Core,Ancient Settlement,31.7130,73.9850,1
+Pattoki Mound,Ancient Settlement,31.0210,73.8470,1
+Kasur Ancient Core,Ancient Settlement,31.1160,74.4500,1
+Okara Settlement Mound,Ancient Settlement,30.8080,73.4450,1
+Pakpattan Ancient Core,Ancient Settlement,30.3410,73.3870,1
+Depalpur Mound,Ancient Settlement,30.6720,73.6530,1
+Mailsi Ancient Site,Ancient Settlement,29.8000,72.1830,1
+Bahawalnagar Mound,Ancient Settlement,29.9990,73.2520,1
+Fort Abbas Archaeological Site,Ancient Settlement,29.1910,72.8530,1
+Madra Frontier Site A,Ancient Settlement,31.9000,74.0500,1
+Madra Frontier Site B,Ancient Settlement,31.8500,74.1000,1
+Ravi Bend Settlement,Ancient Settlement,31.4000,74.0000,1
+Chenab Bend Settlement,Ancient Settlement,31.9000,73.9000,1
+Beas Corridor Site,Ancient Settlement,31.7000,75.0000,1
+Sutlej Corridor Site,Ancient Settlement,31.2000,75.2000,1
+Punjab Stupa Site A,Religious Site,30.6500,76.3500,1
+Punjab Stupa Site B,Religious Site,30.7500,76.2200,1
+Punjab Kushan Settlement,Ancient Settlement,30.7200,76.2800,1
+Punjab Gandharan Outpost,Fortified Settlement,31.0500,75.8500,1
