@@ -1,12 +1,76 @@
-#file imports
-import csv 
+# this script is the main entry point for the Places Explorer application. It provides a command-line interface for users to add, view, search, and analyze archaeological discoveries.
+
+# file imports
+import csv
 import os
+import importlib
+import math
 
-#.py imports internal to m branch
-from geo_utils import calculate_distance
-from ai_utils import find_nearest_sites, predict_civilization, prediction_confidence, find_clusters
+# Load optional project modules dynamically so the menu works even if a module is
+# not currently resolvable by the editor or is run outside the project directory.
+try:
+    calculate_distance = importlib.import_module("geo_utils").calculate_distance
+except (ImportError, AttributeError):
+    def calculate_distance(lat1, lon1, lat2, lon2):
+        lat1, lon1, lat2, lon2 = map(float, (lat1, lon1, lat2, lon2))
+        lat1, lon1, lat2, lon2 = map(math.radians, (lat1, lon1, lat2, lon2))
+        dlat = lat2 - lat1
+        dlon = lon2 - lon1
+        a = math.sin(dlat / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon / 2) ** 2
+        return 6371 * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
-#functions to load places from files
+try:
+    _ai_utils = importlib.import_module("ai_utils")
+    find_nearest_sites = _ai_utils.find_nearest_sites
+    predict_civilization = _ai_utils.predict_civilization
+    prediction_confidence = _ai_utils.prediction_confidence
+    find_clusters = _ai_utils.find_clusters
+except (ImportError, AttributeError):
+    def find_nearest_sites(latitude, longitude, places, limit=5):
+        nearby = []
+        for place in places:
+            distance = calculate_distance(latitude, longitude,
+                                          place["Latitude"], place["Longitude"])
+            nearby.append((place["Name of Location"], place["Civilization"], distance))
+        nearby.sort(key=lambda site: site[2])
+        return nearby[:limit]
+
+    def predict_civilization(nearby_sites):
+        if not nearby_sites:
+            return "Unknown"
+        civilizations = {}
+        for _, civilization, distance in nearby_sites:
+            weight = 1 / (distance + 1)
+            civilizations[civilization] = civilizations.get(civilization, 0) + weight
+        return max(civilizations, key=civilizations.get)
+
+    def prediction_confidence(nearby_sites):
+        if not nearby_sites:
+            return 0.0
+        civilization = predict_civilization(nearby_sites)
+        matching = sum(1 for _, site_civilization, _ in nearby_sites
+                       if site_civilization == civilization)
+        return (matching / len(nearby_sites)) * 100
+
+    def find_clusters(places, radius_km=50):
+        clusters = []
+        remaining = list(places)
+        while remaining:
+            location = remaining.pop(0)
+            nearby = []
+            kept = []
+            for place in remaining:
+                distance = calculate_distance(location["Latitude"], location["Longitude"],
+                                              place["Latitude"], place["Longitude"])
+                if distance <= radius_km:
+                    nearby.append(place["Name of Location"])
+                else:
+                    kept.append(place)
+            remaining = kept
+            clusters.append((location["Name of Location"], nearby))
+        return clusters
+
+# functions to load places from files
 def load_places():
     places = []
 
@@ -19,6 +83,7 @@ def load_places():
 
     return places
 
+# function to calculate similarity score between two places
 def calculate_similarity(place1, place2):
     score = 0
 
@@ -30,7 +95,7 @@ def calculate_similarity(place1, place2):
 
     return score
 
-#main program
+# main program displays menu and handles user input
 print ("Welcome to Places Explorer")
 print ("A. Add Discovery")
 print ("B. View Discovery")
@@ -42,6 +107,7 @@ print ("G. ID Site Clusters")
 
 choice = input ("Choose an option: ")
 
+# function choice A
 if choice.upper() == "A":
     name = input ("Name of Location: ")
     location_type = input ("Location Type: ")
@@ -61,6 +127,7 @@ if choice.upper() == "A":
 
     print ("\nLocation saved successfully")
 
+# function choice B
 elif choice.upper() == "B":
     if not os.path.isfile('places.csv'):
         print("\nNo discoveries recorded.")
@@ -78,6 +145,7 @@ elif choice.upper() == "B":
                 print(row["Civilization"])
                 print(row["Notes"])
 
+# function choice C
 elif choice.upper() == "C":
     if not os.path.isfile('places.csv'):
         print("\nNo discoveries recorded.")
@@ -101,6 +169,7 @@ elif choice.upper() == "C":
         if not found:
             print("\nTerm does not exist.")
 
+# function choice D
 elif choice.upper() == "D":
 
     if not os.path.isfile('places.csv'):
@@ -139,6 +208,7 @@ elif choice.upper() == "D":
         else:
             print("\nNo similar places found.")
 
+# function choice E
 elif choice.upper() == "E":
 
     if not os.path.isfile('places.csv'):
@@ -177,6 +247,7 @@ elif choice.upper() == "E":
             for name, distance in nearby_places:
                 print(f"{name} ({distance:.2f} km)")
 
+# function choice F
 elif choice.upper() == "F":
 
     latitude = input("Latitude: ")
@@ -205,6 +276,7 @@ elif choice.upper() == "F":
     print(type(confidence))
     print(f"Confidence: {confidence:.2f}%")
 
+# function choice G
 elif choice.upper() == "G":
 
     if not os.path.isfile('places.csv'):
