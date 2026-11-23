@@ -9,7 +9,7 @@ import math
 # Load optional project modules dynamically so the menu works even if a module is
 # not currently resolvable by the editor or is run outside the project directory.
 try:
-    calculate_distance = importlib.import_module("geo_utils").calculate_distance
+    calculate_distance = importlib.import_module("Initial Testing/geo_utils").calculate_distance
 except (ImportError, AttributeError):
     def calculate_distance(lat1, lon1, lat2, lon2):
         lat1, lon1, lat2, lon2 = map(float, (lat1, lon1, lat2, lon2))
@@ -20,7 +20,7 @@ except (ImportError, AttributeError):
         return 6371 * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 try:
-    _ai_utils = importlib.import_module("ai_utils")
+    _ai_utils = importlib.import_module("Initial Testing/ai_utils")
     find_nearest_sites = _ai_utils.find_nearest_sites
     predict_civilization = _ai_utils.predict_civilization
     prediction_confidence = _ai_utils.prediction_confidence
@@ -74,8 +74,8 @@ except (ImportError, AttributeError):
 def load_places():
     places = []
 
-    if os.path.isfile("places.csv"):
-        with open("places.csv", mode="r", encoding='utf-8') as file:
+    if os.path.isfile("Data/places.csv"):
+        with open("Data/places.csv", mode="r", encoding='utf-8') as file:
             reader = csv.DictReader(file)
 
             for row in reader:
@@ -102,7 +102,7 @@ print ("B. View Discovery")
 print ("C. Search Discovery")
 print ("D. Recommend Similar Places")
 print ("E. Find Nearby Places")
-print ("F. Archaeological Predictor")
+print ("F. Civilization Predictor")
 print ("G. ID Site Clusters")
 
 choice = input ("Choose an option: ")
@@ -116,9 +116,9 @@ if choice.upper() == "A":
     civilization = input ("Civilization: ")
     notes = input ("Notes: ")
 
-    file_exists = os.path.isfile('places.csv')
+    file_exists = os.path.isfile('Data/places.csv')
 
-    with open('places.csv', mode='a', encoding='utf-8') as file:
+    with open('Data/places.csv', mode='a', encoding='utf-8') as file:
         writer = csv.writer(file)
 
         if not file_exists:
@@ -129,12 +129,12 @@ if choice.upper() == "A":
 
 # function choice B
 elif choice.upper() == "B":
-    if not os.path.isfile('places.csv'):
+    if not os.path.isfile('Data/places.csv'):
         print("\nNo discoveries recorded.")
 
     else:
         print("\n>>> Discovery <<<")
-        with open('places.csv', mode='r', encoding='utf-8') as file:
+        with open('Data/places.csv', mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file) 
             for row in reader:
                 print("\n=== Discovery #{} ===".format(reader.line_num - 1))
@@ -147,16 +147,16 @@ elif choice.upper() == "B":
 
 # function choice C
 elif choice.upper() == "C":
-    if not os.path.isfile('places.csv'):
+    if not os.path.isfile('Data/places.csv'):
         print("\nNo discoveries recorded.")
 
     else:
         search_term = input ("\nSearch by term: ").strip().lower()
         found = False 
 
-        with open('places.csv', mode='r', encoding='utf-8') as file:
+        with open('Data/places.csv', mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
-            for row in reader:
+            for row in reader: 
                 if search_term in row["Name of Location"].strip().lower() or search_term in row["Location Type"].strip().lower():
                     found = True
                     print("\n=== Match Found ===")
@@ -172,7 +172,7 @@ elif choice.upper() == "C":
 # function choice D
 elif choice.upper() == "D":
 
-    if not os.path.isfile('places.csv'):
+    if not os.path.isfile('Data/places.csv'):
         print("\nNo discoveries recorded.")
 
     else:
@@ -211,7 +211,7 @@ elif choice.upper() == "D":
 # function choice E
 elif choice.upper() == "E":
 
-    if not os.path.isfile('places.csv'):
+    if not os.path.isfile('Data/places.csv'):
         print("\nNo discoveries recorded.")
 
     else:
@@ -279,7 +279,7 @@ elif choice.upper() == "F":
 # function choice G
 elif choice.upper() == "G":
 
-    if not os.path.isfile('places.csv'):
+    if not os.path.isfile('Data/places.csv'):
         print("\nNo discoveries recorded.")
 
     else:

@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 
-model = joblib.load("places_model.pkl")
+model = joblib.load("Models/places_model.pkl")
 
 print("Places Explorer ML Predictor")
 
